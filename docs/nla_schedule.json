@@ -1,0 +1,3152 @@
+{
+  "generated_at": "2026-10-06 01:48 UTC",
+  "season": "2026-2027",
+  "teams": {
+    "vmRgFvP6": {
+      "name": "Zurich",
+      "gp": 8,
+      "w": 7,
+      "wo": 1,
+      "lo": 0,
+      "l": 0,
+      "gf": 34,
+      "ga": 18,
+      "pts": 23,
+      "logo": "https://static.flashscore.com/res/image/data/Umuj3lWH-AN4Pq5Vd.png",
+      "gm": 6.4,
+      "prevSeason": {
+        "name": "Zurich",
+        "gp": 52,
+        "w": 25,
+        "wo": 4,
+        "lo": 8,
+        "l": 15,
+        "gf": 147,
+        "ga": 115,
+        "pts": 91,
+        "gm": 4.8
+      }
+    },
+    "46e8yYpl": {
+      "name": "Servette",
+      "gp": 10,
+      "w": 4,
+      "wo": 2,
+      "lo": 2,
+      "l": 2,
+      "gf": 30,
+      "ga": 27,
+      "pts": 18,
+      "logo": "https://static.flashscore.com/res/image/data/ATXGGxjT-2D7m1p90.png",
+      "gm": 5.3,
+      "prevSeason": {
+        "name": "Servette",
+        "gp": 52,
+        "w": 26,
+        "wo": 5,
+        "lo": 3,
+        "l": 18,
+        "gf": 162,
+        "ga": 147,
+        "pts": 91,
+        "gm": 5.8
+      }
+    },
+    "fT9GufNQ": {
+      "name": "Langnau Tigers",
+      "gp": 9,
+      "w": 4,
+      "wo": 1,
+      "lo": 1,
+      "l": 3,
+      "gf": 34,
+      "ga": 29,
+      "pts": 15,
+      "logo": "https://static.flashscore.com/res/image/data/I3jlIV7k-0fYk7ykB.png",
+      "gm": 6.8,
+      "prevSeason": {
+        "name": "Langnau Tigers",
+        "gp": 52,
+        "w": 16,
+        "wo": 4,
+        "lo": 8,
+        "l": 24,
+        "gf": 140,
+        "ga": 147,
+        "pts": 64,
+        "gm": 5.3
+      }
+    },
+    "4I5DJC07": {
+      "name": "Ambri-Piotta",
+      "gp": 9,
+      "w": 4,
+      "wo": 1,
+      "lo": 0,
+      "l": 4,
+      "gf": 25,
+      "ga": 30,
+      "pts": 14,
+      "logo": "https://static.flashscore.com/res/image/data/MP0vqsRq-fgHfl8dD.png",
+      "gm": 6.0,
+      "prevSeason": {
+        "name": "Ambri-Piotta",
+        "gp": 52,
+        "w": 14,
+        "wo": 6,
+        "lo": 5,
+        "l": 27,
+        "gf": 129,
+        "ga": 178,
+        "pts": 59,
+        "gm": 5.7
+      }
+    },
+    "pzDqNr2K": {
+      "name": "Ajoie",
+      "gp": 9,
+      "w": 2,
+      "wo": 3,
+      "lo": 2,
+      "l": 2,
+      "gf": 28,
+      "ga": 27,
+      "pts": 14,
+      "logo": "https://static.flashscore.com/res/image/data/x2bg8kUH-MZasK9YJ.png",
+      "gm": 5.6,
+      "prevSeason": {
+        "name": "Ajoie",
+        "gp": 52,
+        "w": 9,
+        "wo": 4,
+        "lo": 7,
+        "l": 32,
+        "gf": 105,
+        "ga": 180,
+        "pts": 42,
+        "gm": 5.3
+      }
+    },
+    "r94HIWFD": {
+      "name": "Fribourg",
+      "gp": 9,
+      "w": 3,
+      "wo": 2,
+      "lo": 1,
+      "l": 3,
+      "gf": 27,
+      "ga": 22,
+      "pts": 14,
+      "logo": "https://static.flashscore.com/res/image/data/OKqh4hlC-febm3RYp.png",
+      "gm": 5.1,
+      "prevSeason": {
+        "name": "Fribourg",
+        "gp": 52,
+        "w": 24,
+        "wo": 13,
+        "lo": 2,
+        "l": 13,
+        "gf": 172,
+        "ga": 126,
+        "pts": 100,
+        "gm": 5.4
+      }
+    },
+    "6yAC1NAl": {
+      "name": "Davos",
+      "gp": 9,
+      "w": 4,
+      "wo": 0,
+      "lo": 1,
+      "l": 4,
+      "gf": 24,
+      "ga": 24,
+      "pts": 13,
+      "logo": "https://static.flashscore.com/res/image/data/d6mb2yjC-0fYk7ykB.png",
+      "gm": 5.2,
+      "prevSeason": {
+        "name": "Davos",
+        "gp": 52,
+        "w": 34,
+        "wo": 5,
+        "lo": 5,
+        "l": 8,
+        "gf": 191,
+        "ga": 120,
+        "pts": 117,
+        "gm": 5.8
+      }
+    },
+    "0CAYHtul": {
+      "name": "Lausanne",
+      "gp": 9,
+      "w": 3,
+      "wo": 1,
+      "lo": 1,
+      "l": 4,
+      "gf": 28,
+      "ga": 32,
+      "pts": 12,
+      "logo": "https://static.flashscore.com/res/image/data/0tNBQIiT-lM5WCYUS.png",
+      "gm": 6.4,
+      "prevSeason": {
+        "name": "Lausanne",
+        "gp": 52,
+        "w": 22,
+        "wo": 7,
+        "lo": 5,
+        "l": 18,
+        "gf": 155,
+        "ga": 137,
+        "pts": 85,
+        "gm": 5.4
+      }
+    },
+    "dxdryEVs": {
+      "name": "Rapperswil-Jona",
+      "gp": 9,
+      "w": 2,
+      "wo": 2,
+      "lo": 1,
+      "l": 4,
+      "gf": 27,
+      "ga": 35,
+      "pts": 11,
+      "logo": "https://static.flashscore.com/res/image/data/A3MwwYA6-xKHJNAXR.png",
+      "gm": 6.6,
+      "prevSeason": {
+        "name": "Rapperswil-Jona",
+        "gp": 52,
+        "w": 21,
+        "wo": 6,
+        "lo": 6,
+        "l": 19,
+        "gf": 150,
+        "ga": 154,
+        "pts": 81,
+        "gm": 5.6
+      }
+    },
+    "tv5F5ho1": {
+      "name": "Zug",
+      "gp": 6,
+      "w": 3,
+      "wo": 0,
+      "lo": 1,
+      "l": 2,
+      "gf": 22,
+      "ga": 14,
+      "pts": 10,
+      "logo": "https://static.flashscore.com/res/image/data/zPdGO7ne-johEE0Ju.png",
+      "gm": 5.8,
+      "prevSeason": {
+        "name": "Zug",
+        "gp": 52,
+        "w": 20,
+        "wo": 3,
+        "lo": 9,
+        "l": 20,
+        "gf": 126,
+        "ga": 145,
+        "pts": 75,
+        "gm": 5.0
+      }
+    },
+    "ENTilh0f": {
+      "name": "Biel",
+      "gp": 8,
+      "w": 3,
+      "wo": 0,
+      "lo": 1,
+      "l": 4,
+      "gf": 27,
+      "ga": 28,
+      "pts": 10,
+      "logo": "https://static.flashscore.com/res/image/data/z5jHzA96-S0vTLM12.png",
+      "gm": 6.8,
+      "prevSeason": {
+        "name": "Biel",
+        "gp": 52,
+        "w": 14,
+        "wo": 10,
+        "lo": 5,
+        "l": 23,
+        "gf": 143,
+        "ga": 165,
+        "pts": 67,
+        "gm": 5.6
+      }
+    },
+    "OSn023er": {
+      "name": "Bern",
+      "gp": 7,
+      "w": 2,
+      "wo": 0,
+      "lo": 3,
+      "l": 2,
+      "gf": 21,
+      "ga": 23,
+      "pts": 9,
+      "logo": "https://static.flashscore.com/res/image/data/zkCXpbPq-voXg6e4H.png",
+      "gm": 5.9,
+      "prevSeason": {
+        "name": "Bern",
+        "gp": 52,
+        "w": 15,
+        "wo": 9,
+        "lo": 5,
+        "l": 23,
+        "gf": 118,
+        "ga": 128,
+        "pts": 68,
+        "gm": 4.5
+      }
+    },
+    "0UG7sGhE": {
+      "name": "Lugano",
+      "gp": 7,
+      "w": 2,
+      "wo": 1,
+      "lo": 0,
+      "l": 4,
+      "gf": 26,
+      "ga": 26,
+      "pts": 8,
+      "logo": "https://static.flashscore.com/res/image/data/I76fzQWH-Q7S6oCDh.png",
+      "gm": 7.3,
+      "prevSeason": {
+        "name": "Lugano",
+        "gp": 52,
+        "w": 26,
+        "wo": 2,
+        "lo": 7,
+        "l": 17,
+        "gf": 150,
+        "ga": 120,
+        "pts": 89,
+        "gm": 5.0
+      }
+    },
+    "C4KBtz8K": {
+      "name": "EHC Kloten",
+      "gp": 9,
+      "w": 1,
+      "wo": 1,
+      "lo": 1,
+      "l": 6,
+      "gf": 18,
+      "ga": 36,
+      "pts": 6,
+      "logo": "https://static.flashscore.com/res/image/data/bXL1XDlC-M9GH0q9K.png",
+      "gm": 5.8,
+      "prevSeason": {
+        "name": "EHC Kloten",
+        "gp": 52,
+        "w": 15,
+        "wo": 5,
+        "lo": 8,
+        "l": 24,
+        "gf": 117,
+        "ga": 143,
+        "pts": 63,
+        "gm": 4.8
+      }
+    }
+  },
+  "games": [
+    {
+      "id": "hSJoylff",
+      "date": "2026-09-15T17:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 3
+    },
+    {
+      "id": "bPMgZRO6",
+      "date": "2026-09-15T17:45Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "r94HIWFD",
+      "awayName": "Fribourg",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 2
+    },
+    {
+      "id": "WxL1X5gJ",
+      "date": "2026-09-15T17:45Z",
+      "home": "6yAC1NAl",
+      "homeName": "Davos",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 1
+    },
+    {
+      "id": "UR3Jkm9m",
+      "date": "2026-09-15T17:45Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "post",
+      "homeScore": 0,
+      "awayScore": 5
+    },
+    {
+      "id": "2u2RmRw0",
+      "date": "2026-09-15T17:45Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "post",
+      "homeScore": 6,
+      "awayScore": 3
+    },
+    {
+      "id": "bqDme9oQ",
+      "date": "2026-09-15T17:45Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 4
+    },
+    {
+      "id": "ld0Zo58C",
+      "date": "2026-09-15T17:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "OSn023er",
+      "awayName": "Bern",
+      "state": "post",
+      "homeScore": 5,
+      "awayScore": 3
+    },
+    {
+      "id": "feS6Tdho",
+      "date": "2026-09-18T17:45Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "post",
+      "homeScore": 6,
+      "awayScore": 3
+    },
+    {
+      "id": "nkFhi0ph",
+      "date": "2026-09-18T17:45Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "post",
+      "homeScore": 5,
+      "awayScore": 2
+    },
+    {
+      "id": "KzZFodET",
+      "date": "2026-09-18T17:45Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "post",
+      "homeScore": 5,
+      "awayScore": 2
+    },
+    {
+      "id": "fFI0kvF4",
+      "date": "2026-09-18T17:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 2
+    },
+    {
+      "id": "jJPotzxi",
+      "date": "2026-09-18T17:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "vmRgFvP6",
+      "awayName": "Zurich",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 4
+    },
+    {
+      "id": "nNz8mIqH",
+      "date": "2026-09-18T17:45Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 4
+    },
+    {
+      "id": "EeFstIic",
+      "date": "2026-09-19T17:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 3
+    },
+    {
+      "id": "n9DkvdM9",
+      "date": "2026-09-19T17:45Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 4
+    },
+    {
+      "id": "YPBcxziM",
+      "date": "2026-09-19T17:45Z",
+      "home": "6yAC1NAl",
+      "homeName": "Davos",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 6
+    },
+    {
+      "id": "xM0yViqd",
+      "date": "2026-09-19T17:45Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 1
+    },
+    {
+      "id": "482TWDEq",
+      "date": "2026-09-19T17:45Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "r94HIWFD",
+      "awayName": "Fribourg",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "id": "4ShNhey3",
+      "date": "2026-09-19T17:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "id": "APeVjZ5F",
+      "date": "2026-09-22T17:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "vmRgFvP6",
+      "awayName": "Zurich",
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 4
+    },
+    {
+      "id": "rwfwkDzS",
+      "date": "2026-09-22T17:45Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 4
+    },
+    {
+      "id": "IkutbjDr",
+      "date": "2026-09-22T17:45Z",
+      "home": "6yAC1NAl",
+      "homeName": "Davos",
+      "away": "r94HIWFD",
+      "awayName": "Fribourg",
+      "state": "post",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "id": "MolHsVS1",
+      "date": "2026-09-22T17:45Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "OSn023er",
+      "awayName": "Bern",
+      "state": "post",
+      "homeScore": 1,
+      "awayScore": 4
+    },
+    {
+      "id": "n7lA3CkL",
+      "date": "2026-09-22T17:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 5
+    },
+    {
+      "id": "Euy35YK8",
+      "date": "2026-09-22T17:45Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "id": "ELp9qibk",
+      "date": "2026-09-22T17:45Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 2
+    },
+    {
+      "id": "j3wldUse",
+      "date": "2026-09-24T18:00Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "ENTilh0f",
+      "awayName": "Biel",
+      "state": "post",
+      "homeScore": 0,
+      "awayScore": 6
+    },
+    {
+      "id": "bTtdf8C7",
+      "date": "2026-09-25T17:45Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "vmRgFvP6",
+      "awayName": "Zurich",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 6
+    },
+    {
+      "id": "O6YsIB4E",
+      "date": "2026-09-25T17:45Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 3
+    },
+    {
+      "id": "Aq2VeLmC",
+      "date": "2026-09-25T17:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "post",
+      "homeScore": 5,
+      "awayScore": 3
+    },
+    {
+      "id": "2JbNcsJa",
+      "date": "2026-09-25T17:45Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "id": "fgeFa3lm",
+      "date": "2026-09-25T17:45Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "r94HIWFD",
+      "awayName": "Fribourg",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 3
+    },
+    {
+      "id": "rc0wfaIO",
+      "date": "2026-09-26T17:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 5
+    },
+    {
+      "id": "CCzmE23t",
+      "date": "2026-09-26T17:45Z",
+      "home": "6yAC1NAl",
+      "homeName": "Davos",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 2
+    },
+    {
+      "id": "KxveCtYh",
+      "date": "2026-09-26T17:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 3
+    },
+    {
+      "id": "hjx3AK25",
+      "date": "2026-09-26T17:45Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 5
+    },
+    {
+      "id": "0GuB8bXH",
+      "date": "2026-09-26T17:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "id": "hOcI6x2U",
+      "date": "2026-09-27T12:00Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "post",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
+      "id": "8zYRQumn",
+      "date": "2026-09-29T17:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "id": "G0yzPJHb",
+      "date": "2026-09-29T17:45Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "post",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "id": "OQvrNcnB",
+      "date": "2026-09-29T17:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "OSn023er",
+      "awayName": "Bern",
+      "state": "post",
+      "homeScore": 5,
+      "awayScore": 2
+    },
+    {
+      "id": "YJG7wJWi",
+      "date": "2026-09-29T17:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 3
+    },
+    {
+      "id": "6DOLFFvo",
+      "date": "2026-09-29T17:45Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 5
+    },
+    {
+      "id": "dvwjLyHN",
+      "date": "2026-09-29T17:45Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "id": "6XEFyc14",
+      "date": "2026-09-29T17:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "ENTilh0f",
+      "awayName": "Biel",
+      "state": "post",
+      "homeScore": 6,
+      "awayScore": 3
+    },
+    {
+      "id": "EcINZzWG",
+      "date": "2026-09-30T17:45Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "post",
+      "homeScore": 6,
+      "awayScore": 5
+    },
+    {
+      "id": "KfLVXE0T",
+      "date": "2026-10-01T18:00Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "post",
+      "homeScore": 1,
+      "awayScore": 5
+    },
+    {
+      "id": "GQ61ShOj",
+      "date": "2026-10-02T17:45Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 3
+    },
+    {
+      "id": "rXbmjdGc",
+      "date": "2026-10-02T17:45Z",
+      "home": "6yAC1NAl",
+      "homeName": "Davos",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 1
+    },
+    {
+      "id": "jc2elzoA",
+      "date": "2026-10-02T17:45Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "r94HIWFD",
+      "awayName": "Fribourg",
+      "state": "post",
+      "homeScore": 1,
+      "awayScore": 4
+    },
+    {
+      "id": "MqPSVRUr",
+      "date": "2026-10-02T17:45Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "ENTilh0f",
+      "awayName": "Biel",
+      "state": "post",
+      "homeScore": 7,
+      "awayScore": 4
+    },
+    {
+      "id": "fBxzU5ae",
+      "date": "2026-10-02T17:45Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "post",
+      "homeScore": 5,
+      "awayScore": 2
+    },
+    {
+      "id": "2ytrSqU7",
+      "date": "2026-10-03T17:45Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 3,
+      "odds": {
+        "ml": {
+          "home": 1.9,
+          "away": 1.8,
+          "homeBest": 1.9,
+          "awayBest": 1.8,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 5.5,
+            "over": 1.86,
+            "under": 1.86,
+            "overBest": 1.86,
+            "underBest": 1.86,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "+1.5": {
+            "home": 1.31,
+            "away": 3.0,
+            "homeBest": 1.31,
+            "awayBest": 3.0,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-10-03T14:22:51Z"
+      }
+    },
+    {
+      "id": "fVSTkmME",
+      "date": "2026-10-03T17:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "post",
+      "homeScore": 1,
+      "awayScore": 2,
+      "odds": {
+        "ml": {
+          "home": 1.28,
+          "away": 3.5,
+          "homeBest": 1.28,
+          "awayBest": 3.5,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 5.5,
+            "over": 1.74,
+            "under": 2.0,
+            "overBest": 1.74,
+            "underBest": 2.0,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "-1.5": {
+            "home": 1.86,
+            "away": 1.86,
+            "homeBest": 1.86,
+            "awayBest": 1.86,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-10-03T14:23:02Z"
+      }
+    },
+    {
+      "id": "WAM7r5El",
+      "date": "2026-10-03T17:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "post",
+      "homeScore": 6,
+      "awayScore": 2,
+      "odds": {
+        "ml": {
+          "home": 1.45,
+          "away": 2.65,
+          "homeBest": 1.45,
+          "awayBest": 2.65,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 5.5,
+            "over": 1.8,
+            "under": 1.9,
+            "overBest": 1.8,
+            "underBest": 1.9,
+            "books": 1
+          },
+          {
+            "line": 6.5,
+            "over": 2.1,
+            "under": 1.66,
+            "overBest": 2.1,
+            "underBest": 1.66,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "-1.5": {
+            "home": 2.35,
+            "away": 1.58,
+            "homeBest": 2.35,
+            "awayBest": 1.58,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-10-03T14:23:12Z"
+      }
+    },
+    {
+      "id": "2eWylRjR",
+      "date": "2026-10-03T17:45Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "OSn023er",
+      "awayName": "Bern",
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 3,
+      "odds": {
+        "ml": {
+          "home": 1.86,
+          "away": 1.86,
+          "homeBest": 1.86,
+          "awayBest": 1.86,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 5.5,
+            "over": 1.74,
+            "under": 2.0,
+            "overBest": 1.74,
+            "underBest": 2.0,
+            "books": 1
+          },
+          {
+            "line": 6.5,
+            "over": 2.0,
+            "under": 1.74,
+            "overBest": 2.0,
+            "underBest": 1.74,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "+1.5": {
+            "home": 1.28,
+            "away": 3.1,
+            "homeBest": 1.28,
+            "awayBest": 3.1,
+            "books": 1
+          },
+          "-1.5": {
+            "home": 3.1,
+            "away": 1.28,
+            "homeBest": 3.1,
+            "awayBest": 1.28,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-10-03T14:23:22Z"
+      }
+    },
+    {
+      "id": "4OKFtqq1",
+      "date": "2026-10-03T17:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 2,
+      "odds": {
+        "ml": {
+          "home": 1.28,
+          "away": 3.5,
+          "homeBest": 1.28,
+          "awayBest": 3.5,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 5.5,
+            "over": 1.8,
+            "under": 1.9,
+            "overBest": 1.8,
+            "underBest": 1.9,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "-1.5": {
+            "home": 1.9,
+            "away": 1.83,
+            "homeBest": 1.9,
+            "awayBest": 1.83,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-10-03T14:23:31Z"
+      }
+    },
+    {
+      "id": "ClONvNDD",
+      "date": "2026-10-04T12:00Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "post",
+      "homeScore": 5,
+      "awayScore": 4,
+      "odds": {
+        "ml": {
+          "home": 2.2,
+          "away": 1.62,
+          "homeBest": 2.2,
+          "awayBest": 1.62,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 5.5,
+            "over": 1.74,
+            "under": 2.0,
+            "overBest": 1.74,
+            "underBest": 2.0,
+            "books": 1
+          },
+          {
+            "line": 6.5,
+            "over": 2.1,
+            "under": 1.66,
+            "overBest": 2.1,
+            "underBest": 1.66,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "+1.5": {
+            "home": 1.43,
+            "away": 2.65,
+            "homeBest": 1.43,
+            "awayBest": 2.65,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-10-04T07:14:41Z"
+      }
+    },
+    {
+      "id": "veG92Q5K",
+      "date": "2026-10-04T12:00Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 1,
+      "odds": {
+        "ml": {
+          "home": 1.66,
+          "away": 2.1,
+          "homeBest": 1.66,
+          "awayBest": 2.1,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 5.5,
+            "over": 1.9,
+            "under": 1.8,
+            "overBest": 1.9,
+            "underBest": 1.8,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "-1.5": {
+            "home": 2.75,
+            "away": 1.38,
+            "homeBest": 2.75,
+            "awayBest": 1.38,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-10-04T07:14:51Z"
+      }
+    },
+    {
+      "id": "zR1uc4Ts",
+      "date": "2026-10-07T17:45Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": 5.5,
+      "odds": {
+        "ml": {
+          "home": 1.72,
+          "away": 2.07,
+          "homeBest": 1.74,
+          "awayBest": 2.14,
+          "books": 5
+        },
+        "ou": [
+          {
+            "line": 2.5,
+            "over": 1.015,
+            "under": 11.0,
+            "overBest": 1.02,
+            "underBest": 11.0,
+            "books": 2
+          },
+          {
+            "line": 3.5,
+            "over": 1.15,
+            "under": 4.75,
+            "overBest": 1.17,
+            "underBest": 4.8,
+            "books": 3
+          },
+          {
+            "line": 4.5,
+            "over": 1.29,
+            "under": 3.3,
+            "overBest": 1.3,
+            "underBest": 3.35,
+            "books": 3
+          },
+          {
+            "line": 5.5,
+            "over": 1.855,
+            "under": 1.885,
+            "overBest": 1.9,
+            "underBest": 1.95,
+            "books": 4
+          },
+          {
+            "line": 6.5,
+            "over": 2.3,
+            "under": 1.57,
+            "overBest": 2.4,
+            "underBest": 1.65,
+            "books": 3
+          },
+          {
+            "line": 7.5,
+            "over": 3.9,
+            "under": 1.22,
+            "overBest": 4.3,
+            "underBest": 1.25,
+            "books": 3
+          },
+          {
+            "line": 8.5,
+            "over": 5.375,
+            "under": 1.125,
+            "overBest": 6.0,
+            "underBest": 1.15,
+            "books": 2
+          },
+          {
+            "line": 9.5,
+            "over": 9.5,
+            "under": 1.035,
+            "overBest": 11.0,
+            "underBest": 1.05,
+            "books": 2
+          }
+        ],
+        "pl": {
+          "+1.5": {
+            "home": 1.26,
+            "away": 3.5,
+            "homeBest": 1.27,
+            "awayBest": 3.5,
+            "books": 2
+          },
+          "-1.5": {
+            "home": 2.8,
+            "away": 1.4,
+            "homeBest": 2.9,
+            "awayBest": 1.45,
+            "books": 3
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "BetMGM.us",
+          "Betr",
+          "DraftKings",
+          "Fanatics",
+          "bet365.us"
+        ],
+        "at": "2026-10-06T01:48:24Z"
+      }
+    },
+    {
+      "id": "Ms0merbf",
+      "date": "2026-10-08T18:00Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": 5.5,
+      "odds": {
+        "ml": {
+          "home": 1.25,
+          "away": 3.62,
+          "homeBest": 1.29,
+          "awayBest": 4.0,
+          "books": 4
+        },
+        "ou": [
+          {
+            "line": 2.5,
+            "over": 1.02,
+            "under": 11.0,
+            "overBest": 1.02,
+            "underBest": 11.0,
+            "books": 1
+          },
+          {
+            "line": 3.5,
+            "over": 1.14,
+            "under": 5.0,
+            "overBest": 1.14,
+            "underBest": 5.0,
+            "books": 2
+          },
+          {
+            "line": 4.5,
+            "over": 1.29,
+            "under": 3.3,
+            "overBest": 1.3,
+            "underBest": 3.3,
+            "books": 2
+          },
+          {
+            "line": 5.5,
+            "over": 1.86,
+            "under": 1.9,
+            "overBest": 1.9,
+            "underBest": 1.95,
+            "books": 3
+          },
+          {
+            "line": 6.5,
+            "over": 2.325,
+            "under": 1.55,
+            "overBest": 2.45,
+            "underBest": 1.6,
+            "books": 2
+          },
+          {
+            "line": 7.5,
+            "over": 3.9,
+            "under": 1.22,
+            "overBest": 4.3,
+            "underBest": 1.25,
+            "books": 2
+          },
+          {
+            "line": 8.5,
+            "over": 5.5,
+            "under": 1.115,
+            "overBest": 6.0,
+            "underBest": 1.14,
+            "books": 2
+          },
+          {
+            "line": 9.5,
+            "over": 9.5,
+            "under": 1.03,
+            "overBest": 11.0,
+            "underBest": 1.05,
+            "books": 2
+          }
+        ],
+        "pl": {
+          "+1.5": {
+            "home": 1.075,
+            "away": 7.0,
+            "homeBest": 1.08,
+            "awayBest": 7.0,
+            "books": 2
+          },
+          "-1.5": {
+            "home": 1.74,
+            "away": 2.05,
+            "homeBest": 1.74,
+            "awayBest": 2.14,
+            "books": 3
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Betr",
+          "DraftKings",
+          "Fanatics",
+          "bet365.us"
+        ],
+        "at": "2026-10-06T01:48:28Z"
+      }
+    },
+    {
+      "id": "U73egMS6",
+      "date": "2026-10-09T17:45Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "ENTilh0f",
+      "awayName": "Biel",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": 5.5,
+      "odds": {
+        "ml": {
+          "home": 1.53,
+          "away": 2.365,
+          "homeBest": 1.61,
+          "awayBest": 2.4,
+          "books": 4
+        },
+        "ou": [
+          {
+            "line": 2.5,
+            "over": 1.02,
+            "under": 11.0,
+            "overBest": 1.02,
+            "underBest": 11.0,
+            "books": 1
+          },
+          {
+            "line": 3.5,
+            "over": 1.145,
+            "under": 4.875,
+            "overBest": 1.15,
+            "underBest": 5.0,
+            "books": 2
+          },
+          {
+            "line": 4.5,
+            "over": 1.275,
+            "under": 3.4,
+            "overBest": 1.28,
+            "underBest": 3.5,
+            "books": 2
+          },
+          {
+            "line": 5.5,
+            "over": 1.75,
+            "under": 1.98,
+            "overBest": 1.84,
+            "underBest": 2.0,
+            "books": 3
+          },
+          {
+            "line": 6.5,
+            "over": 2.225,
+            "under": 1.61,
+            "overBest": 2.3,
+            "underBest": 1.65,
+            "books": 2
+          },
+          {
+            "line": 7.5,
+            "over": 3.75,
+            "under": 1.235,
+            "overBest": 4.0,
+            "underBest": 1.25,
+            "books": 2
+          },
+          {
+            "line": 8.5,
+            "over": 5.125,
+            "under": 1.135,
+            "overBest": 5.5,
+            "underBest": 1.15,
+            "books": 2
+          },
+          {
+            "line": 9.5,
+            "over": 9.0,
+            "under": 1.035,
+            "overBest": 10.0,
+            "underBest": 1.05,
+            "books": 2
+          }
+        ],
+        "pl": {
+          "+1.5": {
+            "home": 1.2,
+            "away": 4.125,
+            "homeBest": 1.22,
+            "awayBest": 4.25,
+            "books": 2
+          },
+          "-1.5": {
+            "home": 2.45,
+            "away": 1.55,
+            "homeBest": 2.45,
+            "awayBest": 1.57,
+            "books": 3
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Betr",
+          "DraftKings",
+          "Fanatics",
+          "bet365.us"
+        ],
+        "at": "2026-10-06T01:48:32Z"
+      }
+    },
+    {
+      "id": "2L13i0cJ",
+      "date": "2026-10-09T17:45Z",
+      "home": "6yAC1NAl",
+      "homeName": "Davos",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": 5.5,
+      "odds": {
+        "ml": {
+          "home": 1.265,
+          "away": 3.495,
+          "homeBest": 1.32,
+          "awayBest": 3.75,
+          "books": 4
+        },
+        "ou": [
+          {
+            "line": 1.5,
+            "over": 1.01,
+            "under": 13.0,
+            "overBest": 1.01,
+            "underBest": 13.0,
+            "books": 1
+          },
+          {
+            "line": 2.5,
+            "over": 1.04,
+            "under": 9.0,
+            "overBest": 1.04,
+            "underBest": 9.0,
+            "books": 1
+          },
+          {
+            "line": 3.5,
+            "over": 1.2,
+            "under": 4.15,
+            "overBest": 1.25,
+            "underBest": 4.8,
+            "books": 2
+          },
+          {
+            "line": 4.5,
+            "over": 1.365,
+            "under": 2.975,
+            "overBest": 1.42,
+            "underBest": 3.25,
+            "books": 2
+          },
+          {
+            "line": 5.5,
+            "over": 2.0,
+            "under": 1.74,
+            "overBest": 2.15,
+            "underBest": 1.84,
+            "books": 3
+          },
+          {
+            "line": 6.5,
+            "over": 2.675,
+            "under": 1.43,
+            "overBest": 2.85,
+            "underBest": 1.48,
+            "books": 2
+          },
+          {
+            "line": 7.5,
+            "over": 4.7,
+            "under": 1.16,
+            "overBest": 5.0,
+            "underBest": 1.18,
+            "books": 2
+          },
+          {
+            "line": 8.5,
+            "over": 6.5,
+            "under": 1.085,
+            "overBest": 7.0,
+            "underBest": 1.09,
+            "books": 2
+          },
+          {
+            "line": 9.5,
+            "over": 11.0,
+            "under": 1.015,
+            "overBest": 11.0,
+            "underBest": 1.02,
+            "books": 2
+          }
+        ],
+        "pl": {
+          "+1.5": {
+            "home": 1.085,
+            "away": 6.75,
+            "homeBest": 1.09,
+            "awayBest": 7.0,
+            "books": 2
+          },
+          "-1.5": {
+            "home": 1.8,
+            "away": 2.0,
+            "homeBest": 1.8,
+            "awayBest": 2.05,
+            "books": 3
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Betr",
+          "DraftKings",
+          "Fanatics",
+          "bet365.us"
+        ],
+        "at": "2026-10-06T01:48:37Z"
+      }
+    },
+    {
+      "id": "nLoIgjvm",
+      "date": "2026-10-09T17:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": 6.5,
+      "odds": {
+        "ml": {
+          "home": 1.58,
+          "away": 2.31,
+          "homeBest": 1.61,
+          "awayBest": 2.36,
+          "books": 4
+        },
+        "ou": [
+          {
+            "line": 2.5,
+            "over": 1.01,
+            "under": 13.0,
+            "overBest": 1.01,
+            "underBest": 13.0,
+            "books": 1
+          },
+          {
+            "line": 3.5,
+            "over": 1.11,
+            "under": 5.75,
+            "overBest": 1.11,
+            "underBest": 6.0,
+            "books": 2
+          },
+          {
+            "line": 4.5,
+            "over": 1.225,
+            "under": 3.75,
+            "overBest": 1.23,
+            "underBest": 3.75,
+            "books": 2
+          },
+          {
+            "line": 5.5,
+            "over": 1.6,
+            "under": 2.2,
+            "overBest": 1.6,
+            "underBest": 2.2,
+            "books": 1
+          },
+          {
+            "line": 6.5,
+            "over": 2.0,
+            "under": 1.74,
+            "overBest": 2.15,
+            "underBest": 1.8,
+            "books": 3
+          },
+          {
+            "line": 7.5,
+            "over": 3.35,
+            "under": 1.29,
+            "overBest": 3.7,
+            "underBest": 1.33,
+            "books": 2
+          },
+          {
+            "line": 8.5,
+            "over": 4.5,
+            "under": 1.17,
+            "overBest": 5.0,
+            "underBest": 1.2,
+            "books": 2
+          },
+          {
+            "line": 9.5,
+            "over": 8.375,
+            "under": 1.05,
+            "overBest": 9.5,
+            "underBest": 1.07,
+            "books": 2
+          }
+        ],
+        "pl": {
+          "+1.5": {
+            "home": 1.215,
+            "away": 3.875,
+            "homeBest": 1.22,
+            "awayBest": 4.0,
+            "books": 2
+          },
+          "-1.5": {
+            "home": 2.45,
+            "away": 1.52,
+            "homeBest": 2.55,
+            "awayBest": 1.58,
+            "books": 3
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Betr",
+          "DraftKings",
+          "Fanatics",
+          "bet365.us"
+        ],
+        "at": "2026-10-06T01:48:41Z"
+      }
+    },
+    {
+      "id": "WftmaCGP",
+      "date": "2026-10-09T17:45Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "vmRgFvP6",
+      "awayName": "Zurich",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": 5.5,
+      "odds": {
+        "ml": {
+          "home": 2.0,
+          "away": 1.735,
+          "homeBest": 2.0,
+          "awayBest": 1.83,
+          "books": 4
+        },
+        "ou": [
+          {
+            "line": 1.5,
+            "over": 1.01,
+            "under": 15.0,
+            "overBest": 1.01,
+            "underBest": 15.0,
+            "books": 1
+          },
+          {
+            "line": 2.5,
+            "over": 1.03,
+            "under": 10.0,
+            "overBest": 1.03,
+            "underBest": 10.0,
+            "books": 1
+          },
+          {
+            "line": 3.5,
+            "over": 1.16,
+            "under": 4.625,
+            "overBest": 1.18,
+            "underBest": 5.0,
+            "books": 2
+          },
+          {
+            "line": 4.5,
+            "over": 1.3,
+            "under": 3.25,
+            "overBest": 1.33,
+            "underBest": 3.5,
+            "books": 2
+          },
+          {
+            "line": 5.5,
+            "over": 1.84,
+            "under": 1.9,
+            "overBest": 1.9,
+            "underBest": 1.98,
+            "books": 3
+          },
+          {
+            "line": 6.5,
+            "over": 2.4,
+            "under": 1.535,
+            "overBest": 2.5,
+            "underBest": 1.57,
+            "books": 2
+          },
+          {
+            "line": 7.5,
+            "over": 3.975,
+            "under": 1.21,
+            "overBest": 4.0,
+            "underBest": 1.22,
+            "books": 2
+          },
+          {
+            "line": 8.5,
+            "over": 5.75,
+            "under": 1.115,
+            "overBest": 6.0,
+            "underBest": 1.12,
+            "books": 2
+          },
+          {
+            "line": 9.5,
+            "over": 10.0,
+            "under": 1.025,
+            "overBest": 10.0,
+            "underBest": 1.03,
+            "books": 2
+          }
+        ],
+        "pl": {
+          "+1.5": {
+            "home": 1.38,
+            "away": 2.9,
+            "homeBest": 1.4,
+            "awayBest": 3.05,
+            "books": 3
+          },
+          "-1.5": {
+            "home": 3.325,
+            "away": 1.285,
+            "homeBest": 3.5,
+            "awayBest": 1.32,
+            "books": 2
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Betr",
+          "DraftKings",
+          "Fanatics",
+          "bet365.us"
+        ],
+        "at": "2026-10-06T01:48:46Z"
+      }
+    },
+    {
+      "id": "KYqQiU8a",
+      "date": "2026-10-10T17:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "SbmYk8wC",
+      "date": "2026-10-10T17:45Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "OSn023er",
+      "awayName": "Bern",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "zPjtln8O",
+      "date": "2026-10-10T17:45Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "xhPc6TNh",
+      "date": "2026-10-10T17:45Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "jyRk8kgt",
+      "date": "2026-10-10T17:45Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "pIS547h5",
+      "date": "2026-10-10T17:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "r94HIWFD",
+      "awayName": "Fribourg",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "IVQD2oNH",
+      "date": "2026-10-11T12:00Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "OUhopw7j",
+      "date": "2026-10-14T17:45Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "l8pX7tac",
+      "date": "2026-10-16T17:45Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "MLru6KT9",
+      "date": "2026-10-16T17:45Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "0UxJbxMq",
+      "date": "2026-10-16T17:45Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "YsyRdGjd",
+      "date": "2026-10-16T17:45Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "Uonm4bbM",
+      "date": "2026-10-16T17:45Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "QkwCKJr3",
+      "date": "2026-10-16T17:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "YFtKIcDF",
+      "date": "2026-10-17T17:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "6TvSGyrS",
+      "date": "2026-10-17T17:45Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "xCVcBF5k",
+      "date": "2026-10-17T17:45Z",
+      "home": "6yAC1NAl",
+      "homeName": "Davos",
+      "away": "vmRgFvP6",
+      "awayName": "Zurich",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "r9Y59gz2",
+      "date": "2026-10-17T17:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "EBFVPEKr",
+      "date": "2026-10-17T17:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "OSn023er",
+      "awayName": "Bern",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "rTOaVzcL",
+      "date": "2026-10-17T17:45Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "z3LiXdS8",
+      "date": "2026-10-17T17:45Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "ENTilh0f",
+      "awayName": "Biel",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "nPDwOhke",
+      "date": "2026-10-20T17:45Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "r94HIWFD",
+      "awayName": "Fribourg",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "YuCoMWJ7",
+      "date": "2026-10-20T17:45Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "0n4XqzCE",
+      "date": "2026-10-20T17:45Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "4rgBxh4l",
+      "date": "2026-10-20T17:45Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "Ya2urEtR",
+      "date": "2026-10-20T17:45Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "djBIzWY0",
+      "date": "2026-10-20T17:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "U39QY93D",
+      "date": "2026-10-23T17:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "fqQytRAt",
+      "date": "2026-10-23T17:45Z",
+      "home": "6yAC1NAl",
+      "homeName": "Davos",
+      "away": "OSn023er",
+      "awayName": "Bern",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "29Tqv5ug",
+      "date": "2026-10-23T17:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "ENTilh0f",
+      "awayName": "Biel",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "MwQazNvI",
+      "date": "2026-10-23T17:45Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "zNRixqA5",
+      "date": "2026-10-23T17:45Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "pG3Hh4fn",
+      "date": "2026-10-23T17:45Z",
+      "home": "tv5F5ho1",
+      "homeName": "Zug",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "U3T7Y09U",
+      "date": "2026-10-23T17:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "ht7PjrPb",
+      "date": "2026-10-24T17:45Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "bwAXlMgB",
+      "date": "2026-10-24T17:45Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "Wj8um0ON",
+      "date": "2026-10-24T17:45Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "Uuic5svh",
+      "date": "2026-10-24T17:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "2ZbBsvno",
+      "date": "2026-10-24T17:45Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "r94HIWFD",
+      "awayName": "Fribourg",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "2gk53L84",
+      "date": "2026-10-25T13:00Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "zL2C1awH",
+      "date": "2026-10-25T13:00Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "vmRgFvP6",
+      "awayName": "Zurich",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "vHijfHVj",
+      "date": "2026-10-27T18:45Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "ENTilh0f",
+      "awayName": "Biel",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "6NqxIKNc",
+      "date": "2026-10-27T18:45Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "vmRgFvP6",
+      "awayName": "Zurich",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "CKnpGbhA",
+      "date": "2026-10-27T18:45Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "ro6Kaw8T",
+      "date": "2026-10-27T18:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "GGyO8Gpp",
+      "date": "2026-10-27T18:45Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "pYphExNM",
+      "date": "2026-10-27T18:45Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "OtuW6fFd",
+      "date": "2026-10-27T18:45Z",
+      "home": "tv5F5ho1",
+      "homeName": "Zug",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "I3EFE6Y2",
+      "date": "2026-10-28T18:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "r94HIWFD",
+      "awayName": "Fribourg",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "4KCNCp3F",
+      "date": "2026-10-29T19:00Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "AJvefxml",
+      "date": "2026-10-30T18:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "OSn023er",
+      "awayName": "Bern",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "rXx3hGH0",
+      "date": "2026-10-30T18:45Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "jctBjfnD",
+      "date": "2026-10-30T18:45Z",
+      "home": "6yAC1NAl",
+      "homeName": "Davos",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "2omdEcvK",
+      "date": "2026-10-30T18:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "6sxz7FWg",
+      "date": "2026-10-30T18:45Z",
+      "home": "tv5F5ho1",
+      "homeName": "Zug",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "bHYR8y2s",
+      "date": "2026-10-30T18:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "E7ur5g16",
+      "date": "2026-10-31T18:45Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "nLwj3XVI",
+      "date": "2026-10-31T18:45Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "O0H7LEom",
+      "date": "2026-10-31T18:45Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "vmRgFvP6",
+      "awayName": "Zurich",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "4vJNHWpC",
+      "date": "2026-10-31T18:45Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "dEFFJhGa",
+      "date": "2026-10-31T18:45Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "hIQyRzOP",
+      "date": "2026-10-31T18:45Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "ENTilh0f",
+      "awayName": "Biel",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "AyMVFAFO",
+      "date": "2026-11-11T18:45Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "OSn023er",
+      "awayName": "Bern",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "QmduzE0t",
+      "date": "2026-11-11T18:45Z",
+      "home": "tv5F5ho1",
+      "homeName": "Zug",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "YDamYiVh",
+      "date": "2026-11-12T19:00Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "vmRgFvP6",
+      "awayName": "Zurich",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "tv3eWVa5",
+      "date": "2026-11-13T18:45Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "r94HIWFD",
+      "awayName": "Fribourg",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "Ei13U9UH",
+      "date": "2026-11-13T18:45Z",
+      "home": "6yAC1NAl",
+      "homeName": "Davos",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "nJEASmaU",
+      "date": "2026-11-13T18:45Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "xrfKnipn",
+      "date": "2026-11-13T18:45Z",
+      "home": "tv5F5ho1",
+      "homeName": "Zug",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "AehSpVEb",
+      "date": "2026-11-14T18:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "ILezq9qB",
+      "date": "2026-11-14T18:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "MBD1nrj3",
+      "date": "2026-11-14T18:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "ENTilh0f",
+      "awayName": "Biel",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "f5LFOvbd",
+      "date": "2026-11-14T18:45Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "MiN7Q0Tq",
+      "date": "2026-11-14T18:45Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "OSn023er",
+      "awayName": "Bern",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "UyH9pMKF",
+      "date": "2026-11-14T18:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "CO0mwvDk",
+      "date": "2026-11-15T14:45Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "2kFHr0kS",
+      "date": "2026-11-15T14:45Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "Kl4eyIs2",
+      "date": "2026-11-18T18:45Z",
+      "home": "tv5F5ho1",
+      "homeName": "Zug",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "CrisaLZ8",
+      "date": "2026-11-19T19:00Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "vmRgFvP6",
+      "awayName": "Zurich",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "K8fkca4L",
+      "date": "2026-11-20T18:45Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "zZaKiwSr",
+      "date": "2026-11-20T18:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "GC1zleR7",
+      "date": "2026-11-20T18:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "8nbSkHde",
+      "date": "2026-11-20T18:45Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "rJgMBbJE",
+      "date": "2026-11-20T18:45Z",
+      "home": "tv5F5ho1",
+      "homeName": "Zug",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "GWiU9xlR",
+      "date": "2026-11-21T18:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "r94HIWFD",
+      "awayName": "Fribourg",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "Q5w04GBl",
+      "date": "2026-11-21T18:45Z",
+      "home": "4I5DJC07",
+      "homeName": "Ambri-Piotta",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "YVt82ft1",
+      "date": "2026-11-21T18:45Z",
+      "home": "ENTilh0f",
+      "homeName": "Biel",
+      "away": "OSn023er",
+      "awayName": "Bern",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "6quG0YAD",
+      "date": "2026-11-21T18:45Z",
+      "home": "C4KBtz8K",
+      "homeName": "EHC Kloten",
+      "away": "6yAC1NAl",
+      "awayName": "Davos",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "YkX1Oy3K",
+      "date": "2026-11-21T18:45Z",
+      "home": "vmRgFvP6",
+      "homeName": "Zurich",
+      "away": "0UG7sGhE",
+      "awayName": "Lugano",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "zJLuHgef",
+      "date": "2026-11-22T13:00Z",
+      "home": "dxdryEVs",
+      "homeName": "Rapperswil-Jona",
+      "away": "fT9GufNQ",
+      "awayName": "Langnau Tigers",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "25NXIFQs",
+      "date": "2026-11-22T13:00Z",
+      "home": "46e8yYpl",
+      "homeName": "Servette",
+      "away": "0CAYHtul",
+      "awayName": "Lausanne",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "rqPmFXP6",
+      "date": "2026-11-24T18:45Z",
+      "home": "OSn023er",
+      "homeName": "Bern",
+      "away": "4I5DJC07",
+      "awayName": "Ambri-Piotta",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "j9SeDBfJ",
+      "date": "2026-11-24T18:45Z",
+      "home": "6yAC1NAl",
+      "homeName": "Davos",
+      "away": "46e8yYpl",
+      "awayName": "Servette",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "txv7KS1n",
+      "date": "2026-11-24T18:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "vmRgFvP6",
+      "awayName": "Zurich",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "fsgUEOVN",
+      "date": "2026-11-24T18:45Z",
+      "home": "fT9GufNQ",
+      "homeName": "Langnau Tigers",
+      "away": "pzDqNr2K",
+      "awayName": "Ajoie",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "E3iEI6Wb",
+      "date": "2026-11-24T18:45Z",
+      "home": "0CAYHtul",
+      "homeName": "Lausanne",
+      "away": "dxdryEVs",
+      "awayName": "Rapperswil-Jona",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "MTfMGp1B",
+      "date": "2026-11-24T18:45Z",
+      "home": "0UG7sGhE",
+      "homeName": "Lugano",
+      "away": "ENTilh0f",
+      "awayName": "Biel",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "QPq092go",
+      "date": "2026-11-24T18:45Z",
+      "home": "tv5F5ho1",
+      "homeName": "Zug",
+      "away": "C4KBtz8K",
+      "awayName": "EHC Kloten",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "hWNqHECi",
+      "date": "2026-11-26T18:45Z",
+      "home": "pzDqNr2K",
+      "homeName": "Ajoie",
+      "away": "ENTilh0f",
+      "awayName": "Biel",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "QqMiFhs4",
+      "date": "2026-11-26T18:45Z",
+      "home": "r94HIWFD",
+      "homeName": "Fribourg",
+      "away": "tv5F5ho1",
+      "awayName": "Zug",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    }
+  ]
+}

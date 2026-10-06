@@ -1,0 +1,1698 @@
+{
+  "attacking": [
+    {
+      "team": "New York",
+      "played": 27,
+      "goals": 34,
+      "xg": 45.22,
+      "goals_vs_xg": -11.22,
+      "total_shots": 351,
+      "sot": 123,
+      "shot_conv": 9.6866,
+      "xg_per_shot": 0.129
+    },
+    {
+      "team": "Sporting KC",
+      "played": 27,
+      "goals": 32,
+      "xg": 29.34,
+      "goals_vs_xg": 2.66,
+      "total_shots": 294,
+      "sot": 117,
+      "shot_conv": 10.8844,
+      "xg_per_shot": 0.1
+    },
+    {
+      "team": "Colorado",
+      "played": 27,
+      "goals": 38,
+      "xg": 38.95,
+      "goals_vs_xg": -0.95,
+      "total_shots": 329,
+      "sot": 112,
+      "shot_conv": 11.5502,
+      "xg_per_shot": 0.118
+    },
+    {
+      "team": "Columbus",
+      "played": 27,
+      "goals": 39,
+      "xg": 34.94,
+      "goals_vs_xg": 4.06,
+      "total_shots": 321,
+      "sot": 106,
+      "shot_conv": 12.1495,
+      "xg_per_shot": 0.109
+    },
+    {
+      "team": "New England",
+      "played": 27,
+      "goals": 45,
+      "xg": 44.02,
+      "goals_vs_xg": 0.98,
+      "total_shots": 339,
+      "sot": 132,
+      "shot_conv": 13.2743,
+      "xg_per_shot": 0.13
+    },
+    {
+      "team": "Earthquakes",
+      "played": 27,
+      "goals": 49,
+      "xg": 49.57,
+      "goals_vs_xg": -0.57,
+      "total_shots": 369,
+      "sot": 141,
+      "shot_conv": 13.2791,
+      "xg_per_shot": 0.134
+    },
+    {
+      "team": "Chicago",
+      "played": 26,
+      "goals": 46,
+      "xg": 44.87,
+      "goals_vs_xg": 1.13,
+      "total_shots": 365,
+      "sot": 136,
+      "shot_conv": 12.6027,
+      "xg_per_shot": 0.123
+    },
+    {
+      "team": "Galaxy",
+      "played": 28,
+      "goals": 37,
+      "xg": 41.97,
+      "goals_vs_xg": -4.97,
+      "total_shots": 366,
+      "sot": 146,
+      "shot_conv": 10.1093,
+      "xg_per_shot": 0.115
+    },
+    {
+      "team": "DC United",
+      "played": 26,
+      "goals": 34,
+      "xg": 38.53,
+      "goals_vs_xg": -4.53,
+      "total_shots": 343,
+      "sot": 119,
+      "shot_conv": 9.9125,
+      "xg_per_shot": 0.112
+    },
+    {
+      "team": "Portland",
+      "played": 27,
+      "goals": 48,
+      "xg": 41.07,
+      "goals_vs_xg": 6.93,
+      "total_shots": 368,
+      "sot": 122,
+      "shot_conv": 13.0435,
+      "xg_per_shot": 0.112
+    },
+    {
+      "team": "Montr\u00e9al",
+      "played": 27,
+      "goals": 34,
+      "xg": 37.67,
+      "goals_vs_xg": -3.67,
+      "total_shots": 355,
+      "sot": 131,
+      "shot_conv": 9.5775,
+      "xg_per_shot": 0.106
+    },
+    {
+      "team": "Whitecaps",
+      "played": 26,
+      "goals": 59,
+      "xg": 60.61,
+      "goals_vs_xg": -1.61,
+      "total_shots": 453,
+      "sot": 168,
+      "shot_conv": 13.0243,
+      "xg_per_shot": 0.134
+    },
+    {
+      "team": "Houston",
+      "played": 27,
+      "goals": 34,
+      "xg": 32.33,
+      "goals_vs_xg": 1.67,
+      "total_shots": 356,
+      "sot": 120,
+      "shot_conv": 9.5506,
+      "xg_per_shot": 0.091
+    },
+    {
+      "team": "Salt Lake",
+      "played": 27,
+      "goals": 40,
+      "xg": 43.16,
+      "goals_vs_xg": -3.16,
+      "total_shots": 373,
+      "sot": 141,
+      "shot_conv": 10.7239,
+      "xg_per_shot": 0.116
+    },
+    {
+      "team": "Dallas",
+      "played": 27,
+      "goals": 50,
+      "xg": 39.68,
+      "goals_vs_xg": 10.32,
+      "total_shots": 327,
+      "sot": 127,
+      "shot_conv": 15.2905,
+      "xg_per_shot": 0.121
+    },
+    {
+      "team": "Toronto",
+      "played": 27,
+      "goals": 39,
+      "xg": 31.54,
+      "goals_vs_xg": 7.46,
+      "total_shots": 325,
+      "sot": 117,
+      "shot_conv": 12,
+      "xg_per_shot": 0.097
+    },
+    {
+      "team": "Sounders",
+      "played": 27,
+      "goals": 35,
+      "xg": 39.79,
+      "goals_vs_xg": -4.79,
+      "total_shots": 369,
+      "sot": 136,
+      "shot_conv": 9.4851,
+      "xg_per_shot": 0.108
+    },
+    {
+      "team": "Philadelphia",
+      "played": 27,
+      "goals": 54,
+      "xg": 52.14,
+      "goals_vs_xg": 1.86,
+      "total_shots": 446,
+      "sot": 142,
+      "shot_conv": 12.1076,
+      "xg_per_shot": 0.117
+    },
+    {
+      "team": "Orlando",
+      "played": 27,
+      "goals": 48,
+      "xg": 43.38,
+      "goals_vs_xg": 4.62,
+      "total_shots": 329,
+      "sot": 134,
+      "shot_conv": 14.5897,
+      "xg_per_shot": 0.132
+    },
+    {
+      "team": "Minnesota",
+      "played": 27,
+      "goals": 40,
+      "xg": 46.08,
+      "goals_vs_xg": -6.08,
+      "total_shots": 364,
+      "sot": 130,
+      "shot_conv": 10.989,
+      "xg_per_shot": 0.127
+    },
+    {
+      "team": "NYCFC",
+      "played": 27,
+      "goals": 41,
+      "xg": 38.27,
+      "goals_vs_xg": 2.73,
+      "total_shots": 312,
+      "sot": 124,
+      "shot_conv": 13.141,
+      "xg_per_shot": 0.123
+    },
+    {
+      "team": "Atlanta United",
+      "played": 27,
+      "goals": 32,
+      "xg": 35.47,
+      "goals_vs_xg": -3.47,
+      "total_shots": 344,
+      "sot": 108,
+      "shot_conv": 9.3023,
+      "xg_per_shot": 0.103
+    },
+    {
+      "team": "Cincinnati",
+      "played": 26,
+      "goals": 55,
+      "xg": 49.27,
+      "goals_vs_xg": 5.73,
+      "total_shots": 379,
+      "sot": 154,
+      "shot_conv": 14.5119,
+      "xg_per_shot": 0.13
+    },
+    {
+      "team": "LAFC",
+      "played": 28,
+      "goals": 43,
+      "xg": 41.31,
+      "goals_vs_xg": 1.69,
+      "total_shots": 397,
+      "sot": 129,
+      "shot_conv": 10.8312,
+      "xg_per_shot": 0.104
+    },
+    {
+      "team": "Inter Miami",
+      "played": 27,
+      "goals": 64,
+      "xg": 55.26,
+      "goals_vs_xg": 8.74,
+      "total_shots": 412,
+      "sot": 165,
+      "shot_conv": 15.534,
+      "xg_per_shot": 0.134
+    },
+    {
+      "team": "Nashville",
+      "played": 27,
+      "goals": 55,
+      "xg": 40.49,
+      "goals_vs_xg": 14.51,
+      "total_shots": 339,
+      "sot": 133,
+      "shot_conv": 16.2242,
+      "xg_per_shot": 0.119
+    },
+    {
+      "team": "Austin",
+      "played": 27,
+      "goals": 35,
+      "xg": 27.24,
+      "goals_vs_xg": 7.76,
+      "total_shots": 287,
+      "sot": 108,
+      "shot_conv": 12.1951,
+      "xg_per_shot": 0.095
+    },
+    {
+      "team": "Charlotte",
+      "played": 27,
+      "goals": 47,
+      "xg": 41.38,
+      "goals_vs_xg": 5.62,
+      "total_shots": 309,
+      "sot": 131,
+      "shot_conv": 15.2104,
+      "xg_per_shot": 0.134
+    },
+    {
+      "team": "St. Louis",
+      "played": 27,
+      "goals": 48,
+      "xg": 45.77,
+      "goals_vs_xg": 2.23,
+      "total_shots": 373,
+      "sot": 133,
+      "shot_conv": 12.8686,
+      "xg_per_shot": 0.123
+    },
+    {
+      "team": "San Diego",
+      "played": 27,
+      "goals": 47,
+      "xg": 42.21,
+      "goals_vs_xg": 4.79,
+      "total_shots": 320,
+      "sot": 122,
+      "shot_conv": 14.6875,
+      "xg_per_shot": 0.132
+    }
+  ],
+  "passing": [
+    {
+      "team": "New York",
+      "pos_perc": 51.92962943183051,
+      "passes": 12836,
+      "successful_pass": 10772,
+      "accuracy": 83.92,
+      "final_third_passes": 4130,
+      "successful_final_third_passes_perc": 75.54,
+      "op_crosses": 260,
+      "through_balls": 46
+    },
+    {
+      "team": "Sporting KC",
+      "pos_perc": 44.451852021393954,
+      "passes": 11243,
+      "successful_pass": 9427,
+      "accuracy": 83.85,
+      "final_third_passes": 3037,
+      "successful_final_third_passes_perc": 73.1,
+      "op_crosses": 279,
+      "through_balls": 31
+    },
+    {
+      "team": "Colorado",
+      "pos_perc": 55.22962951660156,
+      "passes": 13309,
+      "successful_pass": 11600,
+      "accuracy": 87.16,
+      "final_third_passes": 2820,
+      "successful_final_third_passes_perc": 72.09,
+      "op_crosses": 302,
+      "through_balls": 21
+    },
+    {
+      "team": "Columbus",
+      "pos_perc": 56.45185216267904,
+      "passes": 15449,
+      "successful_pass": 13596,
+      "accuracy": 88.01,
+      "final_third_passes": 4404,
+      "successful_final_third_passes_perc": 78.97,
+      "op_crosses": 333,
+      "through_balls": 36
+    },
+    {
+      "team": "New England",
+      "pos_perc": 50.58148094459816,
+      "passes": 13027,
+      "successful_pass": 11436,
+      "accuracy": 87.79,
+      "final_third_passes": 3794,
+      "successful_final_third_passes_perc": 79.78,
+      "op_crosses": 332,
+      "through_balls": 26
+    },
+    {
+      "team": "Earthquakes",
+      "pos_perc": 49.151851654052734,
+      "passes": 11550,
+      "successful_pass": 9543,
+      "accuracy": 82.62,
+      "final_third_passes": 3204,
+      "successful_final_third_passes_perc": 70.38,
+      "op_crosses": 423,
+      "through_balls": 26
+    },
+    {
+      "team": "Chicago",
+      "pos_perc": 51.60769242506761,
+      "passes": 12455,
+      "successful_pass": 10479,
+      "accuracy": 84.13,
+      "final_third_passes": 3410,
+      "successful_final_third_passes_perc": 72.02,
+      "op_crosses": 238,
+      "through_balls": 22
+    },
+    {
+      "team": "Galaxy",
+      "pos_perc": 48.83571434020996,
+      "passes": 13265,
+      "successful_pass": 11333,
+      "accuracy": 85.44,
+      "final_third_passes": 3507,
+      "successful_final_third_passes_perc": 75.62,
+      "op_crosses": 204,
+      "through_balls": 30
+    },
+    {
+      "team": "DC United",
+      "pos_perc": 38.742307956402115,
+      "passes": 8437,
+      "successful_pass": 6367,
+      "accuracy": 75.47,
+      "final_third_passes": 2743,
+      "successful_final_third_passes_perc": 62.92,
+      "op_crosses": 340,
+      "through_balls": 17
+    },
+    {
+      "team": "Portland",
+      "pos_perc": 50.95555545665599,
+      "passes": 13535,
+      "successful_pass": 11740,
+      "accuracy": 86.74,
+      "final_third_passes": 3753,
+      "successful_final_third_passes_perc": 77.46,
+      "op_crosses": 347,
+      "through_balls": 33
+    },
+    {
+      "team": "Montr\u00e9al",
+      "pos_perc": 48.525925954182945,
+      "passes": 11668,
+      "successful_pass": 9677,
+      "accuracy": 82.94,
+      "final_third_passes": 3430,
+      "successful_final_third_passes_perc": 71.05,
+      "op_crosses": 381,
+      "through_balls": 28
+    },
+    {
+      "team": "Whitecaps",
+      "pos_perc": 56.36538461538461,
+      "passes": 13495,
+      "successful_pass": 11676,
+      "accuracy": 86.52,
+      "final_third_passes": 4573,
+      "successful_final_third_passes_perc": 76.49,
+      "op_crosses": 401,
+      "through_balls": 45
+    },
+    {
+      "team": "Houston",
+      "pos_perc": 47.84444498132776,
+      "passes": 12202,
+      "successful_pass": 10682,
+      "accuracy": 87.54,
+      "final_third_passes": 3124,
+      "successful_final_third_passes_perc": 79.03,
+      "op_crosses": 217,
+      "through_balls": 31
+    },
+    {
+      "team": "Salt Lake",
+      "pos_perc": 48.72222208093714,
+      "passes": 12604,
+      "successful_pass": 10687,
+      "accuracy": 84.79,
+      "final_third_passes": 3506,
+      "successful_final_third_passes_perc": 72.62,
+      "op_crosses": 269,
+      "through_balls": 52
+    },
+    {
+      "team": "Dallas",
+      "pos_perc": 42.20370363306116,
+      "passes": 10409,
+      "successful_pass": 8247,
+      "accuracy": 79.23,
+      "final_third_passes": 3187,
+      "successful_final_third_passes_perc": 66.43,
+      "op_crosses": 254,
+      "through_balls": 33
+    },
+    {
+      "team": "Toronto",
+      "pos_perc": 45.144444712886106,
+      "passes": 10451,
+      "successful_pass": 8512,
+      "accuracy": 81.45,
+      "final_third_passes": 3016,
+      "successful_final_third_passes_perc": 68.3,
+      "op_crosses": 323,
+      "through_balls": 32
+    },
+    {
+      "team": "Sounders",
+      "pos_perc": 51.04074075486925,
+      "passes": 13100,
+      "successful_pass": 11175,
+      "accuracy": 85.31,
+      "final_third_passes": 3854,
+      "successful_final_third_passes_perc": 74.31,
+      "op_crosses": 311,
+      "through_balls": 25
+    },
+    {
+      "team": "Philadelphia",
+      "pos_perc": 46.98518526995623,
+      "passes": 10275,
+      "successful_pass": 7868,
+      "accuracy": 76.57,
+      "final_third_passes": 3835,
+      "successful_final_third_passes_perc": 65.76,
+      "op_crosses": 438,
+      "through_balls": 18
+    },
+    {
+      "team": "Orlando",
+      "pos_perc": 49.52222202442311,
+      "passes": 12418,
+      "successful_pass": 10556,
+      "accuracy": 85.01,
+      "final_third_passes": 3258,
+      "successful_final_third_passes_perc": 72.1,
+      "op_crosses": 240,
+      "through_balls": 48
+    },
+    {
+      "team": "Minnesota",
+      "pos_perc": 45.985185128671155,
+      "passes": 11710,
+      "successful_pass": 9604,
+      "accuracy": 82.02,
+      "final_third_passes": 3435,
+      "successful_final_third_passes_perc": 70.07,
+      "op_crosses": 285,
+      "through_balls": 44
+    },
+    {
+      "team": "NYCFC",
+      "pos_perc": 53.97036997477213,
+      "passes": 13659,
+      "successful_pass": 11625,
+      "accuracy": 85.11,
+      "final_third_passes": 3065,
+      "successful_final_third_passes_perc": 71.48,
+      "op_crosses": 259,
+      "through_balls": 39
+    },
+    {
+      "team": "Atlanta United",
+      "pos_perc": 51.05925941467285,
+      "passes": 13324,
+      "successful_pass": 11374,
+      "accuracy": 85.36,
+      "final_third_passes": 3403,
+      "successful_final_third_passes_perc": 73.93,
+      "op_crosses": 348,
+      "through_balls": 35
+    },
+    {
+      "team": "Cincinnati",
+      "pos_perc": 50.82692307692308,
+      "passes": 12244,
+      "successful_pass": 10490,
+      "accuracy": 85.67,
+      "final_third_passes": 3198,
+      "successful_final_third_passes_perc": 74.45,
+      "op_crosses": 247,
+      "through_balls": 35
+    },
+    {
+      "team": "LAFC",
+      "pos_perc": 46.83214323861258,
+      "passes": 13603,
+      "successful_pass": 11779,
+      "accuracy": 86.59,
+      "final_third_passes": 3832,
+      "successful_final_third_passes_perc": 77.3,
+      "op_crosses": 298,
+      "through_balls": 39
+    },
+    {
+      "team": "Inter Miami",
+      "pos_perc": 56.71481464527272,
+      "passes": 14755,
+      "successful_pass": 12868,
+      "accuracy": 87.21,
+      "final_third_passes": 3839,
+      "successful_final_third_passes_perc": 75.31,
+      "op_crosses": 252,
+      "through_balls": 64
+    },
+    {
+      "team": "Nashville",
+      "pos_perc": 53.89259225350839,
+      "passes": 13517,
+      "successful_pass": 11762,
+      "accuracy": 87.02,
+      "final_third_passes": 3389,
+      "successful_final_third_passes_perc": 74.68,
+      "op_crosses": 285,
+      "through_balls": 19
+    },
+    {
+      "team": "Austin",
+      "pos_perc": 48.707407492178454,
+      "passes": 12109,
+      "successful_pass": 10261,
+      "accuracy": 84.74,
+      "final_third_passes": 2806,
+      "successful_final_third_passes_perc": 69.49,
+      "op_crosses": 284,
+      "through_balls": 13
+    },
+    {
+      "team": "Charlotte",
+      "pos_perc": 45.7814813543249,
+      "passes": 11893,
+      "successful_pass": 10305,
+      "accuracy": 86.65,
+      "final_third_passes": 3249,
+      "successful_final_third_passes_perc": 77.13,
+      "op_crosses": 299,
+      "through_balls": 19
+    },
+    {
+      "team": "St. Louis",
+      "pos_perc": 52.281481424967446,
+      "passes": 13085,
+      "successful_pass": 11180,
+      "accuracy": 85.44,
+      "final_third_passes": 3762,
+      "successful_final_third_passes_perc": 74.85,
+      "op_crosses": 285,
+      "through_balls": 35
+    },
+    {
+      "team": "San Diego",
+      "pos_perc": 59.72592572812681,
+      "passes": 17446,
+      "successful_pass": 15516,
+      "accuracy": 88.94,
+      "final_third_passes": 4075,
+      "successful_final_third_passes_perc": 76.59,
+      "op_crosses": 265,
+      "through_balls": 41
+    }
+  ],
+  "pressing": [
+    {
+      "team": "New York",
+      "ppda": 11.1,
+      "high_turnovers": 238,
+      "shot_ending_high_turnovers": 36,
+      "defensive_actions": 821
+    },
+    {
+      "team": "Sporting KC",
+      "ppda": 15,
+      "high_turnovers": 201,
+      "shot_ending_high_turnovers": 30,
+      "defensive_actions": 647
+    },
+    {
+      "team": "Colorado",
+      "ppda": 10.6,
+      "high_turnovers": 228,
+      "shot_ending_high_turnovers": 35,
+      "defensive_actions": 776
+    },
+    {
+      "team": "Columbus",
+      "ppda": 12.4,
+      "high_turnovers": 228,
+      "shot_ending_high_turnovers": 30,
+      "defensive_actions": 736
+    },
+    {
+      "team": "New England",
+      "ppda": 16.1,
+      "high_turnovers": 166,
+      "shot_ending_high_turnovers": 30,
+      "defensive_actions": 562
+    },
+    {
+      "team": "Earthquakes",
+      "ppda": 13,
+      "high_turnovers": 223,
+      "shot_ending_high_turnovers": 42,
+      "defensive_actions": 692
+    },
+    {
+      "team": "Chicago",
+      "ppda": 12.8,
+      "high_turnovers": 201,
+      "shot_ending_high_turnovers": 38,
+      "defensive_actions": 650
+    },
+    {
+      "team": "Galaxy",
+      "ppda": 14.8,
+      "high_turnovers": 201,
+      "shot_ending_high_turnovers": 36,
+      "defensive_actions": 635
+    },
+    {
+      "team": "DC United",
+      "ppda": 14.5,
+      "high_turnovers": 176,
+      "shot_ending_high_turnovers": 29,
+      "defensive_actions": 687
+    },
+    {
+      "team": "Portland",
+      "ppda": 14.2,
+      "high_turnovers": 183,
+      "shot_ending_high_turnovers": 33,
+      "defensive_actions": 630
+    },
+    {
+      "team": "Montr\u00e9al",
+      "ppda": 12.9,
+      "high_turnovers": 210,
+      "shot_ending_high_turnovers": 33,
+      "defensive_actions": 729
+    },
+    {
+      "team": "Whitecaps",
+      "ppda": 8.9,
+      "high_turnovers": 300,
+      "shot_ending_high_turnovers": 56,
+      "defensive_actions": 972
+    },
+    {
+      "team": "Houston",
+      "ppda": 18,
+      "high_turnovers": 145,
+      "shot_ending_high_turnovers": 27,
+      "defensive_actions": 482
+    },
+    {
+      "team": "Salt Lake",
+      "ppda": 12.7,
+      "high_turnovers": 233,
+      "shot_ending_high_turnovers": 35,
+      "defensive_actions": 735
+    },
+    {
+      "team": "Dallas",
+      "ppda": 13.9,
+      "high_turnovers": 219,
+      "shot_ending_high_turnovers": 40,
+      "defensive_actions": 770
+    },
+    {
+      "team": "Toronto",
+      "ppda": 14.7,
+      "high_turnovers": 195,
+      "shot_ending_high_turnovers": 29,
+      "defensive_actions": 673
+    },
+    {
+      "team": "Sounders",
+      "ppda": 13.1,
+      "high_turnovers": 228,
+      "shot_ending_high_turnovers": 32,
+      "defensive_actions": 671
+    },
+    {
+      "team": "Philadelphia",
+      "ppda": 10.2,
+      "high_turnovers": 271,
+      "shot_ending_high_turnovers": 39,
+      "defensive_actions": 967
+    },
+    {
+      "team": "Orlando",
+      "ppda": 14.7,
+      "high_turnovers": 168,
+      "shot_ending_high_turnovers": 34,
+      "defensive_actions": 583
+    },
+    {
+      "team": "Minnesota",
+      "ppda": 13.1,
+      "high_turnovers": 247,
+      "shot_ending_high_turnovers": 40,
+      "defensive_actions": 772
+    },
+    {
+      "team": "NYCFC",
+      "ppda": 13.5,
+      "high_turnovers": 165,
+      "shot_ending_high_turnovers": 30,
+      "defensive_actions": 638
+    },
+    {
+      "team": "Atlanta United",
+      "ppda": 13.9,
+      "high_turnovers": 184,
+      "shot_ending_high_turnovers": 38,
+      "defensive_actions": 648
+    },
+    {
+      "team": "Cincinnati",
+      "ppda": 12.5,
+      "high_turnovers": 204,
+      "shot_ending_high_turnovers": 34,
+      "defensive_actions": 663
+    },
+    {
+      "team": "LAFC",
+      "ppda": 15.9,
+      "high_turnovers": 194,
+      "shot_ending_high_turnovers": 38,
+      "defensive_actions": 656
+    },
+    {
+      "team": "Inter Miami",
+      "ppda": 11.3,
+      "high_turnovers": 198,
+      "shot_ending_high_turnovers": 42,
+      "defensive_actions": 712
+    },
+    {
+      "team": "Nashville",
+      "ppda": 13,
+      "high_turnovers": 197,
+      "shot_ending_high_turnovers": 30,
+      "defensive_actions": 660
+    },
+    {
+      "team": "Austin",
+      "ppda": 16.3,
+      "high_turnovers": 151,
+      "shot_ending_high_turnovers": 28,
+      "defensive_actions": 552
+    },
+    {
+      "team": "Charlotte",
+      "ppda": 18.9,
+      "high_turnovers": 131,
+      "shot_ending_high_turnovers": 19,
+      "defensive_actions": 535
+    },
+    {
+      "team": "St. Louis",
+      "ppda": 10.9,
+      "high_turnovers": 237,
+      "shot_ending_high_turnovers": 35,
+      "defensive_actions": 813
+    },
+    {
+      "team": "San Diego",
+      "ppda": 13,
+      "high_turnovers": 232,
+      "shot_ending_high_turnovers": 39,
+      "defensive_actions": 677
+    }
+  ],
+  "sequences": [
+    {
+      "team": "New York",
+      "pressed_sequences": 328,
+      "build_ups": 60,
+      "build_up_goals": 1,
+      "direct_attacks": 59,
+      "direct_attack_goals": 3,
+      "ten_plus_passes": 265,
+      "direct_speed_for": 1.95,
+      "seq_time_for": 9.5
+    },
+    {
+      "team": "Sporting KC",
+      "pressed_sequences": 280,
+      "build_ups": 49,
+      "build_up_goals": 0,
+      "direct_attacks": 40,
+      "direct_attack_goals": 4,
+      "ten_plus_passes": 266,
+      "direct_speed_for": 1.66,
+      "seq_time_for": 10.04
+    },
+    {
+      "team": "Colorado",
+      "pressed_sequences": 290,
+      "build_ups": 52,
+      "build_up_goals": 3,
+      "direct_attacks": 37,
+      "direct_attack_goals": 5,
+      "ten_plus_passes": 308,
+      "direct_speed_for": 1.68,
+      "seq_time_for": 11.46
+    },
+    {
+      "team": "Columbus",
+      "pressed_sequences": 316,
+      "build_ups": 101,
+      "build_up_goals": 3,
+      "direct_attacks": 32,
+      "direct_attack_goals": 3,
+      "ten_plus_passes": 447,
+      "direct_speed_for": 1.57,
+      "seq_time_for": 12.34
+    },
+    {
+      "team": "New England",
+      "pressed_sequences": 254,
+      "build_ups": 86,
+      "build_up_goals": 4,
+      "direct_attacks": 40,
+      "direct_attack_goals": 3,
+      "ten_plus_passes": 364,
+      "direct_speed_for": 1.65,
+      "seq_time_for": 12.8
+    },
+    {
+      "team": "Earthquakes",
+      "pressed_sequences": 296,
+      "build_ups": 47,
+      "build_up_goals": 4,
+      "direct_attacks": 47,
+      "direct_attack_goals": 6,
+      "ten_plus_passes": 265,
+      "direct_speed_for": 2,
+      "seq_time_for": 8.89
+    },
+    {
+      "team": "Chicago",
+      "pressed_sequences": 287,
+      "build_ups": 75,
+      "build_up_goals": 4,
+      "direct_attacks": 49,
+      "direct_attack_goals": 4,
+      "ten_plus_passes": 313,
+      "direct_speed_for": 1.72,
+      "seq_time_for": 10.52
+    },
+    {
+      "team": "Galaxy",
+      "pressed_sequences": 254,
+      "build_ups": 70,
+      "build_up_goals": 4,
+      "direct_attacks": 59,
+      "direct_attack_goals": 3,
+      "ten_plus_passes": 359,
+      "direct_speed_for": 1.7,
+      "seq_time_for": 10.78
+    },
+    {
+      "team": "DC United",
+      "pressed_sequences": 293,
+      "build_ups": 32,
+      "build_up_goals": 3,
+      "direct_attacks": 29,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 112,
+      "direct_speed_for": 2.04,
+      "seq_time_for": 6.66
+    },
+    {
+      "team": "Portland",
+      "pressed_sequences": 278,
+      "build_ups": 79,
+      "build_up_goals": 5,
+      "direct_attacks": 52,
+      "direct_attack_goals": 4,
+      "ten_plus_passes": 370,
+      "direct_speed_for": 1.82,
+      "seq_time_for": 10.77
+    },
+    {
+      "team": "Montr\u00e9al",
+      "pressed_sequences": 312,
+      "build_ups": 47,
+      "build_up_goals": 2,
+      "direct_attacks": 40,
+      "direct_attack_goals": 4,
+      "ten_plus_passes": 243,
+      "direct_speed_for": 1.93,
+      "seq_time_for": 9.13
+    },
+    {
+      "team": "Whitecaps",
+      "pressed_sequences": 401,
+      "build_ups": 87,
+      "build_up_goals": 3,
+      "direct_attacks": 36,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 349,
+      "direct_speed_for": 1.81,
+      "seq_time_for": 10.82
+    },
+    {
+      "team": "Houston",
+      "pressed_sequences": 196,
+      "build_ups": 69,
+      "build_up_goals": 2,
+      "direct_attacks": 35,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 331,
+      "direct_speed_for": 1.63,
+      "seq_time_for": 11.53
+    },
+    {
+      "team": "Salt Lake",
+      "pressed_sequences": 324,
+      "build_ups": 73,
+      "build_up_goals": 2,
+      "direct_attacks": 41,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 313,
+      "direct_speed_for": 1.77,
+      "seq_time_for": 10.01
+    },
+    {
+      "team": "Dallas",
+      "pressed_sequences": 325,
+      "build_ups": 39,
+      "build_up_goals": 2,
+      "direct_attacks": 42,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 181,
+      "direct_speed_for": 1.95,
+      "seq_time_for": 7.89
+    },
+    {
+      "team": "Toronto",
+      "pressed_sequences": 260,
+      "build_ups": 42,
+      "build_up_goals": 4,
+      "direct_attacks": 43,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 192,
+      "direct_speed_for": 1.87,
+      "seq_time_for": 8.81
+    },
+    {
+      "team": "Sounders",
+      "pressed_sequences": 318,
+      "build_ups": 72,
+      "build_up_goals": 0,
+      "direct_attacks": 25,
+      "direct_attack_goals": 4,
+      "ten_plus_passes": 365,
+      "direct_speed_for": 1.66,
+      "seq_time_for": 11.09
+    },
+    {
+      "team": "Philadelphia",
+      "pressed_sequences": 415,
+      "build_ups": 33,
+      "build_up_goals": 1,
+      "direct_attacks": 37,
+      "direct_attack_goals": 4,
+      "ten_plus_passes": 139,
+      "direct_speed_for": 2.14,
+      "seq_time_for": 6.75
+    },
+    {
+      "team": "Orlando",
+      "pressed_sequences": 264,
+      "build_ups": 64,
+      "build_up_goals": 5,
+      "direct_attacks": 52,
+      "direct_attack_goals": 5,
+      "ten_plus_passes": 312,
+      "direct_speed_for": 1.81,
+      "seq_time_for": 10.15
+    },
+    {
+      "team": "Minnesota",
+      "pressed_sequences": 309,
+      "build_ups": 54,
+      "build_up_goals": 3,
+      "direct_attacks": 40,
+      "direct_attack_goals": 5,
+      "ten_plus_passes": 240,
+      "direct_speed_for": 1.76,
+      "seq_time_for": 8.76
+    },
+    {
+      "team": "NYCFC",
+      "pressed_sequences": 238,
+      "build_ups": 72,
+      "build_up_goals": 3,
+      "direct_attacks": 48,
+      "direct_attack_goals": 3,
+      "ten_plus_passes": 360,
+      "direct_speed_for": 1.62,
+      "seq_time_for": 10.86
+    },
+    {
+      "team": "Atlanta United",
+      "pressed_sequences": 267,
+      "build_ups": 72,
+      "build_up_goals": 4,
+      "direct_attacks": 35,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 354,
+      "direct_speed_for": 1.62,
+      "seq_time_for": 11.09
+    },
+    {
+      "team": "Cincinnati",
+      "pressed_sequences": 251,
+      "build_ups": 75,
+      "build_up_goals": 6,
+      "direct_attacks": 42,
+      "direct_attack_goals": 4,
+      "ten_plus_passes": 306,
+      "direct_speed_for": 1.67,
+      "seq_time_for": 11.16
+    },
+    {
+      "team": "LAFC",
+      "pressed_sequences": 284,
+      "build_ups": 70,
+      "build_up_goals": 5,
+      "direct_attacks": 63,
+      "direct_attack_goals": 6,
+      "ten_plus_passes": 364,
+      "direct_speed_for": 1.81,
+      "seq_time_for": 10.99
+    },
+    {
+      "team": "Inter Miami",
+      "pressed_sequences": 296,
+      "build_ups": 90,
+      "build_up_goals": 2,
+      "direct_attacks": 43,
+      "direct_attack_goals": 5,
+      "ten_plus_passes": 424,
+      "direct_speed_for": 1.67,
+      "seq_time_for": 12.6
+    },
+    {
+      "team": "Nashville",
+      "pressed_sequences": 254,
+      "build_ups": 80,
+      "build_up_goals": 6,
+      "direct_attacks": 45,
+      "direct_attack_goals": 7,
+      "ten_plus_passes": 403,
+      "direct_speed_for": 1.63,
+      "seq_time_for": 12.45
+    },
+    {
+      "team": "Austin",
+      "pressed_sequences": 199,
+      "build_ups": 53,
+      "build_up_goals": 6,
+      "direct_attacks": 31,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 319,
+      "direct_speed_for": 1.48,
+      "seq_time_for": 11.24
+    },
+    {
+      "team": "Charlotte",
+      "pressed_sequences": 229,
+      "build_ups": 68,
+      "build_up_goals": 3,
+      "direct_attacks": 35,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 295,
+      "direct_speed_for": 1.83,
+      "seq_time_for": 11.05
+    },
+    {
+      "team": "St. Louis",
+      "pressed_sequences": 328,
+      "build_ups": 85,
+      "build_up_goals": 5,
+      "direct_attacks": 33,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 359,
+      "direct_speed_for": 1.76,
+      "seq_time_for": 10.66
+    },
+    {
+      "team": "San Diego",
+      "pressed_sequences": 284,
+      "build_ups": 98,
+      "build_up_goals": 7,
+      "direct_attacks": 27,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 568,
+      "direct_speed_for": 1.46,
+      "seq_time_for": 13.32
+    }
+  ],
+  "defending": [
+    {
+      "team": "New York",
+      "goals_against": 51,
+      "xg_against": 56.2,
+      "goals_vs_xg_conceded": -5.2,
+      "total_shots_against": 373,
+      "sot_against": 152,
+      "shot_conv_against": 13.6729,
+      "xg_per_shot_against": 0.151
+    },
+    {
+      "team": "Sporting KC",
+      "goals_against": 65,
+      "xg_against": 54.58,
+      "goals_vs_xg_conceded": 10.42,
+      "total_shots_against": 437,
+      "sot_against": 156,
+      "shot_conv_against": 14.8741,
+      "xg_per_shot_against": 0.125
+    },
+    {
+      "team": "Colorado",
+      "goals_against": 38,
+      "xg_against": 34.01,
+      "goals_vs_xg_conceded": 3.99,
+      "total_shots_against": 314,
+      "sot_against": 112,
+      "shot_conv_against": 12.1019,
+      "xg_per_shot_against": 0.108
+    },
+    {
+      "team": "Columbus",
+      "goals_against": 43,
+      "xg_against": 32.32,
+      "goals_vs_xg_conceded": 10.68,
+      "total_shots_against": 285,
+      "sot_against": 124,
+      "shot_conv_against": 15.0877,
+      "xg_per_shot_against": 0.113
+    },
+    {
+      "team": "New England",
+      "goals_against": 36,
+      "xg_against": 38.04,
+      "goals_vs_xg_conceded": -2.04,
+      "total_shots_against": 351,
+      "sot_against": 139,
+      "shot_conv_against": 10.2564,
+      "xg_per_shot_against": 0.108
+    },
+    {
+      "team": "Earthquakes",
+      "goals_against": 39,
+      "xg_against": 39.8,
+      "goals_vs_xg_conceded": -0.8,
+      "total_shots_against": 333,
+      "sot_against": 126,
+      "shot_conv_against": 11.7117,
+      "xg_per_shot_against": 0.12
+    },
+    {
+      "team": "Chicago",
+      "goals_against": 38,
+      "xg_against": 35.17,
+      "goals_vs_xg_conceded": 2.83,
+      "total_shots_against": 322,
+      "sot_against": 112,
+      "shot_conv_against": 11.8012,
+      "xg_per_shot_against": 0.109
+    },
+    {
+      "team": "Galaxy",
+      "goals_against": 44,
+      "xg_against": 49.34,
+      "goals_vs_xg_conceded": -5.34,
+      "total_shots_against": 393,
+      "sot_against": 142,
+      "shot_conv_against": 11.1959,
+      "xg_per_shot_against": 0.126
+    },
+    {
+      "team": "DC United",
+      "goals_against": 42,
+      "xg_against": 37.83,
+      "goals_vs_xg_conceded": 4.17,
+      "total_shots_against": 375,
+      "sot_against": 136,
+      "shot_conv_against": 11.2,
+      "xg_per_shot_against": 0.101
+    },
+    {
+      "team": "Portland",
+      "goals_against": 51,
+      "xg_against": 46.45,
+      "goals_vs_xg_conceded": 4.55,
+      "total_shots_against": 426,
+      "sot_against": 165,
+      "shot_conv_against": 11.9718,
+      "xg_per_shot_against": 0.109
+    },
+    {
+      "team": "Montr\u00e9al",
+      "goals_against": 54,
+      "xg_against": 44.61,
+      "goals_vs_xg_conceded": 9.39,
+      "total_shots_against": 358,
+      "sot_against": 130,
+      "shot_conv_against": 15.0838,
+      "xg_per_shot_against": 0.125
+    },
+    {
+      "team": "Whitecaps",
+      "goals_against": 26,
+      "xg_against": 25.02,
+      "goals_vs_xg_conceded": 0.98,
+      "total_shots_against": 228,
+      "sot_against": 79,
+      "shot_conv_against": 11.4035,
+      "xg_per_shot_against": 0.11
+    },
+    {
+      "team": "Houston",
+      "goals_against": 32,
+      "xg_against": 35.89,
+      "goals_vs_xg_conceded": -3.89,
+      "total_shots_against": 324,
+      "sot_against": 101,
+      "shot_conv_against": 9.8765,
+      "xg_per_shot_against": 0.111
+    },
+    {
+      "team": "Salt Lake",
+      "goals_against": 44,
+      "xg_against": 40.56,
+      "goals_vs_xg_conceded": 3.44,
+      "total_shots_against": 363,
+      "sot_against": 119,
+      "shot_conv_against": 12.1212,
+      "xg_per_shot_against": 0.112
+    },
+    {
+      "team": "Dallas",
+      "goals_against": 42,
+      "xg_against": 33.9,
+      "goals_vs_xg_conceded": 8.1,
+      "total_shots_against": 326,
+      "sot_against": 131,
+      "shot_conv_against": 12.8834,
+      "xg_per_shot_against": 0.104
+    },
+    {
+      "team": "Toronto",
+      "goals_against": 51,
+      "xg_against": 40.92,
+      "goals_vs_xg_conceded": 10.08,
+      "total_shots_against": 355,
+      "sot_against": 143,
+      "shot_conv_against": 14.3662,
+      "xg_per_shot_against": 0.115
+    },
+    {
+      "team": "Sounders",
+      "goals_against": 35,
+      "xg_against": 40.76,
+      "goals_vs_xg_conceded": -5.76,
+      "total_shots_against": 388,
+      "sot_against": 144,
+      "shot_conv_against": 9.0206,
+      "xg_per_shot_against": 0.105
+    },
+    {
+      "team": "Philadelphia",
+      "goals_against": 44,
+      "xg_against": 39.01,
+      "goals_vs_xg_conceded": 4.99,
+      "total_shots_against": 244,
+      "sot_against": 97,
+      "shot_conv_against": 18.0328,
+      "xg_per_shot_against": 0.16
+    },
+    {
+      "team": "Orlando",
+      "goals_against": 64,
+      "xg_against": 56.56,
+      "goals_vs_xg_conceded": 7.44,
+      "total_shots_against": 451,
+      "sot_against": 173,
+      "shot_conv_against": 14.1907,
+      "xg_per_shot_against": 0.125
+    },
+    {
+      "team": "Minnesota",
+      "goals_against": 49,
+      "xg_against": 42.56,
+      "goals_vs_xg_conceded": 6.44,
+      "total_shots_against": 329,
+      "sot_against": 134,
+      "shot_conv_against": 14.8936,
+      "xg_per_shot_against": 0.129
+    },
+    {
+      "team": "NYCFC",
+      "goals_against": 36,
+      "xg_against": 40.81,
+      "goals_vs_xg_conceded": -4.81,
+      "total_shots_against": 325,
+      "sot_against": 130,
+      "shot_conv_against": 11.0769,
+      "xg_per_shot_against": 0.126
+    },
+    {
+      "team": "Atlanta United",
+      "goals_against": 45,
+      "xg_against": 45.92,
+      "goals_vs_xg_conceded": -0.92,
+      "total_shots_against": 332,
+      "sot_against": 112,
+      "shot_conv_against": 13.5542,
+      "xg_per_shot_against": 0.138
+    },
+    {
+      "team": "Cincinnati",
+      "goals_against": 64,
+      "xg_against": 48.99,
+      "goals_vs_xg_conceded": 15.01,
+      "total_shots_against": 406,
+      "sot_against": 146,
+      "shot_conv_against": 15.7635,
+      "xg_per_shot_against": 0.121
+    },
+    {
+      "team": "LAFC",
+      "goals_against": 30,
+      "xg_against": 37.11,
+      "goals_vs_xg_conceded": -7.11,
+      "total_shots_against": 371,
+      "sot_against": 117,
+      "shot_conv_against": 8.0863,
+      "xg_per_shot_against": 0.1
+    },
+    {
+      "team": "Inter Miami",
+      "goals_against": 50,
+      "xg_against": 47.06,
+      "goals_vs_xg_conceded": 2.94,
+      "total_shots_against": 342,
+      "sot_against": 126,
+      "shot_conv_against": 14.6199,
+      "xg_per_shot_against": 0.138
+    },
+    {
+      "team": "Nashville",
+      "goals_against": 21,
+      "xg_against": 34.5,
+      "goals_vs_xg_conceded": -13.5,
+      "total_shots_against": 297,
+      "sot_against": 97,
+      "shot_conv_against": 7.0707,
+      "xg_per_shot_against": 0.116
+    },
+    {
+      "team": "Austin",
+      "goals_against": 47,
+      "xg_against": 52.36,
+      "goals_vs_xg_conceded": -5.36,
+      "total_shots_against": 443,
+      "sot_against": 166,
+      "shot_conv_against": 10.6095,
+      "xg_per_shot_against": 0.118
+    },
+    {
+      "team": "Charlotte",
+      "goals_against": 38,
+      "xg_against": 41.57,
+      "goals_vs_xg_conceded": -3.57,
+      "total_shots_against": 443,
+      "sot_against": 153,
+      "shot_conv_against": 8.5779,
+      "xg_per_shot_against": 0.094
+    },
+    {
+      "team": "St. Louis",
+      "goals_against": 36,
+      "xg_against": 32.05,
+      "goals_vs_xg_conceded": 3.95,
+      "total_shots_against": 314,
+      "sot_against": 101,
+      "shot_conv_against": 11.465,
+      "xg_per_shot_against": 0.102
+    },
+    {
+      "team": "San Diego",
+      "goals_against": 47,
+      "xg_against": 47.61,
+      "goals_vs_xg_conceded": -0.61,
+      "total_shots_against": 366,
+      "sot_against": 144,
+      "shot_conv_against": 12.8415,
+      "xg_per_shot_against": 0.13
+    }
+  ],
+  "league": "US Major League Soccer",
+  "lastUpdated": "2026-10-05 05:53:19.345315",
+  "source": "theanalyst.com (Opta) tournament stats API",
+  "powerRankings": [
+    {
+      "team": "Nashville",
+      "rating": 83.0716188355,
+      "rank": 1,
+      "globalRank": 178
+    },
+    {
+      "team": "St. Louis",
+      "rating": 82.7753626578,
+      "rank": 2,
+      "globalRank": 186
+    },
+    {
+      "team": "Philadelphia",
+      "rating": 82.7387170476,
+      "rank": 3,
+      "globalRank": 188
+    },
+    {
+      "team": "Whitecaps",
+      "rating": 82.6706100685,
+      "rank": 4,
+      "globalRank": 191
+    },
+    {
+      "team": "Inter Miami",
+      "rating": 82.6308513103,
+      "rank": 5,
+      "globalRank": 196
+    },
+    {
+      "team": "LAFC",
+      "rating": 81.9482824115,
+      "rank": 6,
+      "globalRank": 234
+    },
+    {
+      "team": "Dallas",
+      "rating": 81.8092554915,
+      "rank": 7,
+      "globalRank": 237
+    },
+    {
+      "team": "Chicago",
+      "rating": 81.4827528511,
+      "rank": 8,
+      "globalRank": 257
+    },
+    {
+      "team": "Charlotte",
+      "rating": 80.846221892,
+      "rank": 9,
+      "globalRank": 292
+    },
+    {
+      "team": "Sounders",
+      "rating": 80.4842922699,
+      "rank": 10,
+      "globalRank": 313
+    },
+    {
+      "team": "Cincinnati",
+      "rating": 79.9956343403,
+      "rank": 11,
+      "globalRank": 342
+    },
+    {
+      "team": "Columbus",
+      "rating": 79.7827666002,
+      "rank": 12,
+      "globalRank": 358
+    },
+    {
+      "team": "Earthquakes",
+      "rating": 79.7301524203,
+      "rank": 13,
+      "globalRank": 361
+    },
+    {
+      "team": "New England",
+      "rating": 79.6609214423,
+      "rank": 14,
+      "globalRank": 364
+    },
+    {
+      "team": "San Diego",
+      "rating": 79.4334833074,
+      "rank": 15,
+      "globalRank": 379
+    },
+    {
+      "team": "NYCFC",
+      "rating": 79.3493567609,
+      "rank": 16,
+      "globalRank": 385
+    },
+    {
+      "team": "Orlando",
+      "rating": 79.3278918902,
+      "rank": 17,
+      "globalRank": 386
+    },
+    {
+      "team": "Houston",
+      "rating": 79.200829667,
+      "rank": 18,
+      "globalRank": 402
+    },
+    {
+      "team": "Portland",
+      "rating": 79.0879566059,
+      "rank": 19,
+      "globalRank": 410
+    },
+    {
+      "team": "Minnesota",
+      "rating": 78.8005557112,
+      "rank": 20,
+      "globalRank": 433
+    },
+    {
+      "team": "Galaxy",
+      "rating": 78.5359769354,
+      "rank": 21,
+      "globalRank": 446
+    },
+    {
+      "team": "Colorado",
+      "rating": 78.3555334841,
+      "rank": 22,
+      "globalRank": 461
+    },
+    {
+      "team": "Austin",
+      "rating": 78.0164278392,
+      "rank": 23,
+      "globalRank": 496
+    },
+    {
+      "team": "Salt Lake",
+      "rating": 78.0153886236,
+      "rank": 24,
+      "globalRank": 497
+    },
+    {
+      "team": "New York",
+      "rating": 77.1589144073,
+      "rank": 25,
+      "globalRank": 568
+    },
+    {
+      "team": "Toronto",
+      "rating": 77.1582213366,
+      "rank": 26,
+      "globalRank": 569
+    },
+    {
+      "team": "Atlanta United",
+      "rating": 76.9239513165,
+      "rank": 27,
+      "globalRank": 588
+    },
+    {
+      "team": "DC United",
+      "rating": 76.5697277624,
+      "rank": 28,
+      "globalRank": 624
+    },
+    {
+      "team": "Montr\u00e9al",
+      "rating": 76.0667176593,
+      "rank": 29,
+      "globalRank": 667
+    },
+    {
+      "team": "Sporting KC",
+      "rating": 74.8546589099,
+      "rank": 30,
+      "globalRank": 799
+    }
+  ],
+  "powerRankingsUpdated": "2026-10-05T03:03:33Z"
+}

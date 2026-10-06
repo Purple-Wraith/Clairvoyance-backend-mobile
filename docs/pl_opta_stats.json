@@ -1,0 +1,1138 @@
+{
+  "attacking": [
+    {
+      "team": "Man Utd",
+      "played": 5,
+      "goals": 8,
+      "xg": 9.89,
+      "goals_vs_xg": -1.89,
+      "total_shots": 113,
+      "sot": 28,
+      "shot_conv": 7.0796,
+      "xg_per_shot": 0.088
+    },
+    {
+      "team": "Leeds",
+      "played": 5,
+      "goals": 7,
+      "xg": 7.72,
+      "goals_vs_xg": -0.72,
+      "total_shots": 60,
+      "sot": 18,
+      "shot_conv": 11.6667,
+      "xg_per_shot": 0.129
+    },
+    {
+      "team": "Arsenal",
+      "played": 5,
+      "goals": 8,
+      "xg": 8.48,
+      "goals_vs_xg": -0.48,
+      "total_shots": 65,
+      "sot": 24,
+      "shot_conv": 12.3077,
+      "xg_per_shot": 0.13
+    },
+    {
+      "team": "Newcastle",
+      "played": 5,
+      "goals": 9,
+      "xg": 5.29,
+      "goals_vs_xg": 3.71,
+      "total_shots": 51,
+      "sot": 18,
+      "shot_conv": 17.6471,
+      "xg_per_shot": 0.104
+    },
+    {
+      "team": "Spurs",
+      "played": 5,
+      "goals": 2,
+      "xg": 5,
+      "goals_vs_xg": -3,
+      "total_shots": 71,
+      "sot": 19,
+      "shot_conv": 2.8169,
+      "xg_per_shot": 0.07
+    },
+    {
+      "team": "Villa",
+      "played": 5,
+      "goals": 4,
+      "xg": 4.65,
+      "goals_vs_xg": -0.65,
+      "total_shots": 48,
+      "sot": 12,
+      "shot_conv": 8.3333,
+      "xg_per_shot": 0.097
+    },
+    {
+      "team": "Chelsea",
+      "played": 5,
+      "goals": 10,
+      "xg": 7.29,
+      "goals_vs_xg": 2.71,
+      "total_shots": 72,
+      "sot": 26,
+      "shot_conv": 13.8889,
+      "xg_per_shot": 0.101
+    },
+    {
+      "team": "Coventry",
+      "played": 5,
+      "goals": 1,
+      "xg": 4.88,
+      "goals_vs_xg": -3.88,
+      "total_shots": 51,
+      "sot": 16,
+      "shot_conv": 1.9608,
+      "xg_per_shot": 0.096
+    },
+    {
+      "team": "Everton",
+      "played": 5,
+      "goals": 6,
+      "xg": 7.32,
+      "goals_vs_xg": -1.32,
+      "total_shots": 80,
+      "sot": 23,
+      "shot_conv": 7.5,
+      "xg_per_shot": 0.091
+    },
+    {
+      "team": "Liverpool",
+      "played": 5,
+      "goals": 7,
+      "xg": 8.34,
+      "goals_vs_xg": -1.34,
+      "total_shots": 76,
+      "sot": 24,
+      "shot_conv": 9.2105,
+      "xg_per_shot": 0.11
+    },
+    {
+      "team": "Forest",
+      "played": 5,
+      "goals": 4,
+      "xg": 6.96,
+      "goals_vs_xg": -2.96,
+      "total_shots": 82,
+      "sot": 17,
+      "shot_conv": 4.878,
+      "xg_per_shot": 0.085
+    },
+    {
+      "team": "Palace",
+      "played": 5,
+      "goals": 6,
+      "xg": 6.27,
+      "goals_vs_xg": -0.27,
+      "total_shots": 53,
+      "sot": 18,
+      "shot_conv": 11.3208,
+      "xg_per_shot": 0.118
+    },
+    {
+      "team": "Brighton",
+      "played": 5,
+      "goals": 16,
+      "xg": 11.49,
+      "goals_vs_xg": 4.51,
+      "total_shots": 95,
+      "sot": 29,
+      "shot_conv": 16.8421,
+      "xg_per_shot": 0.121
+    },
+    {
+      "team": "Ipswich",
+      "played": 5,
+      "goals": 7,
+      "xg": 7.72,
+      "goals_vs_xg": -0.72,
+      "total_shots": 58,
+      "sot": 23,
+      "shot_conv": 12.069,
+      "xg_per_shot": 0.133
+    },
+    {
+      "team": "Man City",
+      "played": 5,
+      "goals": 13,
+      "xg": 10.5,
+      "goals_vs_xg": 2.5,
+      "total_shots": 68,
+      "sot": 27,
+      "shot_conv": 19.1176,
+      "xg_per_shot": 0.154
+    },
+    {
+      "team": "Fulham",
+      "played": 5,
+      "goals": 5,
+      "xg": 7.74,
+      "goals_vs_xg": -2.74,
+      "total_shots": 72,
+      "sot": 22,
+      "shot_conv": 6.9444,
+      "xg_per_shot": 0.108
+    },
+    {
+      "team": "Sunderland",
+      "played": 5,
+      "goals": 6,
+      "xg": 9.77,
+      "goals_vs_xg": -3.77,
+      "total_shots": 66,
+      "sot": 25,
+      "shot_conv": 9.0909,
+      "xg_per_shot": 0.148
+    },
+    {
+      "team": "Hull",
+      "played": 5,
+      "goals": 6,
+      "xg": 5.27,
+      "goals_vs_xg": 0.73,
+      "total_shots": 61,
+      "sot": 19,
+      "shot_conv": 9.8361,
+      "xg_per_shot": 0.086
+    },
+    {
+      "team": "Bournemouth",
+      "played": 5,
+      "goals": 6,
+      "xg": 6.72,
+      "goals_vs_xg": -0.72,
+      "total_shots": 68,
+      "sot": 26,
+      "shot_conv": 8.8235,
+      "xg_per_shot": 0.099
+    },
+    {
+      "team": "Brentford",
+      "played": 5,
+      "goals": 10,
+      "xg": 9.9,
+      "goals_vs_xg": 0.1,
+      "total_shots": 81,
+      "sot": 23,
+      "shot_conv": 12.3457,
+      "xg_per_shot": 0.122
+    }
+  ],
+  "passing": [
+    {
+      "team": "Man Utd",
+      "pos_perc": 59.9,
+      "passes": 2850,
+      "successful_pass": 2518,
+      "accuracy": 88.35,
+      "final_third_passes": 958,
+      "successful_final_third_passes_perc": 81.52,
+      "op_crosses": 104,
+      "through_balls": 11
+    },
+    {
+      "team": "Leeds",
+      "pos_perc": 44.81999969482422,
+      "passes": 1811,
+      "successful_pass": 1393,
+      "accuracy": 76.92,
+      "final_third_passes": 451,
+      "successful_final_third_passes_perc": 54.1,
+      "op_crosses": 51,
+      "through_balls": 2
+    },
+    {
+      "team": "Arsenal",
+      "pos_perc": 59.3,
+      "passes": 2504,
+      "successful_pass": 2173,
+      "accuracy": 86.78,
+      "final_third_passes": 815,
+      "successful_final_third_passes_perc": 79.75,
+      "op_crosses": 52,
+      "through_balls": 10
+    },
+    {
+      "team": "Newcastle",
+      "pos_perc": 49.08000030517578,
+      "passes": 2084,
+      "successful_pass": 1732,
+      "accuracy": 83.11,
+      "final_third_passes": 488,
+      "successful_final_third_passes_perc": 71.52,
+      "op_crosses": 43,
+      "through_balls": 13
+    },
+    {
+      "team": "Spurs",
+      "pos_perc": 60.58000030517578,
+      "passes": 2728,
+      "successful_pass": 2409,
+      "accuracy": 88.31,
+      "final_third_passes": 841,
+      "successful_final_third_passes_perc": 80.62,
+      "op_crosses": 82,
+      "through_balls": 10
+    },
+    {
+      "team": "Villa",
+      "pos_perc": 45.920000076293945,
+      "passes": 2032,
+      "successful_pass": 1708,
+      "accuracy": 84.06,
+      "final_third_passes": 566,
+      "successful_final_third_passes_perc": 72.79,
+      "op_crosses": 36,
+      "through_balls": 9
+    },
+    {
+      "team": "Chelsea",
+      "pos_perc": 47.52000007629395,
+      "passes": 2096,
+      "successful_pass": 1740,
+      "accuracy": 83.02,
+      "final_third_passes": 659,
+      "successful_final_third_passes_perc": 73.44,
+      "op_crosses": 66,
+      "through_balls": 3
+    },
+    {
+      "team": "Coventry",
+      "pos_perc": 38.97999992370605,
+      "passes": 1711,
+      "successful_pass": 1322,
+      "accuracy": 77.26,
+      "final_third_passes": 534,
+      "successful_final_third_passes_perc": 62.73,
+      "op_crosses": 55,
+      "through_balls": 2
+    },
+    {
+      "team": "Everton",
+      "pos_perc": 43.55999908447266,
+      "passes": 2042,
+      "successful_pass": 1695,
+      "accuracy": 83.01,
+      "final_third_passes": 640,
+      "successful_final_third_passes_perc": 70.63,
+      "op_crosses": 62,
+      "through_balls": 5
+    },
+    {
+      "team": "Liverpool",
+      "pos_perc": 58.91999969482422,
+      "passes": 2574,
+      "successful_pass": 2205,
+      "accuracy": 85.66,
+      "final_third_passes": 795,
+      "successful_final_third_passes_perc": 75.35,
+      "op_crosses": 79,
+      "through_balls": 9
+    },
+    {
+      "team": "Forest",
+      "pos_perc": 47.340000534057616,
+      "passes": 1878,
+      "successful_pass": 1489,
+      "accuracy": 79.29,
+      "final_third_passes": 589,
+      "successful_final_third_passes_perc": 70.97,
+      "op_crosses": 66,
+      "through_balls": 13
+    },
+    {
+      "team": "Palace",
+      "pos_perc": 43.45999984741211,
+      "passes": 2062,
+      "successful_pass": 1694,
+      "accuracy": 82.15,
+      "final_third_passes": 530,
+      "successful_final_third_passes_perc": 69.25,
+      "op_crosses": 51,
+      "through_balls": 14
+    },
+    {
+      "team": "Brighton",
+      "pos_perc": 64.77999877929688,
+      "passes": 2743,
+      "successful_pass": 2391,
+      "accuracy": 87.17,
+      "final_third_passes": 775,
+      "successful_final_third_passes_perc": 74.71,
+      "op_crosses": 87,
+      "through_balls": 10
+    },
+    {
+      "team": "Ipswich",
+      "pos_perc": 44.779999542236325,
+      "passes": 2054,
+      "successful_pass": 1680,
+      "accuracy": 81.79,
+      "final_third_passes": 512,
+      "successful_final_third_passes_perc": 66.02,
+      "op_crosses": 52,
+      "through_balls": 6
+    },
+    {
+      "team": "Man City",
+      "pos_perc": 63.13999938964844,
+      "passes": 3143,
+      "successful_pass": 2803,
+      "accuracy": 89.18,
+      "final_third_passes": 749,
+      "successful_final_third_passes_perc": 81.31,
+      "op_crosses": 63,
+      "through_balls": 19
+    },
+    {
+      "team": "Fulham",
+      "pos_perc": 54.300000762939455,
+      "passes": 2732,
+      "successful_pass": 2333,
+      "accuracy": 85.4,
+      "final_third_passes": 674,
+      "successful_final_third_passes_perc": 75.67,
+      "op_crosses": 48,
+      "through_balls": 11
+    },
+    {
+      "team": "Sunderland",
+      "pos_perc": 48.44000015258789,
+      "passes": 2003,
+      "successful_pass": 1638,
+      "accuracy": 81.78,
+      "final_third_passes": 558,
+      "successful_final_third_passes_perc": 66.67,
+      "op_crosses": 63,
+      "through_balls": 12
+    },
+    {
+      "team": "Hull",
+      "pos_perc": 32.25999984741211,
+      "passes": 1404,
+      "successful_pass": 1017,
+      "accuracy": 72.44,
+      "final_third_passes": 459,
+      "successful_final_third_passes_perc": 57.95,
+      "op_crosses": 75,
+      "through_balls": 3
+    },
+    {
+      "team": "Bournemouth",
+      "pos_perc": 47.74000015258789,
+      "passes": 2012,
+      "successful_pass": 1606,
+      "accuracy": 79.82,
+      "final_third_passes": 590,
+      "successful_final_third_passes_perc": 67.63,
+      "op_crosses": 61,
+      "through_balls": 4
+    },
+    {
+      "team": "Brentford",
+      "pos_perc": 45.18000106811523,
+      "passes": 1880,
+      "successful_pass": 1455,
+      "accuracy": 77.39,
+      "final_third_passes": 609,
+      "successful_final_third_passes_perc": 65.85,
+      "op_crosses": 73,
+      "through_balls": 9
+    }
+  ],
+  "pressing": [
+    {
+      "team": "Man Utd",
+      "ppda": 12.1,
+      "high_turnovers": 26,
+      "shot_ending_high_turnovers": 6,
+      "defensive_actions": 123
+    },
+    {
+      "team": "Leeds",
+      "ppda": 11.9,
+      "high_turnovers": 34,
+      "shot_ending_high_turnovers": 6,
+      "defensive_actions": 136
+    },
+    {
+      "team": "Arsenal",
+      "ppda": 11.7,
+      "high_turnovers": 28,
+      "shot_ending_high_turnovers": 5,
+      "defensive_actions": 102
+    },
+    {
+      "team": "Newcastle",
+      "ppda": 11.2,
+      "high_turnovers": 24,
+      "shot_ending_high_turnovers": 5,
+      "defensive_actions": 131
+    },
+    {
+      "team": "Spurs",
+      "ppda": 8.8,
+      "high_turnovers": 48,
+      "shot_ending_high_turnovers": 3,
+      "defensive_actions": 159
+    },
+    {
+      "team": "Villa",
+      "ppda": 15.2,
+      "high_turnovers": 24,
+      "shot_ending_high_turnovers": 4,
+      "defensive_actions": 101
+    },
+    {
+      "team": "Chelsea",
+      "ppda": 14.8,
+      "high_turnovers": 33,
+      "shot_ending_high_turnovers": 5,
+      "defensive_actions": 113
+    },
+    {
+      "team": "Coventry",
+      "ppda": 19.8,
+      "high_turnovers": 19,
+      "shot_ending_high_turnovers": 1,
+      "defensive_actions": 96
+    },
+    {
+      "team": "Everton",
+      "ppda": 14.6,
+      "high_turnovers": 40,
+      "shot_ending_high_turnovers": 11,
+      "defensive_actions": 128
+    },
+    {
+      "team": "Liverpool",
+      "ppda": 9.1,
+      "high_turnovers": 38,
+      "shot_ending_high_turnovers": 7,
+      "defensive_actions": 156
+    },
+    {
+      "team": "Forest",
+      "ppda": 12.1,
+      "high_turnovers": 22,
+      "shot_ending_high_turnovers": 6,
+      "defensive_actions": 132
+    },
+    {
+      "team": "Palace",
+      "ppda": 14.8,
+      "high_turnovers": 43,
+      "shot_ending_high_turnovers": 6,
+      "defensive_actions": 134
+    },
+    {
+      "team": "Brighton",
+      "ppda": 7.4,
+      "high_turnovers": 56,
+      "shot_ending_high_turnovers": 8,
+      "defensive_actions": 156
+    },
+    {
+      "team": "Ipswich",
+      "ppda": 13.5,
+      "high_turnovers": 28,
+      "shot_ending_high_turnovers": 11,
+      "defensive_actions": 136
+    },
+    {
+      "team": "Man City",
+      "ppda": 9.9,
+      "high_turnovers": 30,
+      "shot_ending_high_turnovers": 4,
+      "defensive_actions": 131
+    },
+    {
+      "team": "Fulham",
+      "ppda": 13.6,
+      "high_turnovers": 24,
+      "shot_ending_high_turnovers": 8,
+      "defensive_actions": 116
+    },
+    {
+      "team": "Sunderland",
+      "ppda": 10.4,
+      "high_turnovers": 29,
+      "shot_ending_high_turnovers": 3,
+      "defensive_actions": 148
+    },
+    {
+      "team": "Hull",
+      "ppda": 17.2,
+      "high_turnovers": 31,
+      "shot_ending_high_turnovers": 10,
+      "defensive_actions": 117
+    },
+    {
+      "team": "Bournemouth",
+      "ppda": 11.3,
+      "high_turnovers": 42,
+      "shot_ending_high_turnovers": 9,
+      "defensive_actions": 144
+    },
+    {
+      "team": "Brentford",
+      "ppda": 11.2,
+      "high_turnovers": 37,
+      "shot_ending_high_turnovers": 10,
+      "defensive_actions": 141
+    }
+  ],
+  "sequences": [
+    {
+      "team": "Man Utd",
+      "pressed_sequences": 52,
+      "build_ups": 25,
+      "build_up_goals": 1,
+      "direct_attacks": 10,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 74,
+      "direct_speed_for": 1.86,
+      "seq_time_for": 11.75
+    },
+    {
+      "team": "Leeds",
+      "pressed_sequences": 63,
+      "build_ups": 5,
+      "build_up_goals": 0,
+      "direct_attacks": 4,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 38,
+      "direct_speed_for": 2.03,
+      "seq_time_for": 7.68
+    },
+    {
+      "team": "Arsenal",
+      "pressed_sequences": 45,
+      "build_ups": 25,
+      "build_up_goals": 2,
+      "direct_attacks": 13,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 77,
+      "direct_speed_for": 1.85,
+      "seq_time_for": 12.5
+    },
+    {
+      "team": "Newcastle",
+      "pressed_sequences": 44,
+      "build_ups": 14,
+      "build_up_goals": 0,
+      "direct_attacks": 6,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 47,
+      "direct_speed_for": 1.57,
+      "seq_time_for": 9.97
+    },
+    {
+      "team": "Spurs",
+      "pressed_sequences": 68,
+      "build_ups": 21,
+      "build_up_goals": 0,
+      "direct_attacks": 3,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 84,
+      "direct_speed_for": 1.63,
+      "seq_time_for": 12.23
+    },
+    {
+      "team": "Villa",
+      "pressed_sequences": 49,
+      "build_ups": 12,
+      "build_up_goals": 0,
+      "direct_attacks": 5,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 44,
+      "direct_speed_for": 1.81,
+      "seq_time_for": 9.68
+    },
+    {
+      "team": "Chelsea",
+      "pressed_sequences": 48,
+      "build_ups": 13,
+      "build_up_goals": 0,
+      "direct_attacks": 11,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 51,
+      "direct_speed_for": 1.81,
+      "seq_time_for": 9.65
+    },
+    {
+      "team": "Coventry",
+      "pressed_sequences": 38,
+      "build_ups": 4,
+      "build_up_goals": 0,
+      "direct_attacks": 5,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 33,
+      "direct_speed_for": 1.94,
+      "seq_time_for": 8.41
+    },
+    {
+      "team": "Everton",
+      "pressed_sequences": 62,
+      "build_ups": 13,
+      "build_up_goals": 0,
+      "direct_attacks": 7,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 48,
+      "direct_speed_for": 1.83,
+      "seq_time_for": 9.07
+    },
+    {
+      "team": "Liverpool",
+      "pressed_sequences": 58,
+      "build_ups": 19,
+      "build_up_goals": 3,
+      "direct_attacks": 9,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 66,
+      "direct_speed_for": 1.86,
+      "seq_time_for": 11.22
+    },
+    {
+      "team": "Forest",
+      "pressed_sequences": 36,
+      "build_ups": 4,
+      "build_up_goals": 0,
+      "direct_attacks": 7,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 28,
+      "direct_speed_for": 1.9,
+      "seq_time_for": 7.94
+    },
+    {
+      "team": "Palace",
+      "pressed_sequences": 43,
+      "build_ups": 8,
+      "build_up_goals": 0,
+      "direct_attacks": 5,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 41,
+      "direct_speed_for": 1.96,
+      "seq_time_for": 9
+    },
+    {
+      "team": "Brighton",
+      "pressed_sequences": 56,
+      "build_ups": 18,
+      "build_up_goals": 1,
+      "direct_attacks": 7,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 85,
+      "direct_speed_for": 1.73,
+      "seq_time_for": 11.89
+    },
+    {
+      "team": "Ipswich",
+      "pressed_sequences": 54,
+      "build_ups": 11,
+      "build_up_goals": 0,
+      "direct_attacks": 10,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 47,
+      "direct_speed_for": 1.81,
+      "seq_time_for": 9.55
+    },
+    {
+      "team": "Man City",
+      "pressed_sequences": 50,
+      "build_ups": 25,
+      "build_up_goals": 5,
+      "direct_attacks": 3,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 118,
+      "direct_speed_for": 1.43,
+      "seq_time_for": 14.59
+    },
+    {
+      "team": "Fulham",
+      "pressed_sequences": 49,
+      "build_ups": 26,
+      "build_up_goals": 1,
+      "direct_attacks": 6,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 75,
+      "direct_speed_for": 1.39,
+      "seq_time_for": 11.95
+    },
+    {
+      "team": "Sunderland",
+      "pressed_sequences": 52,
+      "build_ups": 7,
+      "build_up_goals": 0,
+      "direct_attacks": 6,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 42,
+      "direct_speed_for": 1.79,
+      "seq_time_for": 8.98
+    },
+    {
+      "team": "Hull",
+      "pressed_sequences": 54,
+      "build_ups": 2,
+      "build_up_goals": 0,
+      "direct_attacks": 6,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 22,
+      "direct_speed_for": 2.29,
+      "seq_time_for": 7.25
+    },
+    {
+      "team": "Bournemouth",
+      "pressed_sequences": 58,
+      "build_ups": 11,
+      "build_up_goals": 1,
+      "direct_attacks": 12,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 40,
+      "direct_speed_for": 1.91,
+      "seq_time_for": 8.35
+    },
+    {
+      "team": "Brentford",
+      "pressed_sequences": 60,
+      "build_ups": 8,
+      "build_up_goals": 1,
+      "direct_attacks": 7,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 33,
+      "direct_speed_for": 1.92,
+      "seq_time_for": 7.34
+    }
+  ],
+  "defending": [
+    {
+      "team": "Man Utd",
+      "goals_against": 8,
+      "xg_against": 6.8,
+      "goals_vs_xg_conceded": 1.2,
+      "total_shots_against": 53,
+      "sot_against": 23,
+      "shot_conv_against": 15.0943,
+      "xg_per_shot_against": 0.128
+    },
+    {
+      "team": "Leeds",
+      "goals_against": 3,
+      "xg_against": 6.46,
+      "goals_vs_xg_conceded": -3.46,
+      "total_shots_against": 73,
+      "sot_against": 21,
+      "shot_conv_against": 4.1096,
+      "xg_per_shot_against": 0.088
+    },
+    {
+      "team": "Arsenal",
+      "goals_against": 4,
+      "xg_against": 4.04,
+      "goals_vs_xg_conceded": -0.04,
+      "total_shots_against": 53,
+      "sot_against": 14,
+      "shot_conv_against": 7.5472,
+      "xg_per_shot_against": 0.076
+    },
+    {
+      "team": "Newcastle",
+      "goals_against": 9,
+      "xg_against": 9.05,
+      "goals_vs_xg_conceded": -0.05,
+      "total_shots_against": 97,
+      "sot_against": 28,
+      "shot_conv_against": 9.2784,
+      "xg_per_shot_against": 0.093
+    },
+    {
+      "team": "Spurs",
+      "goals_against": 8,
+      "xg_against": 7.86,
+      "goals_vs_xg_conceded": 0.14,
+      "total_shots_against": 76,
+      "sot_against": 21,
+      "shot_conv_against": 10.5263,
+      "xg_per_shot_against": 0.103
+    },
+    {
+      "team": "Villa",
+      "goals_against": 9,
+      "xg_against": 8.91,
+      "goals_vs_xg_conceded": 0.09,
+      "total_shots_against": 81,
+      "sot_against": 26,
+      "shot_conv_against": 11.1111,
+      "xg_per_shot_against": 0.11
+    },
+    {
+      "team": "Chelsea",
+      "goals_against": 12,
+      "xg_against": 8.82,
+      "goals_vs_xg_conceded": 3.18,
+      "total_shots_against": 72,
+      "sot_against": 32,
+      "shot_conv_against": 16.6667,
+      "xg_per_shot_against": 0.122
+    },
+    {
+      "team": "Coventry",
+      "goals_against": 10,
+      "xg_against": 8.64,
+      "goals_vs_xg_conceded": 1.36,
+      "total_shots_against": 87,
+      "sot_against": 22,
+      "shot_conv_against": 11.4943,
+      "xg_per_shot_against": 0.099
+    },
+    {
+      "team": "Everton",
+      "goals_against": 3,
+      "xg_against": 6.94,
+      "goals_vs_xg_conceded": -3.94,
+      "total_shots_against": 69,
+      "sot_against": 18,
+      "shot_conv_against": 4.3478,
+      "xg_per_shot_against": 0.101
+    },
+    {
+      "team": "Liverpool",
+      "goals_against": 4,
+      "xg_against": 6.12,
+      "goals_vs_xg_conceded": -2.12,
+      "total_shots_against": 58,
+      "sot_against": 18,
+      "shot_conv_against": 6.8966,
+      "xg_per_shot_against": 0.106
+    },
+    {
+      "team": "Forest",
+      "goals_against": 5,
+      "xg_against": 4.8,
+      "goals_vs_xg_conceded": 0.2,
+      "total_shots_against": 52,
+      "sot_against": 15,
+      "shot_conv_against": 9.6154,
+      "xg_per_shot_against": 0.092
+    },
+    {
+      "team": "Palace",
+      "goals_against": 11,
+      "xg_against": 9.46,
+      "goals_vs_xg_conceded": 1.54,
+      "total_shots_against": 84,
+      "sot_against": 28,
+      "shot_conv_against": 13.0952,
+      "xg_per_shot_against": 0.113
+    },
+    {
+      "team": "Brighton",
+      "goals_against": 5,
+      "xg_against": 8.68,
+      "goals_vs_xg_conceded": -3.68,
+      "total_shots_against": 58,
+      "sot_against": 19,
+      "shot_conv_against": 8.6207,
+      "xg_per_shot_against": 0.15
+    },
+    {
+      "team": "Ipswich",
+      "goals_against": 11,
+      "xg_against": 8.98,
+      "goals_vs_xg_conceded": 2.02,
+      "total_shots_against": 86,
+      "sot_against": 28,
+      "shot_conv_against": 12.7907,
+      "xg_per_shot_against": 0.104
+    },
+    {
+      "team": "Man City",
+      "goals_against": 5,
+      "xg_against": 7.25,
+      "goals_vs_xg_conceded": -2.25,
+      "total_shots_against": 59,
+      "sot_against": 20,
+      "shot_conv_against": 8.4746,
+      "xg_per_shot_against": 0.123
+    },
+    {
+      "team": "Fulham",
+      "goals_against": 8,
+      "xg_against": 9.12,
+      "goals_vs_xg_conceded": -1.12,
+      "total_shots_against": 83,
+      "sot_against": 24,
+      "shot_conv_against": 9.6386,
+      "xg_per_shot_against": 0.11
+    },
+    {
+      "team": "Sunderland",
+      "goals_against": 10,
+      "xg_against": 8.65,
+      "goals_vs_xg_conceded": 1.35,
+      "total_shots_against": 60,
+      "sot_against": 16,
+      "shot_conv_against": 16.6667,
+      "xg_per_shot_against": 0.144
+    },
+    {
+      "team": "Hull",
+      "goals_against": 4,
+      "xg_against": 7.39,
+      "goals_vs_xg_conceded": -3.39,
+      "total_shots_against": 69,
+      "sot_against": 21,
+      "shot_conv_against": 5.7971,
+      "xg_per_shot_against": 0.107
+    },
+    {
+      "team": "Bournemouth",
+      "goals_against": 8,
+      "xg_against": 6.94,
+      "goals_vs_xg_conceded": 1.06,
+      "total_shots_against": 54,
+      "sot_against": 20,
+      "shot_conv_against": 14.8148,
+      "xg_per_shot_against": 0.129
+    },
+    {
+      "team": "Brentford",
+      "goals_against": 4,
+      "xg_against": 6.31,
+      "goals_vs_xg_conceded": -2.31,
+      "total_shots_against": 67,
+      "sot_against": 23,
+      "shot_conv_against": 5.9701,
+      "xg_per_shot_against": 0.094
+    }
+  ],
+  "league": "English Premier League",
+  "lastUpdated": "2026-10-05 05:35:58.748380",
+  "source": "theanalyst.com (Opta) tournament stats API",
+  "powerRankings": [
+    {
+      "team": "Arsenal",
+      "rating": 100,
+      "rank": 1,
+      "globalRank": 1
+    },
+    {
+      "team": "Man City",
+      "rating": 98.8256108988,
+      "rank": 2,
+      "globalRank": 3
+    },
+    {
+      "team": "Liverpool",
+      "rating": 96.0471965654,
+      "rank": 3,
+      "globalRank": 5
+    },
+    {
+      "team": "Brighton",
+      "rating": 94.7294281494,
+      "rank": 4,
+      "globalRank": 7
+    },
+    {
+      "team": "Man Utd",
+      "rating": 94.0854599619,
+      "rank": 5,
+      "globalRank": 9
+    },
+    {
+      "team": "Villa",
+      "rating": 93.7284776144,
+      "rank": 6,
+      "globalRank": 10
+    },
+    {
+      "team": "Chelsea",
+      "rating": 93.4537388543,
+      "rank": 7,
+      "globalRank": 12
+    },
+    {
+      "team": "Brentford",
+      "rating": 92.9530799747,
+      "rank": 8,
+      "globalRank": 13
+    },
+    {
+      "team": "Newcastle",
+      "rating": 92.9334512053,
+      "rank": 9,
+      "globalRank": 14
+    },
+    {
+      "team": "Everton",
+      "rating": 92.7595411167,
+      "rank": 10,
+      "globalRank": 16
+    },
+    {
+      "team": "Leeds",
+      "rating": 92.0768811138,
+      "rank": 11,
+      "globalRank": 18
+    },
+    {
+      "team": "Bournemouth",
+      "rating": 91.9742263509,
+      "rank": 12,
+      "globalRank": 19
+    },
+    {
+      "team": "Spurs",
+      "rating": 91.2724192184,
+      "rank": 13,
+      "globalRank": 25
+    },
+    {
+      "team": "Forest",
+      "rating": 91.0856536131,
+      "rank": 14,
+      "globalRank": 27
+    },
+    {
+      "team": "Sunderland",
+      "rating": 90.772396054,
+      "rank": 15,
+      "globalRank": 29
+    },
+    {
+      "team": "Palace",
+      "rating": 90.6035182831,
+      "rank": 16,
+      "globalRank": 32
+    },
+    {
+      "team": "Fulham",
+      "rating": 90.0033995042,
+      "rank": 17,
+      "globalRank": 34
+    },
+    {
+      "team": "Hull",
+      "rating": 89.9279011911,
+      "rank": 18,
+      "globalRank": 36
+    },
+    {
+      "team": "Ipswich",
+      "rating": 89.811029736,
+      "rank": 19,
+      "globalRank": 37
+    },
+    {
+      "team": "Coventry",
+      "rating": 89.125211643,
+      "rank": 20,
+      "globalRank": 42
+    }
+  ],
+  "powerRankingsUpdated": "2026-10-05T03:03:33Z"
+}

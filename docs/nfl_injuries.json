@@ -1,0 +1,2089 @@
+{
+  "generated_at": "2026-10-05 22:11 UTC",
+  "teams": {
+    "ARI": [
+      {
+        "player": "Jeremiyah Love",
+        "playerId": "4870808",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "questionable",
+        "date": "2026-10-05T21:55Z"
+      },
+      {
+        "player": "Paris Johnson Jr.",
+        "playerId": "4428991",
+        "position": "OT",
+        "status": "Out",
+        "injury": "Biceps",
+        "estimatedReturn": "2027-02-15",
+        "comment": "out",
+        "date": "2026-10-05T21:42Z"
+      },
+      {
+        "player": "Dadrion Taylor-Demerson",
+        "playerId": "4428633",
+        "position": "S",
+        "status": "Out",
+        "injury": "Back",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:27Z"
+      },
+      {
+        "player": "Isaiah Adams",
+        "playerId": "5084939",
+        "position": "G",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Adams had to be carted to the locker room and was replaced by Jon Gaines at right guard for the remainder of the contest. Projected starter Chase Bisontis suffered a season-ending torn MCL earlier in the summer.",
+        "date": "2026-10-05T00:47Z"
+      },
+      {
+        "player": "Hunter Long",
+        "playerId": "4239944",
+        "position": "TE",
+        "status": "Questionable",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "In Long's absence, Elijah Higgins is the lone depth option at tight end behind Trey McBride. Long is being evaluated by medical staff to determine whether he can return to Sunday's game.",
+        "date": "2026-10-04T19:58Z"
+      },
+      {
+        "player": "Andrew Wingard",
+        "playerId": "3918331",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "The news doesn't come as much of a surprise, considering Wingard had to be carted off the field and into the locker room after sustaining a knee injury. Wydett Williams will continue to see more defensive snaps at safety in Wingard's absenc",
+        "date": "2026-10-04T19:42Z"
+      }
+    ],
+    "ATL": [
+      {
+        "player": "Yasir Abdullah",
+        "playerId": "4360807",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Illness",
+        "estimatedReturn": "2026-10-05",
+        "comment": "Abdullah wasn't originally on Atlanta's injury report, but he was added Saturday afternoon after coming down with an illness. The 26-year-old has logged 47 defensive snaps and two tackles through three games this season.",
+        "date": "2026-10-03T23:58Z"
+      },
+      {
+        "player": "Divine Deablo",
+        "playerId": "4037626",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-05",
+        "comment": "A hamstring injury limited Deablo's practice participation all week, so the sixth-year pro will have the questionable tag heading into Monday's NFC South showdown. Rookie sixth-rounder Harold Perkins would likely start next to Kendal Daniel",
+        "date": "2026-10-03T17:10Z"
+      },
+      {
+        "player": "Samson Ebukam",
+        "playerId": "3045527",
+        "position": "DE",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-05",
+        "comment": "questionable",
+        "date": "2026-09-29T16:45Z"
+      }
+    ],
+    "BAL": [
+      {
+        "player": "Chris Moore",
+        "playerId": "2576581",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T21:55Z"
+      },
+      {
+        "player": "Lamar Jackson",
+        "playerId": "3916387",
+        "position": "QB",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "After sitting out the entire second half of Sunday's 24-18 win over the Titans due to the left ankle injury he sustained late in the second quarter, Jackson was spotted in a walking boot following the contest. The Ravens are tentatively Jac",
+        "date": "2026-10-05T20:57Z"
+      },
+      {
+        "player": "Trey Hendrickson",
+        "playerId": "3052743",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Finger",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:28Z"
+      },
+      {
+        "player": "Ronnie Stanley",
+        "playerId": "2980153",
+        "position": "OT",
+        "status": "Questionable",
+        "injury": "Toe",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Stanley made his return to action Sunday after missing Week 3 while nursing a toe injury. After the victory, the left tackle noted he is still dealing with the issue, and that the injury was sustained in the first half of the team's Week 1 ",
+        "date": "2026-10-04T21:22Z"
+      },
+      {
+        "player": "Durham Smythe",
+        "playerId": "3052897",
+        "position": "TE",
+        "status": "Questionable",
+        "injury": "Achilles",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Smythe joins an extensive list of Baltimore injuries in Week 4. Without Smythe on the field for the remainder of Sunday's meeting with Tennessee, Matthew Hibner and Josh Cuevas could see some snaps behind Mark Andrews.",
+        "date": "2026-10-04T19:52Z"
+      },
+      {
+        "player": "Marlon Humphrey",
+        "playerId": "3126356",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Calf",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Humphrey injured his calf in the first half, and the injury is severe enough for the veteran corner to be sidelined for the rest of Sunday's game. Chidobe Awuzie will continue to operate in an elevated role defensively in Humphrey's absence",
+        "date": "2026-10-04T19:18Z"
+      },
+      {
+        "player": "Andrew Vorhees",
+        "playerId": "4243220",
+        "position": "G",
+        "status": "Questionable",
+        "injury": "Foot",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Vorhees made his first start of the 2026 campaign Sunday. However, his day is now finished due to a foot injury. With Vorhees ruled out, Emery Jones took over and will handle things the rest of the way.",
+        "date": "2026-10-04T19:08Z"
+      },
+      {
+        "player": "Ethan Pocic",
+        "playerId": "3042738",
+        "position": "C",
+        "status": "Injured Reserve",
+        "injury": "Knee",
+        "estimatedReturn": "2026-11-01",
+        "comment": "Pocic hurt his knee in Week 3 against Dallas and will need to sit out at least four games. Jovaughn Gwyn (ankle) was also moved to IR on Saturday, leaving Olaivavega Ioane to handle starting center duties for the Ravens moving forward.",
+        "date": "2026-10-04T00:42Z"
+      },
+      {
+        "player": "Jovaughn Gwyn",
+        "playerId": "4362845",
+        "position": "G",
+        "status": "Injured Reserve",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-12-13",
+        "comment": "This move was anticipated after Gwyn was diagnosed with a fractured fibula earlier in the week and given a 2-to-3 month return timetable. Ethan Pocic (knee) also landed on injured reserve Saturday, so Baltimore will have to rely on rookie f",
+        "date": "2026-10-04T00:38Z"
+      }
+    ],
+    "BUF": [
+      {
+        "player": "T.J. Sanders",
+        "playerId": "4684527",
+        "position": "DT",
+        "status": "Out",
+        "injury": "out",
+        "estimatedReturn": "2026-10-12",
+        "comment": "out",
+        "date": "2026-10-05T18:30Z"
+      },
+      {
+        "player": "Christian Benford",
+        "playerId": "4379778",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Toe",
+        "estimatedReturn": "2026-10-12",
+        "comment": "out",
+        "date": "2026-10-05T18:30Z"
+      },
+      {
+        "player": "DJ Moore",
+        "playerId": "3915416",
+        "position": "WR",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "estimatedReturn": "2026-10-12",
+        "comment": "Moore exited Sunday's loss to the Patriots after aggravating a previous shoulder injury. He isn't expected to miss significant time, though it remains to be seen if Moore will play against the Rams in Week 5. The 29-year-old wide receiver h",
+        "date": "2026-10-05T00:42Z"
+      },
+      {
+        "player": "Dee Alford",
+        "playerId": "4401823",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-12",
+        "comment": "Alford sustained the injury in the second half of Sunday's game, and he's being evaluated by trainers to determine whether he can return. Davison Igbinosun should see more defensive snaps in Alford's absence.",
+        "date": "2026-10-04T19:46Z"
+      },
+      {
+        "player": "Ed Oliver",
+        "playerId": "4039303",
+        "position": "DT",
+        "status": "Questionable",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-12",
+        "comment": "With Oliver being evaluated by medical staff and T.J. Sanders (appendix) inactive, the Bills will lean more heavily on DeWayne Carter, Landon Jackson and Greg Gaines on defense.",
+        "date": "2026-10-04T19:45Z"
+      },
+      {
+        "player": "Te'Cory Couch",
+        "playerId": "4427348",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-12",
+        "comment": "Couch was a practice-squad elevation for Week 4. He was slated to potentially pick up some work on defense with Christian Benford (toe) inactive, but now Couch is probably done for the day. With that said, Couch's likely absence will primar",
+        "date": "2026-10-04T18:51Z"
+      }
+    ],
+    "CAR": [
+      {
+        "player": "Damien Lewis",
+        "playerId": "4362647",
+        "position": "G",
+        "status": "Out",
+        "injury": "Elbow",
+        "estimatedReturn": "2026-10-18",
+        "comment": "out",
+        "date": "2026-10-05T18:31Z"
+      },
+      {
+        "player": "Jaelan Phillips",
+        "playerId": "4242975",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-18",
+        "comment": "Phillips is also being evaluated for a concussion, making it unlikely that he'll be able to return to the field before the game's conclusion. In his absence, Trevis Gipson and Princely Umanmielen are both candidates to see an increase in wo",
+        "date": "2026-10-05T03:33Z"
+      },
+      {
+        "player": "Monroe Freeling",
+        "playerId": "4870694",
+        "position": "OT",
+        "status": "Questionable",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-18",
+        "comment": "Freeling suffered a knee injury in the third quarter, and his night has now officially come to a premature end. In his absence, Stone Forsythe has taken over as the team's starting right tackle. Freeling will have a chance to get some extra",
+        "date": "2026-10-05T02:56Z"
+      },
+      {
+        "player": "Cam Jackson",
+        "playerId": "4687513",
+        "position": "DT",
+        "status": "Out",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-18",
+        "comment": "Jackson will be forced to miss Week 4 as he nurses a knee injury. In his absence, Lee Hunter will handle the lion's share of snaps at nose tackle versus Detroit.",
+        "date": "2026-10-04T23:12Z"
+      },
+      {
+        "player": "Jalen Coker",
+        "playerId": "4695883",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Quadriceps",
+        "estimatedReturn": "2026-10-18",
+        "comment": "Coker thus will miss his first contest of the season due to a quadriceps issue that he picked up last Sunday in Cleveland. He was able to log limited sessions Thursday and Friday, so his absence in Week 4 may be the Panthers exercising caut",
+        "date": "2026-10-04T23:00Z"
+      },
+      {
+        "player": "Xavier Legette",
+        "playerId": "4430034",
+        "position": "WR",
+        "status": "Injured Reserve",
+        "injury": "Knee",
+        "estimatedReturn": "2026-11-08",
+        "comment": "Legette has been working through a knee injury the last two weeks, and while he was slated to miss a second straight contest Sunday against the Lions, he'll now sit out at least the next four (including Week 4), meaning his next chance for ",
+        "date": "2026-10-03T20:15Z"
+      },
+      {
+        "player": "Mike Jackson",
+        "playerId": "3917853",
+        "position": "CB",
+        "status": "Injured Reserve",
+        "injury": "Groin",
+        "estimatedReturn": "2026-11-22",
+        "comment": "The Panthers are in a code-red situation at cornerback after both starters, Jackson and Jaycee Horn (quadriceps), suffered significant injuries against Cleveland in Week 3. Ahead of a date with Amon-Ra St. Brown and Jameson Williams on nati",
+        "date": "2026-09-30T19:44Z"
+      },
+      {
+        "player": "Jaycee Horn",
+        "playerId": "4362847",
+        "position": "CB",
+        "status": "Injured Reserve",
+        "injury": "Quadriceps",
+        "estimatedReturn": "2026-11-15",
+        "comment": "Horn suffered a torn quadriceps in Sunday's loss to the Browns and is expected to miss anywhere from 6-to-12 weeks. It's a brutal blow to the Carolina secondary, which will also be without Mike Jackson (groin) for at least the next four wee",
+        "date": "2026-09-30T15:25Z"
+      }
+    ],
+    "CHI": [
+      {
+        "player": "Anthony Johnson Jr.",
+        "playerId": "4361748",
+        "position": "S",
+        "status": "Out",
+        "injury": "Undisclosed",
+        "estimatedReturn": "2026-10-18",
+        "comment": "out",
+        "date": "2026-10-05T21:55Z"
+      },
+      {
+        "player": "Caleb Williams",
+        "playerId": "4431611",
+        "position": "QB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-18",
+        "comment": "Johnson noted that Williams has incurred no unexpected setbacks in his rehab program while he recovers from the Grade 2 right hamstring strain he sustained in a Sept. 20 loss to the Vikings, but the Bears are continuing to proceed cautiousl",
+        "date": "2026-10-05T21:13Z"
+      },
+      {
+        "player": "Kyle Monangai",
+        "playerId": "4608686",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Thumb",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Monangai was on the bench for the final four minutes of the victory due to the injury, but he handled a hefty workload prior to his departure, finishing the day with 30 carries for 146 yards and two touchdowns while tacking on a four-yard r",
+        "date": "2026-10-05T21:08Z"
+      },
+      {
+        "player": "Cam Lewis",
+        "playerId": "3916577",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Hip",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:32Z"
+      },
+      {
+        "player": "Braxton Jones",
+        "playerId": "4251007",
+        "position": "OT",
+        "status": "Injured Reserve",
+        "injury": "Knee",
+        "estimatedReturn": "2026-11-02",
+        "comment": "Jones suffered a knee injury last Monday versus the Eagles and is now required to sit out at least four contests while on IR. Theo Benedet is poised to take over as Chicago's starting left tackle during Jones' absence.",
+        "date": "2026-10-04T01:02Z"
+      },
+      {
+        "player": "Kyler Gordon",
+        "playerId": "4361093",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Calf",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Since he began the regular season on Chicago's reserve/PUP list, Gordon won't be eligible to suit up for game action again until Week 5 at Green Bay. With that said, his current availability at practice is a strong indication he's on track ",
+        "date": "2026-10-01T00:31Z"
+      },
+      {
+        "player": "Shemar Turner",
+        "playerId": "4432804",
+        "position": "DT",
+        "status": "Out",
+        "injury": "Knee - ACL",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Turner suffered a torn ACL during Week 8 of last season but is now closer to making his return to the field. The 23-year-old was placed on the reserve/PUP list in August and will have to miss at least two more games as a result before he's ",
+        "date": "2026-09-24T00:28Z"
+      },
+      {
+        "player": "Noah Sewell",
+        "playerId": "4430822",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Achilles",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Sewell began the 2026 campaign on the reserve/PUP list while working his way back from a torn Achilles. Although that means he is required to miss at least two more games, it appears he is moving in a positive direction toward a return. The",
+        "date": "2026-09-23T22:34Z"
+      }
+    ],
+    "CIN": [
+      {
+        "player": "Tee Higgins",
+        "playerId": "4239993",
+        "position": "WR",
+        "status": "Questionable",
+        "injury": "Groin",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Higgins emerged from Sunday's loss to the Jaguars with an adductor issue, but he appears to have avoided any sort of serious setback. More will be know about Higgins' status by Wednesday at the latest, when the Bengals provide an official u",
+        "date": "2026-10-05T19:16Z"
+      },
+      {
+        "player": "Colbie Young",
+        "playerId": "5092508",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:34Z"
+      },
+      {
+        "player": "Bryan Cook",
+        "playerId": "4247726",
+        "position": "S",
+        "status": "Out",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:34Z"
+      },
+      {
+        "player": "Kyle Dugger",
+        "playerId": "4401811",
+        "position": "S",
+        "status": "Out",
+        "injury": "Quadriceps",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:34Z"
+      },
+      {
+        "player": "B.J. Hill",
+        "playerId": "3116748",
+        "position": "DT",
+        "status": "Out",
+        "injury": "Achilles",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:34Z"
+      },
+      {
+        "player": "Swayze Bozeman",
+        "playerId": "4570546",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Groin",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:34Z"
+      },
+      {
+        "player": "Ja'Marr Chase",
+        "playerId": "4362628",
+        "position": "WR",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Chase was taken out of the game to be checked for a possible concussion after his facemask was pulled at the end of a four-yard catch in the second quarter. With the superstar wide receiver done for the day, Tee Higgins will be Joe Burrow's",
+        "date": "2026-10-04T18:47Z"
+      },
+      {
+        "player": "Jalen Davis",
+        "playerId": "3125356",
+        "position": "CB",
+        "status": "Injured Reserve",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-11-08",
+        "comment": "Davis injured his hamstring during the Bengals' 30-27 loss to the Steelers in Week 3. The injury is severe enough for the Utah State product to spend time on IR, which means he'll be sidelined for at least the next four games and is eligibl",
+        "date": "2026-09-29T23:16Z"
+      }
+    ],
+    "CLE": [
+      {
+        "player": "Tylan Wallace",
+        "playerId": "4241424",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:37Z"
+      },
+      {
+        "player": "Elgton Jenkins",
+        "playerId": "3115485",
+        "position": "C",
+        "status": "Out",
+        "injury": "Concussion",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:37Z"
+      },
+      {
+        "player": "Teven Jenkins",
+        "playerId": "4038457",
+        "position": "G",
+        "status": "Out",
+        "injury": "Back",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:37Z"
+      },
+      {
+        "player": "Mason Graham",
+        "playerId": "4873232",
+        "position": "DT",
+        "status": "Questionable",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Graham avoided a devastating injury in Thursday night's game. The team leader in sacks is expected to remain week-to-week as he begins his recovery process, per Scott Petrak of the Elyria Chronicle-Telegram. Adin Huntington could see additi",
+        "date": "2026-10-02T19:22Z"
+      }
+    ],
+    "DAL": [
+      {
+        "player": "Tyler Smith",
+        "playerId": "4568652",
+        "position": "G",
+        "status": "Injured Reserve",
+        "injury": "Thumb",
+        "estimatedReturn": "2026-10-08",
+        "comment": "Smith missed the Cowboys' first four games of the season after undergoing surgery in early September to address a thumb injury, but he looks like he'll have a chance at returning to action when first eligible Week 5. Per Nick Harris of the ",
+        "date": "2026-10-05T21:31Z"
+      },
+      {
+        "player": "DeMarvion Overshown",
+        "playerId": "4362088",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-08",
+        "comment": "out",
+        "date": "2026-10-05T18:38Z"
+      },
+      {
+        "player": "Cobie Durant",
+        "playerId": "4384549",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-08",
+        "comment": "out",
+        "date": "2026-10-05T18:38Z"
+      },
+      {
+        "player": "Jonathan Bullard",
+        "playerId": "2980097",
+        "position": "DT",
+        "status": "Injured Reserve",
+        "injury": "Calf",
+        "estimatedReturn": "2026-11-01",
+        "comment": "Bullard suffered a calf injury during the Cowboys' Week 3 loss to the Ravens. The injury is severe enough for him to require a stint on IR, which means he'll have to miss at least the next four games and is eligible to return for Week 8 aga",
+        "date": "2026-10-01T00:58Z"
+      },
+      {
+        "player": "Jalen Thompson",
+        "playerId": "4043089",
+        "position": "S",
+        "status": "Injured Reserve",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-11-01",
+        "comment": "Thompson sustained the injury in Sunday's loss to the Ravens and will now miss at least the next four contests. Markquese Bell filled in alongside rookie Caleb Downs at safety following Thompson's departure.",
+        "date": "2026-09-30T18:33Z"
+      },
+      {
+        "player": "P.J. Locke",
+        "playerId": "3929850",
+        "position": "S",
+        "status": "Injured Reserve",
+        "injury": "Foot",
+        "estimatedReturn": "2026-10-26",
+        "comment": "Locke has not practiced since sustaining a foot injury in the Cowboys' Week 2 win over the Commanders. The free safety must now miss at least four games on IR before becoming eligible to return to the team's active roster. While Locke is ab",
+        "date": "2026-09-26T18:27Z"
+      }
+    ],
+    "DEN": [
+      {
+        "player": "Dondrea Tillman",
+        "playerId": "5216101",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:39Z"
+      },
+      {
+        "player": "Pat Surtain II",
+        "playerId": "4372012",
+        "position": "CB",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "It was reported earlier Monday that Surtain was expected to miss time with the ankle injury he sustained in Sunday's loss to the 49ers, and it appears he will sit out at least a couple games. However, Surtain does not appear to be facing an",
+        "date": "2026-10-05T18:28Z"
+      },
+      {
+        "player": "Pat Bryant",
+        "playerId": "4600981",
+        "position": "WR",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Bryant finished with three receptions for 47 yards on three targets before he checked out of the game after he appeared to injure the ankle when he was tackled at the end of his final catch of the day with just under three minutes left in t",
+        "date": "2026-10-05T16:15Z"
+      },
+      {
+        "player": "Riley Moss",
+        "playerId": "4382401",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Ribs",
+        "estimatedReturn": "2026-10-11",
+        "comment": "This isn't the first time Moss has dealt with rib injuries, and his departure from Sunday's contest means the Broncos are down another defender. With Patrick Surtain (ankle) also exiting the game, Kris Abrams-Draine and Jahdae Barron should",
+        "date": "2026-10-04T22:27Z"
+      },
+      {
+        "player": "Jonah Coleman",
+        "playerId": "4702555",
+        "position": "RB",
+        "status": "Injured Reserve",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-25",
+        "comment": "Coleman has been diagnosed with a high-ankle sprain and was unable to practice all week. He'll now go on IR and will be required to miss at least four games, meaning the earliest he can return is Week 7 against the Cardinals on Sunday, Oct.",
+        "date": "2026-09-26T20:36Z"
+      }
+    ],
+    "DET": [
+      {
+        "player": "Ben Bartch",
+        "playerId": "4611506",
+        "position": "G",
+        "status": "Out",
+        "injury": "Foot",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:40Z"
+      },
+      {
+        "player": "Rock Ya-Sin",
+        "playerId": "3910229",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Ya-Sin suffered a hamstring injury in the second half, and his night has now officially come to a premature end. The Lions are having a fair amount of trouble stopping the Panthers' passing attack, and Detroit will now be even thinner in th",
+        "date": "2026-10-05T02:47Z"
+      },
+      {
+        "player": "Brian Branch",
+        "playerId": "4692025",
+        "position": "S",
+        "status": "Out",
+        "injury": "Achilles",
+        "estimatedReturn": "2026-10-11",
+        "comment": "\"Close\" is a relative term, so it's unclear how close Branch actually is, considering he remains on the reserve/PUP list and has yet to begin practicing. It sounds like that could change next week. The Lions have been relying on Roger McCre",
+        "date": "2026-10-02T16:17Z"
+      },
+      {
+        "player": "Cade Mays",
+        "playerId": "4361788",
+        "position": "C",
+        "status": "Injured Reserve",
+        "injury": "Wrist",
+        "estimatedReturn": "2026-10-25",
+        "comment": "Mays was placed on IR on Aug. 30. The center fractured his wrist in the preseason but is set to return to the active roster soon. If Mays can get back in action after the Lions' Week 6 bye, he should be able to reclaim the starting center r",
+        "date": "2026-09-29T01:05Z"
+      },
+      {
+        "player": "Thomas Harper",
+        "playerId": "4569323",
+        "position": "S",
+        "status": "Injured Reserve",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-11-01",
+        "comment": "Harper has not been able to practice since sustaining an ankle injury during the Lions' Week 2 loss to the Bills. The safety departing for IR leaves the Lions' secondary dangerously low on defensive backs, now without Harper, Avonte Maddox ",
+        "date": "2026-09-26T21:03Z"
+      }
+    ],
+    "GB": [
+      {
+        "player": "Micah Parsons",
+        "playerId": "4361423",
+        "position": "DE",
+        "status": "Out",
+        "injury": "Knee - ACL",
+        "estimatedReturn": "2026-10-18",
+        "comment": "With four weeks in the books Parsons is now eligible to be activated from the active/PUP list, but with him not yet ready to practice he will not return to action in Week 5 against the Bears, and it may be tough for him to make it back for ",
+        "date": "2026-10-05T21:10Z"
+      },
+      {
+        "player": "Jacob Monk",
+        "playerId": "4428037",
+        "position": "C",
+        "status": "Out",
+        "injury": "Quadriceps",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:41Z"
+      },
+      {
+        "player": "Aaron Banks",
+        "playerId": "4242390",
+        "position": "G",
+        "status": "Out",
+        "injury": "Toe",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:41Z"
+      },
+      {
+        "player": "Anthony Campbell",
+        "playerId": "4887255",
+        "position": "DT",
+        "status": "Out",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:41Z"
+      },
+      {
+        "player": "Edgerrin Cooper",
+        "playerId": "4430438",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Achilles",
+        "estimatedReturn": "2027-02-15",
+        "comment": "Cooper needed to be carted off the field when he sustained the injury early in the second half of Week 4, and the severity now has been confirmed. He thus will end his third pro campaign with 30 tackles, including 3.0 sacks, and one interce",
+        "date": "2026-10-05T17:23Z"
+      },
+      {
+        "player": "Brandon Cisse",
+        "playerId": "5076652",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Neck",
+        "estimatedReturn": "2026-10-11",
+        "comment": "The Packers defense took a beating Sunday, with Cisse exiting the contest due to multiple injuries. The 2026 No. 52 overall pick could carry an injury designation ahead of the NFC North clash with the Bears in Week 5, assuming he's not rule",
+        "date": "2026-10-04T20:52Z"
+      },
+      {
+        "player": "Chris Brooks",
+        "playerId": "3149687",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Brooks began the game in solid form, rushing four times for 30 yards and catching his lone target for five yards before limping to the sideline near the end of the first quarter. He'll be evaluated by team trainers before a determination is",
+        "date": "2026-10-04T17:59Z"
+      },
+      {
+        "player": "Warren Brinson",
+        "playerId": "4429136",
+        "position": "DT",
+        "status": "Injured Reserve",
+        "injury": "Calf",
+        "estimatedReturn": "2026-10-29",
+        "comment": "Brinson hurt his calf during the preseason and didn't suit up for the Packers' first three games. He logged a limited practice Wednesday but slipped and injured his groin, per Matt Schneidman of The Athletic, and was then a DNP both Thursda",
+        "date": "2026-10-03T23:49Z"
+      },
+      {
+        "player": "Jayden Reed",
+        "playerId": "4362249",
+        "position": "WR",
+        "status": "Injured Reserve",
+        "injury": "Neck",
+        "estimatedReturn": "2027-02-15",
+        "comment": "Reed remains without a clear timeline for a return after sustaining a neck injury that resulted in a brief stay in the hospital in the Packers' Week 2 win over the Jets, but his impending move to IR ensures that he'll remain out for at leas",
+        "date": "2026-09-30T15:55Z"
+      },
+      {
+        "player": "Zach Bako-Bewele",
+        "playerId": "4240435",
+        "position": "OT",
+        "status": "Injured Reserve",
+        "injury": "Knee",
+        "estimatedReturn": "2027-02-15",
+        "comment": "Bako-Bewele sustained a complete tear of his right patellar tendon in the Packers' Week 2 overtime win over the Jets. The right tackle is out for the season and has thus been placed on injured reserve. Laken Tomlinson is the new reserve off",
+        "date": "2026-09-29T00:26Z"
+      }
+    ],
+    "HOU": [
+      {
+        "player": "Azeez Al-Shaair",
+        "playerId": "3919117",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Groin",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:43Z"
+      },
+      {
+        "player": "Tank Dell",
+        "playerId": "4366031",
+        "position": "WR",
+        "status": "Injured Reserve",
+        "injury": "Knee - ACL + MCL",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Still on the mend from the severe multi-ligament knee injury that he sustained Dec. 21, 2024, Dell was able to take part in some full-contact practices during training camp but sat out the Texans' entire preseason slate before he was placed",
+        "date": "2026-10-05T16:48Z"
+      },
+      {
+        "player": "Jaden Crumedy",
+        "playerId": "4362910",
+        "position": "DT",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Crumedy exited the game with a shoulder injury in the second half, finishing his day having recorded one tackle, including 0.5 sacks. The defensive tackle's first chance to prove his health ahead of Week 5 will come Wednesday at the team's ",
+        "date": "2026-10-05T03:07Z"
+      },
+      {
+        "player": "Jaylin Smith",
+        "playerId": "4594277",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Smith was injured on special teams in the first half. He entered Sunday having logged just seven defensive snaps across the first three weeks of the season.",
+        "date": "2026-10-05T00:52Z"
+      },
+      {
+        "player": "Kenneth Murray Jr.",
+        "playerId": "4241394",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Head",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Murray recorded four tackles (one solo) before exiting during the second half, and it's unclear if he returned before the end of the game. The 27-year-old struggled last season with the Cowboys, recording 81 tackles (31 solo) over 17 regula",
+        "date": "2026-10-04T20:26Z"
+      },
+      {
+        "player": "British Brooks",
+        "playerId": "4373273",
+        "position": "RB",
+        "status": "Injured Reserve",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-11-08",
+        "comment": "Brooks will miss at least four games. However, the 26-year-old has seen action only on special teams during the 2026 campaign, so his extended absence won't impact the usual day-to-day operations for the Texans offense.",
+        "date": "2026-10-03T00:35Z"
+      },
+      {
+        "player": "M.J. Stewart",
+        "playerId": "3116679",
+        "position": "S",
+        "status": "Out",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Stewart opened the season on the PUP list and was designated to return Sept. 23. He began this week with a limited practice session Wednesday before upgrading to full participation Thursday. Stewart isn't eligible to play this Sunday, but h",
+        "date": "2026-10-02T01:16Z"
+      }
+    ],
+    "IND": [
+      {
+        "player": "Keenan Allen",
+        "playerId": "15818",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Groin",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:44Z"
+      },
+      {
+        "player": "Alec Pierce",
+        "playerId": "4360078",
+        "position": "WR",
+        "status": "Injured Reserve",
+        "injury": "Heel",
+        "estimatedReturn": "2026-10-25",
+        "comment": "Ian Rapoport of NFL Network had previously relayed last week that Pierce would avoid another procedure after aggravating his surgically repaired heel in a Sept. 20 loss to the Chiefs, but that report was called into question after the wideo",
+        "date": "2026-09-28T18:38Z"
+      },
+      {
+        "player": "Micheal Clemons",
+        "playerId": "4240896",
+        "position": "DE",
+        "status": "Injured Reserve",
+        "injury": "Toe",
+        "estimatedReturn": "2026-10-25",
+        "comment": "Clemons sustained a toe injury in the team's 33-30 overtime loss against Kansas City on Sunday night, and he will now be forced to miss at least four contests while recovering. His absence won't have a major impact on the team's defensive a",
+        "date": "2026-09-23T00:30Z"
+      }
+    ],
+    "JAX": [
+      {
+        "player": "Christian Braswell",
+        "playerId": "4257580",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:45Z"
+      },
+      {
+        "player": "Montaric Brown",
+        "playerId": "4242149",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:45Z"
+      },
+      {
+        "player": "Eric Murray",
+        "playerId": "2970716",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Murray has been diagnosed with a concussion after taking a hit to the head during Sunday's game, so Rayuan Lane should see more defensive snaps at safety moving forward. Murray will need to clear the league's protocol in order to be availab",
+        "date": "2026-10-04T19:56Z"
+      },
+      {
+        "player": "Caleb Ransaw",
+        "playerId": "4683347",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Ransaw was injured in the first quarter and subsequently walked to the locker room with a trainer. The second-year pro has been working both as a special-teamer and as a rotational part of the secondary for the Jaguars this season. Should R",
+        "date": "2026-10-04T17:38Z"
+      }
+    ],
+    "KC": [
+      {
+        "player": "Tyquan Thornton",
+        "playerId": "4362921",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Ankle",
+        "estimatedReturn": "2027-01-11",
+        "comment": "Depending how quickly Thornton bounces back from surgery, Zenitz notes that the speedy receiver could have a small chance at returning late in the regular season or during the playoffs. The injury is nonetheless a devastating development fo",
+        "date": "2026-10-05T20:51Z"
+      },
+      {
+        "player": "Rashee Rice",
+        "playerId": "4428331",
+        "position": "WR",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-18",
+        "comment": "Rice was forced from Sunday's game with a hamstring injury, but it appears Kansas City's upcoming bye could help him avoid missing any further action. Fellow wideout Tyquan Thornton (ankle) is sidelined indefinitely with an injury he himsel",
+        "date": "2026-10-05T19:09Z"
+      },
+      {
+        "player": "Josh Simmons",
+        "playerId": "4569659",
+        "position": "OT",
+        "status": "Out",
+        "injury": "Back",
+        "estimatedReturn": "2026-10-18",
+        "comment": "out",
+        "date": "2026-10-05T18:45Z"
+      }
+    ],
+    "LV": [
+      {
+        "player": "Jalen Nailor",
+        "playerId": "4382466",
+        "position": "WR",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Nailor took a blow to the head late in the second quarter, and he was ultimately diagnosed with a concussion. The wide receiver will finish his day having recorded no stats. In his absence, Tre Tucker, Cody White and Dareke Young will opera",
+        "date": "2026-10-04T22:16Z"
+      },
+      {
+        "player": "Trey Zuhn III",
+        "playerId": "4431623",
+        "position": "C",
+        "status": "Questionable",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Zuhn suffered a knee injury early in the first half, and his status for the rest of the game is now uncertain. The offensive lineman is used often in heavy sets on offense, but his absence won't directly impact the team's starting lineup.",
+        "date": "2026-10-04T21:14Z"
+      },
+      {
+        "player": "Jackson Powers-Johnson",
+        "playerId": "4875295",
+        "position": "G",
+        "status": "Out",
+        "injury": "Groin",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Powers-Johnson was unable to practice all week due to a groin injury. Bryce Cabeldue will be the lone reserve guard behind starters Caleb Rogers and Spencer Burford in the absence of Powers-Johnson.",
+        "date": "2026-10-04T19:36Z"
+      },
+      {
+        "player": "Dont'e Thornton Jr.",
+        "playerId": "4432775",
+        "position": "WR",
+        "status": "Injured Reserve",
+        "injury": "Undisclosed",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Thornton opened the season on injured reserve due to an undisclosed injury that prevented him from participating in the majority of August practices during training camp. Once he's cleared to return, Thornton will likely operate in a depth ",
+        "date": "2026-10-02T21:43Z"
+      },
+      {
+        "player": "Jack Bech",
+        "playerId": "4603186",
+        "position": "WR",
+        "status": "Injured Reserve",
+        "injury": "Forearm",
+        "estimatedReturn": "2026-11-01",
+        "comment": "Bech will be sidelined for at least the Raiders' next four games after sustaining a fractured left forearm during Sunday's 35-27 win over the Saints. In a corresponding move, the Raiders signed Cody White off their practice squad. White, wh",
+        "date": "2026-09-29T22:27Z"
+      }
+    ],
+    "LAC": [
+      {
+        "player": "Rashawn Slater",
+        "playerId": "4242283",
+        "position": "OT",
+        "status": "Out",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-11-01",
+        "comment": "out",
+        "date": "2026-10-05T21:55Z"
+      },
+      {
+        "player": "Brenen Thompson",
+        "playerId": "4685553",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Quadriceps",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:49Z"
+      },
+      {
+        "player": "Dalvin Tomlinson",
+        "playerId": "2979860",
+        "position": "DT",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:49Z"
+      },
+      {
+        "player": "Charlie Kolar",
+        "playerId": "4241263",
+        "position": "TE",
+        "status": "Out",
+        "injury": "Forearm",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:49Z"
+      },
+      {
+        "player": "Trevor Penning",
+        "playerId": "4248627",
+        "position": "G",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Penning was sent to the locker room late in the second half to be evaluated for a head injury. The 27-year-old was operating as the team's left guard versus the Seahawks.",
+        "date": "2026-10-04T23:31Z"
+      },
+      {
+        "player": "Ladd McConkey",
+        "playerId": "4612826",
+        "position": "WR",
+        "status": "Questionable",
+        "injury": "Foot",
+        "estimatedReturn": "2026-10-11",
+        "comment": "McConkey may have aggravated the foot issue he tended to in advance of this game, but in any case he had no catches (on two targets) at the point of his departure in the third quarter. With the third-year pro ruled out Sunday, Quentin Johns",
+        "date": "2026-10-04T22:35Z"
+      },
+      {
+        "player": "Joe Alt",
+        "playerId": "4683487",
+        "position": "OT",
+        "status": "Questionable",
+        "injury": "Neck",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Alt is officially done for the day after sustaining a neck injury in the second quarter. Travis Burke will continue to man the starting role at right tackle in Alt's absence.",
+        "date": "2026-10-04T22:33Z"
+      },
+      {
+        "player": "Donte Jackson",
+        "playerId": "3843769",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Jackson was listed as questionable heading into this contest due to a concussion. While he was cleared to suit up, a hamstring injury could keep him off the field for the remainder of Sunday's game.",
+        "date": "2026-10-04T21:22Z"
+      },
+      {
+        "player": "Kayode Awosika",
+        "playerId": "4040842",
+        "position": "G",
+        "status": "Out",
+        "injury": "Lower Leg",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Awosika injured his fibula in the Week 2 loss to the Raiders. Considering he was expected to miss time, his absence Sunday isn't surprising by any means. With Awosika off the field, Trevor Penning is in line to see more action.",
+        "date": "2026-10-04T19:43Z"
+      },
+      {
+        "player": "Derwin James Jr.",
+        "playerId": "3691739",
+        "position": "S",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "James was mostly limited during practice throughout the week, resulting in a questionable designation for Sunday's meeting with Seattle. However, James won't be available in Week 4, meaning Tony Jefferson  and Genesis Smith should see consi",
+        "date": "2026-10-04T19:25Z"
+      }
+    ],
+    "LAR": [
+      {
+        "player": "Aaron Donald",
+        "playerId": "16716",
+        "position": "DT",
+        "status": "Out",
+        "injury": "Back",
+        "estimatedReturn": "2026-10-12",
+        "comment": "It was reported Sunday that the Rams are hoping to get Donald back in Week 5, and McVay confirmed as much a day later. With a Monday night game ahead the Rams will not release an official injury report until Thursday, so the next update on ",
+        "date": "2026-10-05T21:39Z"
+      },
+      {
+        "player": "Konata Mumpfield",
+        "playerId": "4710855",
+        "position": "WR",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "estimatedReturn": "2026-10-12",
+        "comment": "questionable",
+        "date": "2026-10-05T21:25Z"
+      },
+      {
+        "player": "Jaylen Watson",
+        "playerId": "4697639",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Shoulder",
+        "estimatedReturn": "2026-10-12",
+        "comment": "out",
+        "date": "2026-10-05T18:50Z"
+      },
+      {
+        "player": "Colby Parkinson",
+        "playerId": "4242557",
+        "position": "TE",
+        "status": "Out",
+        "injury": "Shoulder - AC Joint",
+        "estimatedReturn": "2026-10-12",
+        "comment": "out",
+        "date": "2026-10-05T18:50Z"
+      },
+      {
+        "player": "Terrance Ferguson",
+        "playerId": "4570037",
+        "position": "TE",
+        "status": "Injured Reserve",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-11-01",
+        "comment": "Ferguson sprained his ankle last Sunday night against the Broncos and didn't practice at all this week, so this comes as no surprise. If Colby Parkinson (shoulder/knee) can play through his injuries, the Rams would be in better shape at tig",
+        "date": "2026-10-02T18:41Z"
+      },
+      {
+        "player": "Myles Garrett",
+        "playerId": "3122132",
+        "position": "DE",
+        "status": "Injured Reserve",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-18",
+        "comment": "Garrett required a knee scope after Week 1 and was placed on injured reserve on Sept. 17. He's already missed one game as a result and must sit out at least three more contests while on the list, but Rapoport's report indicates his rehab ma",
+        "date": "2026-09-27T10:57Z"
+      }
+    ],
+    "MIA": [
+      {
+        "player": "Caleb Douglas",
+        "playerId": "4869645",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Douglas has missed the Dolphins' last two games while recovering from the ankle injury he sustained in a Week 2 loss to the 49ers. Hafley noted that the Dolphins are proceeding \"one day at a time\" with Douglas, who hasn't practiced in any f",
+        "date": "2026-10-05T21:01Z"
+      },
+      {
+        "player": "Robert Beal Jr.",
+        "playerId": "4259558",
+        "position": "DE",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:51Z"
+      },
+      {
+        "player": "Jackson Woodard",
+        "playerId": "4685637",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Woodard recorded one solo tackle before his departure from the contest. It's unclear how bad the ankle injury is, and his status at the team's first practice of the week Wednesday will shed a better light on his status for Week 5 against Ci",
+        "date": "2026-10-05T03:29Z"
+      },
+      {
+        "player": "Reese Taylor",
+        "playerId": "4371946",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Quadriceps",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Taylor suffered a quad injury in the first half, and his day will ultimately come to a premature end. The cornerback operates primary as a special-teams option, so his absence won't have much of an impact on Miami's defense.",
+        "date": "2026-10-04T21:51Z"
+      },
+      {
+        "player": "Dante Trader Jr.",
+        "playerId": "4431664",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "The 23-year-old has had a quality 2026 campaign, so his absence wouldn't be ideal for the Dolphins defense. While Trader is off the field, it could mean more snaps for rookie Michael Taaffe.",
+        "date": "2026-10-04T21:13Z"
+      },
+      {
+        "player": "Kenneth Grant",
+        "playerId": "4894654",
+        "position": "DT",
+        "status": "Injured Reserve",
+        "injury": "Leg",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Grant opened the season on injured reserve and can return at any point after Sunday's Week 4 date with the Vikings, but his 21-day practice window has yet to open. The 2025 first-rounder was injured late in the summer during the preseason. ",
+        "date": "2026-10-02T15:37Z"
+      },
+      {
+        "player": "Storm Duck",
+        "playerId": "4427103",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Duck was a limited participant in Wednesday's practice. The Dolphins have until Oct. 21 to return the cornerback to the active roster, or the team will need to keep the 25-year-old on the reserve/PUP list for the remainder of the 2026 seaso",
+        "date": "2026-10-01T01:21Z"
+      },
+      {
+        "player": "De'Von Achane",
+        "playerId": "4429160",
+        "position": "RB",
+        "status": "Injured Reserve",
+        "injury": "Knee - ACL",
+        "estimatedReturn": "2027-02-15",
+        "comment": "Achane's move to injured reserve was merely a formality after head coach Jeff Hafley confirmed earlier Monday that the running back would be lost for the season after sustaining an ACL tear in his left knee during Sunday's 24-10 loss to Kan",
+        "date": "2026-09-28T20:10Z"
+      }
+    ],
+    "MIN": [
+      {
+        "player": "Brett Thorson",
+        "playerId": "4799994",
+        "position": "P",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:53Z"
+      },
+      {
+        "player": "Justin Jefferson",
+        "playerId": "4262921",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:53Z"
+      },
+      {
+        "player": "Charles Demmings",
+        "playerId": "5091793",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:53Z"
+      },
+      {
+        "player": "Christian Darrisaw",
+        "playerId": "4361985",
+        "position": "OT",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Darrisaw departed earlier in the contest because of a neck injury. While he managed to return, his availability for the remainder of Sunday's game is once again in jeopardy due to a possible concussion. With Darrisaw off the field, Ryan Van",
+        "date": "2026-10-04T22:39Z"
+      },
+      {
+        "player": "Donovan Jackson",
+        "playerId": "4431553",
+        "position": "G",
+        "status": "Out",
+        "injury": "Knee - Meniscus",
+        "estimatedReturn": "2027-01-17",
+        "comment": "Jackson suffered a knee injury early in the first half, and he will now be forced to miss the remainder of Week 4. In his absence, Joe Huber has taken over at left guard versus Miami.",
+        "date": "2026-10-04T21:09Z"
+      },
+      {
+        "player": "Josh Oliver",
+        "playerId": "3921690",
+        "position": "TE",
+        "status": "Injured Reserve",
+        "injury": "Biceps",
+        "estimatedReturn": "2027-01-17",
+        "comment": "Oliver's move to IR was expected after the tight end was diagnosed with a torn bicep Monday. The tight end will likely miss most, if not all, of the 2026 season as he recovers from surgery. T.J. Hockenson and Gavin Bartholomew are now the o",
+        "date": "2026-09-30T00:26Z"
+      }
+    ],
+    "NE": [
+      {
+        "player": "Christian Gonzalez",
+        "playerId": "4686772",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Shoulder",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:54Z"
+      },
+      {
+        "player": "Christian Barmore",
+        "playerId": "4372030",
+        "position": "DT",
+        "status": "Out",
+        "injury": "Shoulder",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:54Z"
+      },
+      {
+        "player": "Channing Canada",
+        "playerId": "4688779",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:54Z"
+      },
+      {
+        "player": "Mack Hollins",
+        "playerId": "2991662",
+        "position": "WR",
+        "status": "Questionable",
+        "injury": "Calf",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Hollins recorded three catches for 53 yards on four targets before exiting in the third quarter of Sunday's 29-26 win over the Bills due to the calf issue. The Patriots listed Hollins as questionable to return at the time of his departure, ",
+        "date": "2026-10-05T15:49Z"
+      },
+      {
+        "player": "Charles Woods",
+        "playerId": "4368113",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Ethan Hurwitz of Patriots on SI reported Woods suffered a stinger, though the 24-year-old stated, \"he's feeling great.\" However, despite the positive update, he could carry an injury designation heading into the Week 5 meeting with the Raid",
+        "date": "2026-10-04T21:07Z"
+      },
+      {
+        "player": "Eli Raridon",
+        "playerId": "4831959",
+        "position": "TE",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Raridon didn't play in Week 3 against the Jaguars due to a hamstring injury. However, an ankle injury could mean he won't be back in Week 4. If Raridon can't return, Cameron Latu could see more work behind Hunter Henry.",
+        "date": "2026-10-04T20:03Z"
+      },
+      {
+        "player": "Greg Van Roten",
+        "playerId": "15718",
+        "position": "G",
+        "status": "Injured Reserve",
+        "injury": "Thigh",
+        "estimatedReturn": "2026-11-01",
+        "comment": "Van Roten sustained a thigh injury during the Patriots' 35-6 loss to the Jaguars in Week 3. The injury is severe enough for him to miss at least the next four games, so the earliest he can return is for Week 8 against the Dolphins on Sunday",
+        "date": "2026-09-30T01:03Z"
+      },
+      {
+        "player": "A.J. Brown",
+        "playerId": "4047646",
+        "position": "WR",
+        "status": "Injured Reserve",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-11-01",
+        "comment": "Kyles noted that Brown was wearing cleats, which could hint that he was able to do some on-field exercises. After being placed on injured reserve Sept. 12, Brown won't be eligible to start practicing with his teammates until Week 6, but the",
+        "date": "2026-09-28T17:01Z"
+      }
+    ],
+    "NO": [
+      {
+        "player": "Jordyn Tyson",
+        "playerId": "4880281",
+        "position": "WR",
+        "status": "Injured Reserve",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-25",
+        "comment": "New Orleans placed Tyson on IR with a designation to return back on Aug. 30, making him eligible to resume practicing and playing with the team as soon as Week 5. Saints head coach Kellen Moore previously disclosed Thursday that Tyson wasn'",
+        "date": "2026-10-05T13:36Z"
+      },
+      {
+        "player": "Anfernee Jennings",
+        "playerId": "3925350",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Jennings suffered a knee injury last Sunday versus the Raiders and wasn't able to practice at all this week. Unsurprisingly, he's been ruled out from playing on Monday Night Football. With Carl Granderson (ankle) also out this week, both My",
+        "date": "2026-10-03T23:41Z"
+      },
+      {
+        "player": "Pete Werner",
+        "playerId": "4241993",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Shoulder",
+        "estimatedReturn": "2026-10-05",
+        "comment": "Werner injured his neck during the Saints' 35-27 loss to the Raiders in Week 3, which prevented him from participating in each of New Orleans' first two practices of Week 4 prep. His status may not be officially known until about 90 minutes",
+        "date": "2026-10-03T18:47Z"
+      },
+      {
+        "player": "Carl Granderson",
+        "playerId": "3918310",
+        "position": "DE",
+        "status": "Out",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Granderson injured his ankle during the Saints' Week 3 loss to the Raiders. The injury is severe enough for him to not suit up Monday, and his next chance to play is Week 5 against the Vikings on Sunday, Oct. 11. Anfernee Jennings (knee) ha",
+        "date": "2026-10-03T18:43Z"
+      },
+      {
+        "player": "Kaden Elliss",
+        "playerId": "3124890",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Calf",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Elliss will miss his first game of the 2026 season due to a calf injury. Pete Werner (neck) is also listed as questionable, so the Saints may have to start Danny Stutsman and Isaiah Stalbird at inside linebacker for Monday's NFC South showd",
+        "date": "2026-10-03T18:33Z"
+      },
+      {
+        "player": "Noah Fant",
+        "playerId": "4036131",
+        "position": "TE",
+        "status": "Questionable",
+        "injury": "Abdomen",
+        "estimatedReturn": "2026-10-05",
+        "comment": "Fant's practice participation was limited all week due to an abdominal injury that he likely picked up in Week 3 against the Raiders. With the questionable tag, the veteran tight end's status for Monday may not be known until the Saints ann",
+        "date": "2026-10-03T18:05Z"
+      },
+      {
+        "player": "Travis Etienne Jr.",
+        "playerId": "4239996",
+        "position": "RB",
+        "status": "Injured Reserve",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-11-08",
+        "comment": "Etienne dealt with a hamstring injury during Week 3 prep and then aggravated the issue this past Sunday against the Raiders, leading to head coach Kellen Moore telling Mike Triplett of NewOrleans.Football on Monday that the running back was",
+        "date": "2026-10-01T20:44Z"
+      },
+      {
+        "player": "Kelvin Banks Jr.",
+        "playerId": "4685260",
+        "position": "OT",
+        "status": "Injured Reserve",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-11-29",
+        "comment": "While head coach Kellen Moore indicated that the procedure went well, Banks will remain on injured reserve for the foreseeable future. As a result, Mason Murphy should continue to be more involved.",
+        "date": "2026-09-26T00:47Z"
+      }
+    ],
+    "NYG": [
+      {
+        "player": "Braxton Berrios",
+        "playerId": "3123075",
+        "position": "WR",
+        "status": "Doubtful",
+        "injury": "Foot",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Though Adam Schefter of ESPN reported earlier Monday that Berrios was ticketed for IR, the Giants apparently plan to evaluate the 30-year-old over the next few days before deciding whether or not to deactivate him. Regardless, Berrios appea",
+        "date": "2026-10-05T21:48Z"
+      },
+      {
+        "player": "Chauncey Golston",
+        "playerId": "4036132",
+        "position": "DE",
+        "status": "Questionable",
+        "injury": "Neck",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Prior to his injury, Golston recorded two tackles (one solo). He mans a starting interior defensive lineman spot alongside DJ Reader for the Giants. Darius Alexander and CJ Okoye would be next up for snaps if Golston needs to miss time.",
+        "date": "2026-10-05T00:59Z"
+      },
+      {
+        "player": "Jason Pinnock",
+        "playerId": "4240706",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Pinnock finished his day without recording any stats. He will now have to clear concussion protocol in order to be available for Week 5 against Washington.",
+        "date": "2026-10-05T00:59Z"
+      },
+      {
+        "player": "Jaxson Dart",
+        "playerId": "4689114",
+        "position": "QB",
+        "status": "Injured Reserve",
+        "injury": "Knee - Meniscus",
+        "estimatedReturn": "2027-01-17",
+        "comment": "Dart's ACL and PCL were apparently spared, but the quarterback remains done for the 2026 regular season after he was injured in the first quarter of Week 2 against the Rams. It's unclear if Dart could make a postseason return if the Giants ",
+        "date": "2026-09-30T20:35Z"
+      }
+    ],
+    "NYJ": [
+      {
+        "player": "Mason Taylor",
+        "playerId": "4808766",
+        "position": "TE",
+        "status": "Out",
+        "injury": "Thumb",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:58Z"
+      },
+      {
+        "player": "Dylan Parham",
+        "playerId": "4243375",
+        "position": "G",
+        "status": "Out",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:58Z"
+      },
+      {
+        "player": "Kiko Mauigoa",
+        "playerId": "4700136",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Quadriceps",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:58Z"
+      },
+      {
+        "player": "Adonai Mitchell",
+        "playerId": "4597500",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Finger",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:58Z"
+      },
+      {
+        "player": "Kingsley Enagbare",
+        "playerId": "4362840",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:58Z"
+      },
+      {
+        "player": "Breece Hall",
+        "playerId": "4427366",
+        "position": "RB",
+        "status": "Out",
+        "injury": "Quadriceps",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T18:58Z"
+      },
+      {
+        "player": "Jarvis Brownlee Jr.",
+        "playerId": "4426817",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Concussion",
+        "estimatedReturn": "2026-10-11",
+        "comment": "questionable",
+        "date": "2026-10-05T03:25Z"
+      },
+      {
+        "player": "Braiden McGregor",
+        "playerId": "4429005",
+        "position": "DE",
+        "status": "Out",
+        "injury": "Pectoral",
+        "estimatedReturn": "2027-02-15",
+        "comment": "Prior to his departure, McGregor recorded one solo tackle. He entered Week 4 having logged just 24.1 percent of the Jets' defensive snaps as a rotational defensive lineman and special-teams contributor.",
+        "date": "2026-10-05T00:57Z"
+      },
+      {
+        "player": "Arian Smith",
+        "playerId": "4429105",
+        "position": "WR",
+        "status": "Injured Reserve",
+        "injury": "Knee - ACL",
+        "estimatedReturn": "2027-02-15",
+        "comment": "Smith suffered a knee injury during the 20-17 overtime loss to Green Bay in Week 2. He will finish the 2026 campaign without a catch (one target), adding four carries for 13 yards. With Smith, Omar Cooper (ankle) and Tim Patrick (groin) out",
+        "date": "2026-09-23T21:53Z"
+      }
+    ],
+    "PHI": [
+      {
+        "player": "Saquon Barkley",
+        "playerId": "3929630",
+        "position": "RB",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Barkley injured his hamstring in the opening minutes of Sunday's eventual loss to the Rams and wasn't able to return to action. Tank Bigsby was the biggest beneficiary of Barkley's absence, but he exited late with a lower-body issue that wi",
+        "date": "2026-10-05T21:31Z"
+      },
+      {
+        "player": "Tank Bigsby",
+        "playerId": "4429013",
+        "position": "RB",
+        "status": "Out",
+        "injury": "Lower Body",
+        "estimatedReturn": "2026-11-08",
+        "comment": "Bigsby left in the fourth quarter of Sunday's loss to the Rams in the fourth quarter due to an apparent lower-body injury, which will result in a multi-week absence, at least. Once he's on IR, his earliest possible return date will be Sunda",
+        "date": "2026-10-05T21:17Z"
+      },
+      {
+        "player": "DeVonta Smith",
+        "playerId": "4241478",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:00Z"
+      },
+      {
+        "player": "Fred Johnson",
+        "playerId": "3915106",
+        "position": "OT",
+        "status": "Out",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:00Z"
+      },
+      {
+        "player": "Lane Johnson",
+        "playerId": "15797",
+        "position": "OT",
+        "status": "Out",
+        "injury": "Personal",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:00Z"
+      },
+      {
+        "player": "Marcus Epps",
+        "playerId": "3139368",
+        "position": "S",
+        "status": "Out",
+        "injury": "Groin",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:00Z"
+      },
+      {
+        "player": "Dallas Goedert",
+        "playerId": "3121023",
+        "position": "TE",
+        "status": "Out",
+        "injury": "Knee - MCL",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:00Z"
+      },
+      {
+        "player": "Zack Baun",
+        "playerId": "3917657",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Concussion",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:00Z"
+      },
+      {
+        "player": "Hollywood Brown",
+        "playerId": "4241372",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:00Z"
+      },
+      {
+        "player": "Quinyon Mitchell",
+        "playerId": "4686273",
+        "position": "CB",
+        "status": "Questionable",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Mitchell appeared to hyperextend his knee while tackling the Rams' Blake Corum early in third quarter. According to Rapoport, the Eagles are hopeful that Mitchell isn't dealing with anything more than a bone bruise, but his upcoming tests s",
+        "date": "2026-10-05T14:20Z"
+      },
+      {
+        "player": "Jonathan Greenard",
+        "playerId": "3916409",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Greenard suffered an ankle injury and was initially listed as questionable to return. However, he has since been ruled out for the remainder of Sunday's contest. Without Greenard on the field, Nolan Smith and Jalyx Hunt are in line for more",
+        "date": "2026-10-04T20:11Z"
+      }
+    ],
+    "PIT": [
+      {
+        "player": "Derrick Harmon",
+        "playerId": "4682980",
+        "position": "DT",
+        "status": "Injured Reserve",
+        "injury": "Foot",
+        "estimatedReturn": "2026-11-15",
+        "comment": "After exiting Thursday's 27-24 loss to the Browns due to the foot issue, Harmon's move to IR ensures that he'll be sidelined through the Steelers' Week 9 bye. While Harmon is sidelined, Yahya Black could be called upon to take on an expande",
+        "date": "2026-10-05T21:23Z"
+      },
+      {
+        "player": "Rico Dowdle",
+        "playerId": "4038815",
+        "position": "RB",
+        "status": "Out",
+        "injury": "Toe",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Dowdle's right toe injury has kept him out for the past two games, with his consecutive absences enabling Jaylen Warren to take on a heightened role out of the backfield as Pittsburgh's clear top option. Though Warren has ran efficiently (6",
+        "date": "2026-10-05T20:38Z"
+      },
+      {
+        "player": "Jamel Dean",
+        "playerId": "3873935",
+        "position": "CB",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Pittsburgh's depth at cornerback was already being tested after Joey Porter sat out the team's first three games before he was traded to the Cowboys on Wednesday, so the loss of Dean for any length of time would represent another big hit to",
+        "date": "2026-10-04T13:10Z"
+      }
+    ],
+    "SF": [
+      {
+        "player": "James Thompson Jr.",
+        "playerId": "4693371",
+        "position": "DT",
+        "status": "Out",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:03Z"
+      },
+      {
+        "player": "Nick Bosa",
+        "playerId": "4040605",
+        "position": "DE",
+        "status": "Out",
+        "injury": "Calf",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:03Z"
+      },
+      {
+        "player": "Kyle Juszczyk",
+        "playerId": "16002",
+        "position": "FB",
+        "status": "Doubtful",
+        "injury": "Knee",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Juszczyk recorded two catches for 28 yards on two targets before exiting early in the fourth quarter with the knee injury. Early evaluations of the fullback's knee have left the 49ers confident that his ACL is intact, but he'll undergo an M",
+        "date": "2026-10-05T14:13Z"
+      },
+      {
+        "player": "Marques Sigle",
+        "playerId": "4693337",
+        "position": "S",
+        "status": "Doubtful",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Sigle finished the game having recorded six total tackles (four solo), but he picked up an ankle injury along the way. The safety's status at the team's first practice of the week Wednesday will shed more light on his availability for Week ",
+        "date": "2026-10-05T00:10Z"
+      },
+      {
+        "player": "Christian Kirk",
+        "playerId": "3895856",
+        "position": "WR",
+        "status": "Injured Reserve",
+        "injury": "Calf",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Shanahan reiterated that Kirk is unlikely to be back at practice next week but is aiming to start participating in sessions following the 49ers' Week 5 tilt against the Seahawks. Kirk opened the season on injured reserve due to a calf injur",
+        "date": "2026-10-02T21:08Z"
+      }
+    ],
+    "SEA": [
+      {
+        "player": "Ty Okada",
+        "playerId": "4247808",
+        "position": "S",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:05Z"
+      },
+      {
+        "player": "Chazz Surratt",
+        "playerId": "4037521",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Calf",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:05Z"
+      },
+      {
+        "player": "Zach Charbonnet",
+        "playerId": "4426385",
+        "position": "RB",
+        "status": "Out",
+        "injury": "Knee - ACL",
+        "estimatedReturn": "2026-10-15",
+        "comment": "Seattle opened Charbonnet's 21-day practice window last Thursday, with the running back practicing on a limited basis for the team's final two sessions of Week 4 in what amounted to his first involvement in on-field drills since he tore the",
+        "date": "2026-10-05T17:05Z"
+      },
+      {
+        "player": "Leonard Williams",
+        "playerId": "2971622",
+        "position": "DT",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Prior to his departure, Williams recorded just one quarterback hit. Jarran Reed and Rylie Mills should see more snaps alongside Byron Murphy while Williams nurses his injury.",
+        "date": "2026-10-04T23:24Z"
+      },
+      {
+        "player": "Jadarian Price",
+        "playerId": "4685512",
+        "position": "RB",
+        "status": "Injured Reserve",
+        "injury": "Chest",
+        "estimatedReturn": "2026-11-02",
+        "comment": "Price saw his practice participation during Week 4 prep decline due to a chest injury before he was ruled out ahead of Sunday's game against the Chargers. The injury is severe enough for the rookie first-rounder to go on IR, meaning Price w",
+        "date": "2026-10-03T20:02Z"
+      }
+    ],
+    "TB": [
+      {
+        "player": "Benjamin Morrison",
+        "playerId": "4816107",
+        "position": "CB",
+        "status": "Out",
+        "injury": "Quadriceps",
+        "estimatedReturn": "2026-10-08",
+        "comment": "out",
+        "date": "2026-10-05T19:07Z"
+      },
+      {
+        "player": "Ko Kieft",
+        "playerId": "4034779",
+        "position": "TE",
+        "status": "Out",
+        "injury": "Elbow",
+        "estimatedReturn": "2026-10-08",
+        "comment": "out",
+        "date": "2026-10-05T19:07Z"
+      },
+      {
+        "player": "Baker Mayfield",
+        "playerId": "3052587",
+        "position": "QB",
+        "status": "Out",
+        "injury": "Thumb",
+        "estimatedReturn": "2026-10-25",
+        "comment": "out",
+        "date": "2026-10-05T19:07Z"
+      },
+      {
+        "player": "Rueben Bain Jr.",
+        "playerId": "4870617",
+        "position": "LB",
+        "status": "Out",
+        "injury": "Groin",
+        "estimatedReturn": "2026-10-08",
+        "comment": "out",
+        "date": "2026-10-05T19:07Z"
+      },
+      {
+        "player": "Antoine Winfield Jr.",
+        "playerId": "4034790",
+        "position": "S",
+        "status": "Out",
+        "injury": "Ribs",
+        "estimatedReturn": "2026-10-18",
+        "comment": "Winfield logged six tackles (five solo) before departing in the fourth quarter, and he did not appear to return before the end of the contest. The 2023 All-Pro has been a significant piece of Tampa Bay's defense for the last seven years, an",
+        "date": "2026-10-04T20:44Z"
+      },
+      {
+        "player": "SirVocea Dennis",
+        "playerId": "4429511",
+        "position": "LB",
+        "status": "Questionable",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-10-08",
+        "comment": "Dennis dealt with a calf injury during the week but was ultimately cleared to play Sunday. However, he suffered an ankle injury during Sunday's contest and isn't certain to return. Should Dennis be done for the day, Christian Rozeboom could",
+        "date": "2026-10-04T18:46Z"
+      },
+      {
+        "player": "Jalen McMillan",
+        "playerId": "4430834",
+        "position": "WR",
+        "status": "Injured Reserve",
+        "injury": "Knee - PCL",
+        "estimatedReturn": "2026-11-22",
+        "comment": "The move to IR officially rules McMillan out for the Buccaneers' next four games, but the wideout is projected to miss around 6-to-8 weeks after he sustained a PCL sprain of his left knee during Sunday's loss to the Vikings. With McMillan s",
+        "date": "2026-09-30T14:34Z"
+      }
+    ],
+    "TEN": [
+      {
+        "player": "Jackson Slater",
+        "playerId": "4876319",
+        "position": "G",
+        "status": "Injured Reserve",
+        "injury": "Foot",
+        "estimatedReturn": "2026-11-01",
+        "comment": "Slater sustained a serious foot injury during Sunday's game against the Giants, and his immediate backup, Fernando Carmona (ankle), was also hurt when he stepped into Slater's place. Both will have to miss at least Tennessee's next four gam",
+        "date": "2026-09-30T01:02Z"
+      },
+      {
+        "player": "Fernando Carmona",
+        "playerId": "4710000",
+        "position": "G",
+        "status": "Injured Reserve",
+        "injury": "Ankle",
+        "estimatedReturn": "2026-11-01",
+        "comment": "Carmona was carted off the field after injuring his ankle during Sunday's game against the Giants, and he'll now have to sit out at least the next four games as he recovers. With 2025 fifth-rounder Jackson Slater (foot) also going to IR on ",
+        "date": "2026-09-30T00:57Z"
+      }
+    ],
+    "WSH": [
+      {
+        "player": "Rachaad White",
+        "playerId": "4697815",
+        "position": "RB",
+        "status": "Out",
+        "injury": "Shoulder",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:09Z"
+      },
+      {
+        "player": "Terry McLaurin",
+        "playerId": "3121422",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:09Z"
+      },
+      {
+        "player": "Sam Cosmi",
+        "playerId": "4262199",
+        "position": "G",
+        "status": "Out",
+        "injury": "Concussion",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:09Z"
+      },
+      {
+        "player": "Nick Cross",
+        "playerId": "4426403",
+        "position": "S",
+        "status": "Out",
+        "injury": "Illness",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:09Z"
+      },
+      {
+        "player": "Jayden Daniels",
+        "playerId": "4426348",
+        "position": "QB",
+        "status": "Out",
+        "injury": "Elbow",
+        "estimatedReturn": "2026-10-11",
+        "comment": "out",
+        "date": "2026-10-05T19:09Z"
+      },
+      {
+        "player": "Marcus Mariota",
+        "playerId": "2576980",
+        "position": "QB",
+        "status": "Doubtful",
+        "injury": "Knee - MCL",
+        "estimatedReturn": "2026-10-11",
+        "comment": "As expected, Mariota is dealing with a recurrence of the same injury that he sustained during Washington's preseason opener back on Aug. 14. Mariota was able to resume practicing fully before the start of the regular season, but he'll need ",
+        "date": "2026-10-05T16:58Z"
+      },
+      {
+        "player": "Jaylin Lane",
+        "playerId": "4602667",
+        "position": "WR",
+        "status": "Out",
+        "injury": "Ankle",
+        "estimatedReturn": "2027-02-15",
+        "comment": "The second-year receiver out of Virginia Tech has been limited to 18 catches for 250 yards and no touchdowns on 34 targets over 19 career games, but he's emerged as one of the NFL's better punt returners since entering the league (13.3 yard",
+        "date": "2026-10-05T15:27Z"
+      },
+      {
+        "player": "Tyler Owens",
+        "playerId": "4572460",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Hamstring",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Owens tweaked his hamstring during the second half of Sunday's game in London, and he's being evaluated by medical staff to determine whether he can return. Percy Butler and Quan Martin are the only healthy safeties left for the Commanders ",
+        "date": "2026-10-04T16:27Z"
+      },
+      {
+        "player": "Jeremy Reaves",
+        "playerId": "3125248",
+        "position": "S",
+        "status": "Questionable",
+        "injury": "Finger",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Reaves appeared to sustain the injury early in the third quarter, and he's being evaluated by medical staff to determine whether he can return to Sunday's game. Percy Butler is in line for more defensive snaps for as long as Reaves is sidel",
+        "date": "2026-10-04T16:02Z"
+      },
+      {
+        "player": "Charles Omenihu",
+        "playerId": "3929865",
+        "position": "DE",
+        "status": "Questionable",
+        "injury": "Groin",
+        "estimatedReturn": "2026-10-11",
+        "comment": "Omenihu was injured in the first quarter and went to the locker room to be evaluated. He's since been ruled out for the remainder of the contest. Shy Tuttle may be asked to play more defensive snaps given Omenihu's absence.",
+        "date": "2026-10-04T15:20Z"
+      }
+    ]
+  }
+}

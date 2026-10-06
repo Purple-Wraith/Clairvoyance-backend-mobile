@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-10-05 18:10 MT",
+  "basis": "all locks (including picks locked after the game started)",
+  "basis_note": "Figures count every settled pick in scope, including picks locked after the game had started. basis_detail shows how many of those there are.",
+  "classifier": "scripts/lock_timing.py",
+  "basis_detail": {
+    "settled_pre_start": 968,
+    "settled_locked_after_start_included": 190,
+    "settled_unknown_timing_included": 295,
+    "unknown_timing_by_league": {
+      "NBA": 150,
+      "NHL": 118,
+      "SERIEA": 11,
+      "LIGA": 8,
+      "PL": 7,
+      "NFL": 1
+    }
+  },
+  "periods": [
+    {
+      "key": "TODAY",
+      "label": "TODAY",
+      "sub": "",
+      "w": 0,
+      "l": 1,
+      "n": 1,
+      "pct": 0,
+      "units": -1,
+      "excluded_late": 0
+    },
+    {
+      "key": "YESTERDAY",
+      "label": "YESTERDAY",
+      "sub": "",
+      "w": 24,
+      "l": 5,
+      "n": 29,
+      "pct": 0.8275862068965517,
+      "units": 4.788476423773332,
+      "excluded_late": 0
+    },
+    {
+      "key": "ROLLING_7D",
+      "label": "ROLLING 7D",
+      "sub": "",
+      "w": 166,
+      "l": 63,
+      "n": 230,
+      "pct": 0.7217391304347827,
+      "units": 49.28886890666303,
+      "excluded_late": 0
+    },
+    {
+      "key": "THIS_MONTH",
+      "label": "THIS MONTH",
+      "sub": "OCT 2026",
+      "w": 137,
+      "l": 55,
+      "n": 193,
+      "pct": 0.7098445595854922,
+      "units": 33.49076837756254,
+      "excluded_late": 0
+    },
+    {
+      "key": "LAST_MONTH",
+      "label": "LAST MONTH",
+      "sub": "SEP 2026",
+      "w": 602,
+      "l": 299,
+      "n": 904,
+      "pct": 0.665929203539823,
+      "units": 158.8385748031853,
+      "excluded_late": 0
+    },
+    {
+      "key": "ALL_TIME",
+      "label": "ALL TIME",
+      "sub": "",
+      "w": 1024,
+      "l": 429,
+      "n": 1457,
+      "pct": 0.7028140013726836,
+      "units": 344.6706203711669,
+      "excluded_late": 0
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-10-05 22:11 UTC",
+  "items": [
+    {
+      "team": "DAL",
+      "teamName": "Dallas Cowboys",
+      "date": "2026-10-05T07:00Z",
+      "description": "Designated G Tyler Smith to return from injured reserve."
+    },
+    {
+      "team": "MIA",
+      "teamName": "Miami Dolphins",
+      "date": "2026-10-05T07:00Z",
+      "description": "Waived RB Carlos Washington Jr."
+    },
+    {
+      "team": "MIN",
+      "teamName": "Minnesota Vikings",
+      "date": "2026-10-05T07:00Z",
+      "description": "Waived WR Jeshaun Jones."
+    },
+    {
+      "team": "PIT",
+      "teamName": "Pittsburgh Steelers",
+      "date": "2026-10-05T07:00Z",
+      "description": "Signed CB Sean Murphy-Bunting to the active roster. Signed LB Marte Mapu to the practice squad. Waived DB Doneiko Slaughter. Placed DT Derrick Harmon on injured reserve."
+    },
+    {
+      "team": "BUF",
+      "teamName": "Buffalo Bills",
+      "date": "2026-10-03T07:00Z",
+      "description": "Elevated DB Te'Cory Couch and CB Kani Walker."
+    },
+    {
+      "team": "CHI",
+      "teamName": "Chicago Bears",
+      "date": "2026-10-03T07:00Z",
+      "description": "Placed LT Braxton Jones on injured reserve. Elevated DE Marcus Davenport and CB Nick McCloud from the practice squad to the active roster."
+    },
+    {
+      "team": "DEN",
+      "teamName": "Denver Broncos",
+      "date": "2026-10-03T07:00Z",
+      "description": "Promoted FB Adam Prentice to the active roster. Signed WR Lil'Jordan Humphrey to the practice squad."
+    },
+    {
+      "team": "DET",
+      "teamName": "Detroit Lions",
+      "date": "2026-10-03T07:00Z",
+      "description": "Elevated DB Jalen Mills."
+    },
+    {
+      "team": "LAR",
+      "teamName": "Los Angeles Rams",
+      "date": "2026-10-03T07:00Z",
+      "description": "Signed WR Alex Bachman and DT Larrell Murchison. Elevated OLD Barryl Peterson III and DB Cam Lampkin."
+    },
+    {
+      "team": "MIA",
+      "teamName": "Miami Dolphins",
+      "date": "2026-10-03T07:00Z",
+      "description": "Signed RB Carlos Washington Jr. to the active roster. Elevated DLs Mazi Smith and Rodney McGraw."
+    },
+    {
+      "team": "MIN",
+      "teamName": "Minnesota Vikings",
+      "date": "2026-10-03T07:00Z",
+      "description": "Elevated P Johnny Hekker."
+    },
+    {
+      "team": "NYG",
+      "teamName": "New York Giants",
+      "date": "2026-10-03T07:00Z",
+      "description": "Elevated QB Jake Haener and OLB Trace Ford."
+    },
+    {
+      "team": "SF",
+      "teamName": "San Francisco 49ers",
+      "date": "2026-10-03T07:00Z",
+      "description": "Waived DL DL Viliami Fehoko. Signed DL Sebastian Valdez to the practice squad. Elevated DE Matt Judon and WR Malik Turner to the active roster."
+    },
+    {
+      "team": "SEA",
+      "teamName": "Seattle Seahawks",
+      "date": "2026-10-03T07:00Z",
+      "description": "Signed RB Velus Jones Jr."
+    },
+    {
+      "team": "TB",
+      "teamName": "Tampa Bay Buccaneers",
+      "date": "2026-10-03T07:00Z",
+      "description": "Elevated QB Easton Stick and LB Caden Fordham to the active roster."
+    },
+    {
+      "team": "WSH",
+      "teamName": "Washington Commanders",
+      "date": "2026-10-03T07:00Z",
+      "description": "Elevated RB Craig Reynolds and LB Ale Kaho."
+    },
+    {
+      "team": "CAR",
+      "teamName": "Carolina Panthers",
+      "date": "2026-10-03T07:00Z",
+      "description": "Placed WR Xavier Legette on injured reserve."
+    },
+    {
+      "team": "JAX",
+      "teamName": "Jacksonville Jaguars",
+      "date": "2026-10-03T07:00Z",
+      "description": "Elevated LB Jalen McLeod and CB Jabbar Muhammad."
+    },
+    {
+      "team": "BAL",
+      "teamName": "Baltimore Ravens",
+      "date": "2026-10-03T07:00Z",
+      "description": "Placed Cs Jovaughn Gwyn and Ethan Pocic on injured reserve."
+    },
+    {
+      "team": "DEN",
+      "teamName": "Denver Broncos",
+      "date": "2026-10-02T07:00Z",
+      "description": "Released WR Lil'Jordan Humphrey."
+    },
+    {
+      "team": "LAR",
+      "teamName": "Los Angeles Rams",
+      "date": "2026-10-02T07:00Z",
+      "description": "Waived WR Xavier Smith. Signed WR Alex Bachman and DE Larrell Murchison to the active roster. Placed TE Terrance Ferguson on injured reserve."
+    },
+    {
+      "team": "NYG",
+      "teamName": "New York Giants",
+      "date": "2026-10-02T07:00Z",
+      "description": "Signed C Kendrick Green to the practice squad. Released T Darian Kinnard from the practice squad."
+    },
+    {
+      "team": "ARI",
+      "teamName": "Arizona Cardinals",
+      "date": "2026-10-02T07:00Z",
+      "description": "Signed OL Kingsley Eguakun to the practice squad."
+    },
+    {
+      "team": "HOU",
+      "teamName": "Houston Texans",
+      "date": "2026-10-02T07:00Z",
+      "description": "Placed RB British Brooks on injured reserve."
+    },
+    {
+      "team": "CIN",
+      "teamName": "Cincinnati Bengals",
+      "date": "2026-10-01T07:00Z",
+      "description": "Signed WR Ke'Shawn Williams to the practice squad."
+    }
+  ]
+}

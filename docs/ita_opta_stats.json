@@ -1,0 +1,1138 @@
+{
+  "attacking": [
+    {
+      "team": "Milan",
+      "played": 5,
+      "goals": 10,
+      "xg": 7.98,
+      "goals_vs_xg": 2.02,
+      "total_shots": 64,
+      "sot": 21,
+      "shot_conv": 15.625,
+      "xg_per_shot": 0.125
+    },
+    {
+      "team": "Roma",
+      "played": 5,
+      "goals": 14,
+      "xg": 12.81,
+      "goals_vs_xg": 1.19,
+      "total_shots": 103,
+      "sot": 35,
+      "shot_conv": 13.5922,
+      "xg_per_shot": 0.124
+    },
+    {
+      "team": "Bologna",
+      "played": 5,
+      "goals": 3,
+      "xg": 5.92,
+      "goals_vs_xg": -2.92,
+      "total_shots": 67,
+      "sot": 16,
+      "shot_conv": 4.4776,
+      "xg_per_shot": 0.088
+    },
+    {
+      "team": "Cagliari",
+      "played": 5,
+      "goals": 5,
+      "xg": 5.47,
+      "goals_vs_xg": -0.47,
+      "total_shots": 54,
+      "sot": 21,
+      "shot_conv": 9.2593,
+      "xg_per_shot": 0.101
+    },
+    {
+      "team": "Fiorentina",
+      "played": 5,
+      "goals": 6,
+      "xg": 8.6,
+      "goals_vs_xg": -2.6,
+      "total_shots": 84,
+      "sot": 28,
+      "shot_conv": 7.1429,
+      "xg_per_shot": 0.102
+    },
+    {
+      "team": "Inter",
+      "played": 5,
+      "goals": 15,
+      "xg": 14.48,
+      "goals_vs_xg": 0.52,
+      "total_shots": 116,
+      "sot": 37,
+      "shot_conv": 12.931,
+      "xg_per_shot": 0.125
+    },
+    {
+      "team": "Juventus",
+      "played": 5,
+      "goals": 8,
+      "xg": 7.76,
+      "goals_vs_xg": 0.24,
+      "total_shots": 88,
+      "sot": 29,
+      "shot_conv": 9.0909,
+      "xg_per_shot": 0.088
+    },
+    {
+      "team": "Lazio",
+      "played": 5,
+      "goals": 8,
+      "xg": 7.74,
+      "goals_vs_xg": 0.26,
+      "total_shots": 64,
+      "sot": 19,
+      "shot_conv": 12.5,
+      "xg_per_shot": 0.121
+    },
+    {
+      "team": "Lecce",
+      "played": 5,
+      "goals": 5,
+      "xg": 5.29,
+      "goals_vs_xg": -0.29,
+      "total_shots": 42,
+      "sot": 17,
+      "shot_conv": 11.9048,
+      "xg_per_shot": 0.126
+    },
+    {
+      "team": "Parma",
+      "played": 5,
+      "goals": 4,
+      "xg": 3.41,
+      "goals_vs_xg": 0.59,
+      "total_shots": 41,
+      "sot": 14,
+      "shot_conv": 9.7561,
+      "xg_per_shot": 0.083
+    },
+    {
+      "team": "Torino",
+      "played": 5,
+      "goals": 5,
+      "xg": 5.12,
+      "goals_vs_xg": -0.12,
+      "total_shots": 47,
+      "sot": 15,
+      "shot_conv": 10.6383,
+      "xg_per_shot": 0.109
+    },
+    {
+      "team": "Udinese",
+      "played": 5,
+      "goals": 8,
+      "xg": 7.02,
+      "goals_vs_xg": 0.98,
+      "total_shots": 71,
+      "sot": 24,
+      "shot_conv": 11.2676,
+      "xg_per_shot": 0.099
+    },
+    {
+      "team": "Venezia",
+      "played": 5,
+      "goals": 4,
+      "xg": 7.42,
+      "goals_vs_xg": -3.42,
+      "total_shots": 70,
+      "sot": 22,
+      "shot_conv": 5.7143,
+      "xg_per_shot": 0.106
+    },
+    {
+      "team": "Atalanta",
+      "played": 5,
+      "goals": 5,
+      "xg": 4.08,
+      "goals_vs_xg": 0.92,
+      "total_shots": 59,
+      "sot": 17,
+      "shot_conv": 8.4746,
+      "xg_per_shot": 0.069
+    },
+    {
+      "team": "Napoli",
+      "played": 5,
+      "goals": 7,
+      "xg": 7.18,
+      "goals_vs_xg": -0.18,
+      "total_shots": 69,
+      "sot": 21,
+      "shot_conv": 10.1449,
+      "xg_per_shot": 0.104
+    },
+    {
+      "team": "Monza",
+      "played": 5,
+      "goals": 8,
+      "xg": 8.63,
+      "goals_vs_xg": -0.63,
+      "total_shots": 72,
+      "sot": 30,
+      "shot_conv": 11.1111,
+      "xg_per_shot": 0.12
+    },
+    {
+      "team": "Genoa",
+      "played": 5,
+      "goals": 3,
+      "xg": 4.46,
+      "goals_vs_xg": -1.46,
+      "total_shots": 59,
+      "sot": 15,
+      "shot_conv": 5.0847,
+      "xg_per_shot": 0.076
+    },
+    {
+      "team": "Como",
+      "played": 5,
+      "goals": 9,
+      "xg": 9.43,
+      "goals_vs_xg": -0.43,
+      "total_shots": 117,
+      "sot": 36,
+      "shot_conv": 7.6923,
+      "xg_per_shot": 0.081
+    },
+    {
+      "team": "Frosinone",
+      "played": 5,
+      "goals": 9,
+      "xg": 7.53,
+      "goals_vs_xg": 1.47,
+      "total_shots": 84,
+      "sot": 28,
+      "shot_conv": 10.7143,
+      "xg_per_shot": 0.09
+    },
+    {
+      "team": "Sassuolo",
+      "played": 5,
+      "goals": 9,
+      "xg": 8.67,
+      "goals_vs_xg": 0.33,
+      "total_shots": 86,
+      "sot": 35,
+      "shot_conv": 10.4651,
+      "xg_per_shot": 0.101
+    }
+  ],
+  "passing": [
+    {
+      "team": "Milan",
+      "pos_perc": 60.459999084472656,
+      "passes": 2857,
+      "successful_pass": 2543,
+      "accuracy": 89.01,
+      "final_third_passes": 505,
+      "successful_final_third_passes_perc": 76.63,
+      "op_crosses": 65,
+      "through_balls": 8
+    },
+    {
+      "team": "Roma",
+      "pos_perc": 57.65999908447266,
+      "passes": 2736,
+      "successful_pass": 2374,
+      "accuracy": 86.77,
+      "final_third_passes": 919,
+      "successful_final_third_passes_perc": 79.54,
+      "op_crosses": 82,
+      "through_balls": 8
+    },
+    {
+      "team": "Bologna",
+      "pos_perc": 52.28000030517578,
+      "passes": 2424,
+      "successful_pass": 2140,
+      "accuracy": 88.28,
+      "final_third_passes": 542,
+      "successful_final_third_passes_perc": 78.23,
+      "op_crosses": 65,
+      "through_balls": 5
+    },
+    {
+      "team": "Cagliari",
+      "pos_perc": 40.71999969482422,
+      "passes": 2012,
+      "successful_pass": 1712,
+      "accuracy": 85.09,
+      "final_third_passes": 359,
+      "successful_final_third_passes_perc": 70.75,
+      "op_crosses": 42,
+      "through_balls": 3
+    },
+    {
+      "team": "Fiorentina",
+      "pos_perc": 43.48000030517578,
+      "passes": 1851,
+      "successful_pass": 1531,
+      "accuracy": 82.71,
+      "final_third_passes": 614,
+      "successful_final_third_passes_perc": 72.96,
+      "op_crosses": 52,
+      "through_balls": 8
+    },
+    {
+      "team": "Inter",
+      "pos_perc": 62.96000213623047,
+      "passes": 3048,
+      "successful_pass": 2738,
+      "accuracy": 89.83,
+      "final_third_passes": 800,
+      "successful_final_third_passes_perc": 81.13,
+      "op_crosses": 83,
+      "through_balls": 7
+    },
+    {
+      "team": "Juventus",
+      "pos_perc": 56.05999984741211,
+      "passes": 2573,
+      "successful_pass": 2248,
+      "accuracy": 87.37,
+      "final_third_passes": 849,
+      "successful_final_third_passes_perc": 79.86,
+      "op_crosses": 73,
+      "through_balls": 10
+    },
+    {
+      "team": "Lazio",
+      "pos_perc": 46.52000045776367,
+      "passes": 2167,
+      "successful_pass": 1861,
+      "accuracy": 85.88,
+      "final_third_passes": 579,
+      "successful_final_third_passes_perc": 77.2,
+      "op_crosses": 43,
+      "through_balls": 13
+    },
+    {
+      "team": "Lecce",
+      "pos_perc": 38.560000610351565,
+      "passes": 1776,
+      "successful_pass": 1391,
+      "accuracy": 78.32,
+      "final_third_passes": 405,
+      "successful_final_third_passes_perc": 58.52,
+      "op_crosses": 39,
+      "through_balls": 6
+    },
+    {
+      "team": "Parma",
+      "pos_perc": 42.81999969482422,
+      "passes": 1889,
+      "successful_pass": 1540,
+      "accuracy": 81.52,
+      "final_third_passes": 358,
+      "successful_final_third_passes_perc": 56.98,
+      "op_crosses": 42,
+      "through_balls": 2
+    },
+    {
+      "team": "Torino",
+      "pos_perc": 53.74000015258789,
+      "passes": 2444,
+      "successful_pass": 2078,
+      "accuracy": 85.02,
+      "final_third_passes": 510,
+      "successful_final_third_passes_perc": 69.41,
+      "op_crosses": 50,
+      "through_balls": 6
+    },
+    {
+      "team": "Udinese",
+      "pos_perc": 45.880000305175784,
+      "passes": 2121,
+      "successful_pass": 1771,
+      "accuracy": 83.5,
+      "final_third_passes": 571,
+      "successful_final_third_passes_perc": 68.3,
+      "op_crosses": 68,
+      "through_balls": 9
+    },
+    {
+      "team": "Venezia",
+      "pos_perc": 57.119999694824216,
+      "passes": 2426,
+      "successful_pass": 2058,
+      "accuracy": 84.83,
+      "final_third_passes": 622,
+      "successful_final_third_passes_perc": 74.44,
+      "op_crosses": 73,
+      "through_balls": 12
+    },
+    {
+      "team": "Atalanta",
+      "pos_perc": 47.98000030517578,
+      "passes": 2569,
+      "successful_pass": 2272,
+      "accuracy": 88.44,
+      "final_third_passes": 687,
+      "successful_final_third_passes_perc": 78.17,
+      "op_crosses": 51,
+      "through_balls": 2
+    },
+    {
+      "team": "Napoli",
+      "pos_perc": 49.75999908447265,
+      "passes": 2389,
+      "successful_pass": 2084,
+      "accuracy": 87.23,
+      "final_third_passes": 780,
+      "successful_final_third_passes_perc": 81.28,
+      "op_crosses": 79,
+      "through_balls": 6
+    },
+    {
+      "team": "Monza",
+      "pos_perc": 46.079999160766604,
+      "passes": 1925,
+      "successful_pass": 1576,
+      "accuracy": 81.87,
+      "final_third_passes": 566,
+      "successful_final_third_passes_perc": 69.61,
+      "op_crosses": 71,
+      "through_balls": 4
+    },
+    {
+      "team": "Genoa",
+      "pos_perc": 47.720000457763675,
+      "passes": 2071,
+      "successful_pass": 1721,
+      "accuracy": 83.1,
+      "final_third_passes": 483,
+      "successful_final_third_passes_perc": 66.67,
+      "op_crosses": 59,
+      "through_balls": 4
+    },
+    {
+      "team": "Como",
+      "pos_perc": 61.62000045776367,
+      "passes": 2964,
+      "successful_pass": 2652,
+      "accuracy": 89.47,
+      "final_third_passes": 863,
+      "successful_final_third_passes_perc": 82.5,
+      "op_crosses": 70,
+      "through_balls": 6
+    },
+    {
+      "team": "Frosinone",
+      "pos_perc": 41.539999389648436,
+      "passes": 1404,
+      "successful_pass": 1008,
+      "accuracy": 71.79,
+      "final_third_passes": 540,
+      "successful_final_third_passes_perc": 66.11,
+      "op_crosses": 51,
+      "through_balls": 6
+    },
+    {
+      "team": "Sassuolo",
+      "pos_perc": 47.040000915527344,
+      "passes": 2260,
+      "successful_pass": 1989,
+      "accuracy": 88.01,
+      "final_third_passes": 589,
+      "successful_final_third_passes_perc": 80.65,
+      "op_crosses": 55,
+      "through_balls": 5
+    }
+  ],
+  "pressing": [
+    {
+      "team": "Milan",
+      "ppda": 12.4,
+      "high_turnovers": 32,
+      "shot_ending_high_turnovers": 5,
+      "defensive_actions": 111
+    },
+    {
+      "team": "Roma",
+      "ppda": 9.9,
+      "high_turnovers": 58,
+      "shot_ending_high_turnovers": 17,
+      "defensive_actions": 166
+    },
+    {
+      "team": "Bologna",
+      "ppda": 12.7,
+      "high_turnovers": 26,
+      "shot_ending_high_turnovers": 8,
+      "defensive_actions": 122
+    },
+    {
+      "team": "Cagliari",
+      "ppda": 19.4,
+      "high_turnovers": 32,
+      "shot_ending_high_turnovers": 10,
+      "defensive_actions": 106
+    },
+    {
+      "team": "Fiorentina",
+      "ppda": 14.6,
+      "high_turnovers": 29,
+      "shot_ending_high_turnovers": 12,
+      "defensive_actions": 120
+    },
+    {
+      "team": "Inter",
+      "ppda": 11.5,
+      "high_turnovers": 36,
+      "shot_ending_high_turnovers": 10,
+      "defensive_actions": 120
+    },
+    {
+      "team": "Juventus",
+      "ppda": 10.7,
+      "high_turnovers": 44,
+      "shot_ending_high_turnovers": 9,
+      "defensive_actions": 149
+    },
+    {
+      "team": "Lazio",
+      "ppda": 13.6,
+      "high_turnovers": 28,
+      "shot_ending_high_turnovers": 3,
+      "defensive_actions": 146
+    },
+    {
+      "team": "Lecce",
+      "ppda": 14,
+      "high_turnovers": 40,
+      "shot_ending_high_turnovers": 1,
+      "defensive_actions": 156
+    },
+    {
+      "team": "Parma",
+      "ppda": 14.8,
+      "high_turnovers": 21,
+      "shot_ending_high_turnovers": 7,
+      "defensive_actions": 108
+    },
+    {
+      "team": "Torino",
+      "ppda": 14.6,
+      "high_turnovers": 26,
+      "shot_ending_high_turnovers": 2,
+      "defensive_actions": 99
+    },
+    {
+      "team": "Udinese",
+      "ppda": 14.8,
+      "high_turnovers": 30,
+      "shot_ending_high_turnovers": 6,
+      "defensive_actions": 129
+    },
+    {
+      "team": "Venezia",
+      "ppda": 10.5,
+      "high_turnovers": 31,
+      "shot_ending_high_turnovers": 4,
+      "defensive_actions": 126
+    },
+    {
+      "team": "Atalanta",
+      "ppda": 20,
+      "high_turnovers": 29,
+      "shot_ending_high_turnovers": 6,
+      "defensive_actions": 104
+    },
+    {
+      "team": "Napoli",
+      "ppda": 13.5,
+      "high_turnovers": 23,
+      "shot_ending_high_turnovers": 5,
+      "defensive_actions": 122
+    },
+    {
+      "team": "Monza",
+      "ppda": 15.2,
+      "high_turnovers": 29,
+      "shot_ending_high_turnovers": 6,
+      "defensive_actions": 126
+    },
+    {
+      "team": "Genoa",
+      "ppda": 13.4,
+      "high_turnovers": 35,
+      "shot_ending_high_turnovers": 3,
+      "defensive_actions": 116
+    },
+    {
+      "team": "Como",
+      "ppda": 11.6,
+      "high_turnovers": 38,
+      "shot_ending_high_turnovers": 7,
+      "defensive_actions": 120
+    },
+    {
+      "team": "Frosinone",
+      "ppda": 9.5,
+      "high_turnovers": 29,
+      "shot_ending_high_turnovers": 3,
+      "defensive_actions": 155
+    },
+    {
+      "team": "Sassuolo",
+      "ppda": 20.6,
+      "high_turnovers": 35,
+      "shot_ending_high_turnovers": 2,
+      "defensive_actions": 91
+    }
+  ],
+  "sequences": [
+    {
+      "team": "Milan",
+      "pressed_sequences": 52,
+      "build_ups": 18,
+      "build_up_goals": 2,
+      "direct_attacks": 9,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 92,
+      "direct_speed_for": 1.29,
+      "seq_time_for": 12.98
+    },
+    {
+      "team": "Roma",
+      "pressed_sequences": 67,
+      "build_ups": 24,
+      "build_up_goals": 0,
+      "direct_attacks": 15,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 87,
+      "direct_speed_for": 1.91,
+      "seq_time_for": 11.69
+    },
+    {
+      "team": "Bologna",
+      "pressed_sequences": 38,
+      "build_ups": 17,
+      "build_up_goals": 0,
+      "direct_attacks": 8,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 72,
+      "direct_speed_for": 1.55,
+      "seq_time_for": 12.07
+    },
+    {
+      "team": "Cagliari",
+      "pressed_sequences": 36,
+      "build_ups": 10,
+      "build_up_goals": 0,
+      "direct_attacks": 4,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 46,
+      "direct_speed_for": 1.99,
+      "seq_time_for": 9.88
+    },
+    {
+      "team": "Fiorentina",
+      "pressed_sequences": 53,
+      "build_ups": 10,
+      "build_up_goals": 1,
+      "direct_attacks": 9,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 29,
+      "direct_speed_for": 1.96,
+      "seq_time_for": 8.74
+    },
+    {
+      "team": "Inter",
+      "pressed_sequences": 61,
+      "build_ups": 24,
+      "build_up_goals": 1,
+      "direct_attacks": 6,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 86,
+      "direct_speed_for": 1.92,
+      "seq_time_for": 13.92
+    },
+    {
+      "team": "Juventus",
+      "pressed_sequences": 67,
+      "build_ups": 16,
+      "build_up_goals": 0,
+      "direct_attacks": 10,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 69,
+      "direct_speed_for": 1.73,
+      "seq_time_for": 11.4
+    },
+    {
+      "team": "Lazio",
+      "pressed_sequences": 39,
+      "build_ups": 12,
+      "build_up_goals": 2,
+      "direct_attacks": 10,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 54,
+      "direct_speed_for": 1.85,
+      "seq_time_for": 10.26
+    },
+    {
+      "team": "Lecce",
+      "pressed_sequences": 55,
+      "build_ups": 3,
+      "build_up_goals": 0,
+      "direct_attacks": 8,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 26,
+      "direct_speed_for": 1.89,
+      "seq_time_for": 7.08
+    },
+    {
+      "team": "Parma",
+      "pressed_sequences": 35,
+      "build_ups": 6,
+      "build_up_goals": 0,
+      "direct_attacks": 4,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 39,
+      "direct_speed_for": 1.85,
+      "seq_time_for": 8.68
+    },
+    {
+      "team": "Torino",
+      "pressed_sequences": 42,
+      "build_ups": 8,
+      "build_up_goals": 1,
+      "direct_attacks": 2,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 57,
+      "direct_speed_for": 1.41,
+      "seq_time_for": 10.48
+    },
+    {
+      "team": "Udinese",
+      "pressed_sequences": 55,
+      "build_ups": 10,
+      "build_up_goals": 1,
+      "direct_attacks": 9,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 49,
+      "direct_speed_for": 1.79,
+      "seq_time_for": 10.79
+    },
+    {
+      "team": "Venezia",
+      "pressed_sequences": 57,
+      "build_ups": 7,
+      "build_up_goals": 0,
+      "direct_attacks": 11,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 60,
+      "direct_speed_for": 1.91,
+      "seq_time_for": 9.79
+    },
+    {
+      "team": "Atalanta",
+      "pressed_sequences": 47,
+      "build_ups": 16,
+      "build_up_goals": 0,
+      "direct_attacks": 8,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 73,
+      "direct_speed_for": 1.74,
+      "seq_time_for": 12.24
+    },
+    {
+      "team": "Napoli",
+      "pressed_sequences": 50,
+      "build_ups": 26,
+      "build_up_goals": 2,
+      "direct_attacks": 4,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 75,
+      "direct_speed_for": 1.71,
+      "seq_time_for": 12.14
+    },
+    {
+      "team": "Monza",
+      "pressed_sequences": 59,
+      "build_ups": 9,
+      "build_up_goals": 1,
+      "direct_attacks": 7,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 30,
+      "direct_speed_for": 1.85,
+      "seq_time_for": 9.23
+    },
+    {
+      "team": "Genoa",
+      "pressed_sequences": 45,
+      "build_ups": 6,
+      "build_up_goals": 0,
+      "direct_attacks": 8,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 45,
+      "direct_speed_for": 1.61,
+      "seq_time_for": 10.16
+    },
+    {
+      "team": "Como",
+      "pressed_sequences": 58,
+      "build_ups": 30,
+      "build_up_goals": 1,
+      "direct_attacks": 15,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 100,
+      "direct_speed_for": 1.72,
+      "seq_time_for": 12.87
+    },
+    {
+      "team": "Frosinone",
+      "pressed_sequences": 62,
+      "build_ups": 7,
+      "build_up_goals": 1,
+      "direct_attacks": 16,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 11,
+      "direct_speed_for": 2.44,
+      "seq_time_for": 5.98
+    },
+    {
+      "team": "Sassuolo",
+      "pressed_sequences": 45,
+      "build_ups": 13,
+      "build_up_goals": 2,
+      "direct_attacks": 8,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 52,
+      "direct_speed_for": 1.68,
+      "seq_time_for": 11.02
+    }
+  ],
+  "defending": [
+    {
+      "team": "Milan",
+      "goals_against": 4,
+      "xg_against": 5.9,
+      "goals_vs_xg_conceded": -1.9,
+      "total_shots_against": 45,
+      "sot_against": 17,
+      "shot_conv_against": 8.8889,
+      "xg_per_shot_against": 0.131
+    },
+    {
+      "team": "Roma",
+      "goals_against": 3,
+      "xg_against": 5.57,
+      "goals_vs_xg_conceded": -2.57,
+      "total_shots_against": 46,
+      "sot_against": 17,
+      "shot_conv_against": 6.5217,
+      "xg_per_shot_against": 0.121
+    },
+    {
+      "team": "Bologna",
+      "goals_against": 6,
+      "xg_against": 4.74,
+      "goals_vs_xg_conceded": 1.26,
+      "total_shots_against": 59,
+      "sot_against": 17,
+      "shot_conv_against": 10.1695,
+      "xg_per_shot_against": 0.08
+    },
+    {
+      "team": "Cagliari",
+      "goals_against": 2,
+      "xg_against": 8.79,
+      "goals_vs_xg_conceded": -6.79,
+      "total_shots_against": 102,
+      "sot_against": 21,
+      "shot_conv_against": 1.9608,
+      "xg_per_shot_against": 0.086
+    },
+    {
+      "team": "Fiorentina",
+      "goals_against": 12,
+      "xg_against": 6.64,
+      "goals_vs_xg_conceded": 5.36,
+      "total_shots_against": 59,
+      "sot_against": 26,
+      "shot_conv_against": 20.339,
+      "xg_per_shot_against": 0.113
+    },
+    {
+      "team": "Inter",
+      "goals_against": 8,
+      "xg_against": 6.73,
+      "goals_vs_xg_conceded": 1.27,
+      "total_shots_against": 57,
+      "sot_against": 19,
+      "shot_conv_against": 14.0351,
+      "xg_per_shot_against": 0.118
+    },
+    {
+      "team": "Juventus",
+      "goals_against": 4,
+      "xg_against": 2.39,
+      "goals_vs_xg_conceded": 1.61,
+      "total_shots_against": 39,
+      "sot_against": 14,
+      "shot_conv_against": 10.2564,
+      "xg_per_shot_against": 0.061
+    },
+    {
+      "team": "Lazio",
+      "goals_against": 3,
+      "xg_against": 6.22,
+      "goals_vs_xg_conceded": -3.22,
+      "total_shots_against": 65,
+      "sot_against": 25,
+      "shot_conv_against": 4.6154,
+      "xg_per_shot_against": 0.096
+    },
+    {
+      "team": "Lecce",
+      "goals_against": 10,
+      "xg_against": 11.59,
+      "goals_vs_xg_conceded": -1.59,
+      "total_shots_against": 83,
+      "sot_against": 39,
+      "shot_conv_against": 12.0482,
+      "xg_per_shot_against": 0.14
+    },
+    {
+      "team": "Parma",
+      "goals_against": 7,
+      "xg_against": 7.91,
+      "goals_vs_xg_conceded": -0.91,
+      "total_shots_against": 92,
+      "sot_against": 28,
+      "shot_conv_against": 7.6087,
+      "xg_per_shot_against": 0.086
+    },
+    {
+      "team": "Torino",
+      "goals_against": 8,
+      "xg_against": 8.44,
+      "goals_vs_xg_conceded": -0.44,
+      "total_shots_against": 77,
+      "sot_against": 23,
+      "shot_conv_against": 10.3896,
+      "xg_per_shot_against": 0.11
+    },
+    {
+      "team": "Udinese",
+      "goals_against": 11,
+      "xg_against": 9.21,
+      "goals_vs_xg_conceded": 1.79,
+      "total_shots_against": 86,
+      "sot_against": 31,
+      "shot_conv_against": 12.7907,
+      "xg_per_shot_against": 0.107
+    },
+    {
+      "team": "Venezia",
+      "goals_against": 13,
+      "xg_against": 11.83,
+      "goals_vs_xg_conceded": 1.17,
+      "total_shots_against": 72,
+      "sot_against": 30,
+      "shot_conv_against": 18.0556,
+      "xg_per_shot_against": 0.164
+    },
+    {
+      "team": "Atalanta",
+      "goals_against": 7,
+      "xg_against": 9.35,
+      "goals_vs_xg_conceded": -2.35,
+      "total_shots_against": 96,
+      "sot_against": 31,
+      "shot_conv_against": 7.2917,
+      "xg_per_shot_against": 0.097
+    },
+    {
+      "team": "Napoli",
+      "goals_against": 6,
+      "xg_against": 7,
+      "goals_vs_xg_conceded": -1,
+      "total_shots_against": 83,
+      "sot_against": 22,
+      "shot_conv_against": 7.2289,
+      "xg_per_shot_against": 0.084
+    },
+    {
+      "team": "Monza",
+      "goals_against": 12,
+      "xg_against": 5.3,
+      "goals_vs_xg_conceded": 6.7,
+      "total_shots_against": 59,
+      "sot_against": 24,
+      "shot_conv_against": 20.339,
+      "xg_per_shot_against": 0.09
+    },
+    {
+      "team": "Genoa",
+      "goals_against": 10,
+      "xg_against": 6.64,
+      "goals_vs_xg_conceded": 3.36,
+      "total_shots_against": 79,
+      "sot_against": 23,
+      "shot_conv_against": 12.6582,
+      "xg_per_shot_against": 0.084
+    },
+    {
+      "team": "Como",
+      "goals_against": 6,
+      "xg_against": 7.64,
+      "goals_vs_xg_conceded": -1.64,
+      "total_shots_against": 75,
+      "sot_against": 17,
+      "shot_conv_against": 8,
+      "xg_per_shot_against": 0.102
+    },
+    {
+      "team": "Frosinone",
+      "goals_against": 4,
+      "xg_against": 10.47,
+      "goals_vs_xg_conceded": -6.47,
+      "total_shots_against": 104,
+      "sot_against": 26,
+      "shot_conv_against": 3.8462,
+      "xg_per_shot_against": 0.101
+    },
+    {
+      "team": "Sassuolo",
+      "goals_against": 9,
+      "xg_against": 6.63,
+      "goals_vs_xg_conceded": 2.37,
+      "total_shots_against": 79,
+      "sot_against": 30,
+      "shot_conv_against": 11.3924,
+      "xg_per_shot_against": 0.084
+    }
+  ],
+  "league": "Italian Serie A",
+  "lastUpdated": "2026-10-05 05:38:08.881456",
+  "source": "theanalyst.com (Opta) tournament stats API",
+  "powerRankings": [
+    {
+      "team": "Inter",
+      "rating": 93.7171167729,
+      "rank": 1,
+      "globalRank": 11
+    },
+    {
+      "team": "Roma",
+      "rating": 91.6352315984,
+      "rank": 2,
+      "globalRank": 20
+    },
+    {
+      "team": "Como",
+      "rating": 90.6903710279,
+      "rank": 3,
+      "globalRank": 30
+    },
+    {
+      "team": "Juventus",
+      "rating": 90.5566442109,
+      "rank": 4,
+      "globalRank": 33
+    },
+    {
+      "team": "Napoli",
+      "rating": 89.1417643907,
+      "rank": 5,
+      "globalRank": 40
+    },
+    {
+      "team": "Milan",
+      "rating": 88.9038086912,
+      "rank": 6,
+      "globalRank": 47
+    },
+    {
+      "team": "Lazio",
+      "rating": 87.6760982854,
+      "rank": 7,
+      "globalRank": 56
+    },
+    {
+      "team": "Atalanta",
+      "rating": 87.4977063222,
+      "rank": 8,
+      "globalRank": 57
+    },
+    {
+      "team": "Bologna",
+      "rating": 85.4043877716,
+      "rank": 9,
+      "globalRank": 92
+    },
+    {
+      "team": "Fiorentina",
+      "rating": 85.0759425849,
+      "rank": 10,
+      "globalRank": 106
+    },
+    {
+      "team": "Sassuolo",
+      "rating": 84.4966556643,
+      "rank": 11,
+      "globalRank": 121
+    },
+    {
+      "team": "Cagliari",
+      "rating": 84.3183865987,
+      "rank": 12,
+      "globalRank": 125
+    },
+    {
+      "team": "Udinese",
+      "rating": 84.2185365435,
+      "rank": 13,
+      "globalRank": 131
+    },
+    {
+      "team": "Torino",
+      "rating": 83.5751158611,
+      "rank": 14,
+      "globalRank": 153
+    },
+    {
+      "team": "Frosinone",
+      "rating": 83.2647490301,
+      "rank": 15,
+      "globalRank": 169
+    },
+    {
+      "team": "Genoa",
+      "rating": 82.4181262018,
+      "rank": 16,
+      "globalRank": 209
+    },
+    {
+      "team": "Monza",
+      "rating": 81.7642036089,
+      "rank": 17,
+      "globalRank": 240
+    },
+    {
+      "team": "Parma",
+      "rating": 81.7050617657,
+      "rank": 18,
+      "globalRank": 242
+    },
+    {
+      "team": "Lecce",
+      "rating": 81.5957665924,
+      "rank": 19,
+      "globalRank": 250
+    },
+    {
+      "team": "Venezia",
+      "rating": 79.8671324544,
+      "rank": 20,
+      "globalRank": 351
+    }
+  ],
+  "powerRankingsUpdated": "2026-10-05T03:03:33Z"
+}

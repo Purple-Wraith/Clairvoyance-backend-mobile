@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-10-05 18:10 MT",
+  "basis": "all locks (including picks locked after the game started)",
+  "basis_note": "Figures count every settled pick in scope, including picks locked after the game had started. basis_detail shows how many of those there are.",
+  "classifier": "scripts/lock_timing.py",
+  "basis_detail": {
+    "settled_pre_start": 1048,
+    "settled_locked_after_start_included": 201,
+    "settled_unknown_timing_included": 2615,
+    "unknown_timing_by_league": {
+      "MLB": 1473,
+      "WNBA": 318,
+      "WTA": 179,
+      "ATP": 161,
+      "NBA": 150,
+      "NHL": 118,
+      "MLS": 98,
+      "WC": 84,
+      "SERIEA": 11,
+      "LIGA": 8,
+      "PL": 7,
+      "TEN": 6,
+      "UNKNOWN": 1,
+      "NFL": 1
+    }
+  },
+  "periods": [
+    {
+      "key": "TODAY",
+      "label": "TODAY",
+      "sub": "",
+      "w": 0,
+      "l": 1,
+      "n": 1,
+      "pct": 0,
+      "units": -1,
+      "excluded_late": 0
+    },
+    {
+      "key": "YESTERDAY",
+      "label": "YESTERDAY",
+      "sub": "",
+      "w": 24,
+      "l": 5,
+      "n": 29,
+      "pct": 0.8275862068965517,
+      "units": 4.788476423773332,
+      "excluded_late": 0
+    },
+    {
+      "key": "ROLLING_7D",
+      "label": "ROLLING 7D",
+      "sub": "",
+      "w": 166,
+      "l": 63,
+      "n": 230,
+      "pct": 0.7217391304347827,
+      "units": 49.28886890666303,
+      "excluded_late": 0
+    },
+    {
+      "key": "THIS_MONTH",
+      "label": "THIS MONTH",
+      "sub": "OCT 2026",
+      "w": 137,
+      "l": 55,
+      "n": 193,
+      "pct": 0.7098445595854922,
+      "units": 33.49076837756254,
+      "excluded_late": 0
+    },
+    {
+      "key": "LAST_MONTH",
+      "label": "LAST MONTH",
+      "sub": "SEP 2026",
+      "w": 799,
+      "l": 434,
+      "n": 1236,
+      "pct": 0.6464401294498382,
+      "units": 186.26341159096106,
+      "excluded_late": 0
+    },
+    {
+      "key": "ALL_TIME",
+      "label": "ALL TIME",
+      "sub": "",
+      "w": 2699,
+      "l": 1165,
+      "n": 3868,
+      "pct": 0.6977766287487074,
+      "units": 950.4145761569266,
+      "excluded_late": 0
+    }
+  ]
+}

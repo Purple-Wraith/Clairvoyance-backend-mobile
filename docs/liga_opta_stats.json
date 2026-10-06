@@ -1,0 +1,1138 @@
+{
+  "attacking": [
+    {
+      "team": "Alav\u00e9s",
+      "played": 7,
+      "goals": 11,
+      "xg": 8.92,
+      "goals_vs_xg": 2.08,
+      "total_shots": 87,
+      "sot": 31,
+      "shot_conv": 12.6437,
+      "xg_per_shot": 0.103
+    },
+    {
+      "team": "Athletic",
+      "played": 6,
+      "goals": 7,
+      "xg": 8.3,
+      "goals_vs_xg": -1.3,
+      "total_shots": 93,
+      "sot": 27,
+      "shot_conv": 7.5269,
+      "xg_per_shot": 0.089
+    },
+    {
+      "team": "Atl\u00e9tico",
+      "played": 7,
+      "goals": 16,
+      "xg": 11.74,
+      "goals_vs_xg": 4.26,
+      "total_shots": 118,
+      "sot": 45,
+      "shot_conv": 13.5593,
+      "xg_per_shot": 0.099
+    },
+    {
+      "team": "Celta",
+      "played": 7,
+      "goals": 8,
+      "xg": 7,
+      "goals_vs_xg": 1,
+      "total_shots": 72,
+      "sot": 26,
+      "shot_conv": 11.1111,
+      "xg_per_shot": 0.097
+    },
+    {
+      "team": "Espanyol",
+      "played": 7,
+      "goals": 10,
+      "xg": 8.66,
+      "goals_vs_xg": 1.34,
+      "total_shots": 95,
+      "sot": 27,
+      "shot_conv": 10.5263,
+      "xg_per_shot": 0.091
+    },
+    {
+      "team": "Barcelona",
+      "played": 7,
+      "goals": 31,
+      "xg": 28.54,
+      "goals_vs_xg": 2.46,
+      "total_shots": 150,
+      "sot": 58,
+      "shot_conv": 20.6667,
+      "xg_per_shot": 0.19
+    },
+    {
+      "team": "Sevilla",
+      "played": 7,
+      "goals": 10,
+      "xg": 6.97,
+      "goals_vs_xg": 3.03,
+      "total_shots": 77,
+      "sot": 29,
+      "shot_conv": 12.987,
+      "xg_per_shot": 0.09
+    },
+    {
+      "team": "Deportivo",
+      "played": 7,
+      "goals": 10,
+      "xg": 6.81,
+      "goals_vs_xg": 3.19,
+      "total_shots": 71,
+      "sot": 27,
+      "shot_conv": 14.0845,
+      "xg_per_shot": 0.096
+    },
+    {
+      "team": "M\u00e1laga",
+      "played": 7,
+      "goals": 3,
+      "xg": 5.9,
+      "goals_vs_xg": -2.9,
+      "total_shots": 70,
+      "sot": 14,
+      "shot_conv": 4.2857,
+      "xg_per_shot": 0.084
+    },
+    {
+      "team": "Rayo",
+      "played": 7,
+      "goals": 11,
+      "xg": 9.06,
+      "goals_vs_xg": 1.94,
+      "total_shots": 94,
+      "sot": 32,
+      "shot_conv": 11.7021,
+      "xg_per_shot": 0.096
+    },
+    {
+      "team": "Betis",
+      "played": 7,
+      "goals": 9,
+      "xg": 11.22,
+      "goals_vs_xg": -2.22,
+      "total_shots": 122,
+      "sot": 45,
+      "shot_conv": 7.377,
+      "xg_per_shot": 0.092
+    },
+    {
+      "team": "Real Madrid",
+      "played": 7,
+      "goals": 18,
+      "xg": 18.5,
+      "goals_vs_xg": -0.5,
+      "total_shots": 132,
+      "sot": 53,
+      "shot_conv": 13.6364,
+      "xg_per_shot": 0.14
+    },
+    {
+      "team": "Real Sociedad",
+      "played": 7,
+      "goals": 9,
+      "xg": 8.55,
+      "goals_vs_xg": 0.45,
+      "total_shots": 95,
+      "sot": 36,
+      "shot_conv": 9.4737,
+      "xg_per_shot": 0.09
+    },
+    {
+      "team": "Santander",
+      "played": 7,
+      "goals": 11,
+      "xg": 10.12,
+      "goals_vs_xg": 0.88,
+      "total_shots": 72,
+      "sot": 28,
+      "shot_conv": 15.2778,
+      "xg_per_shot": 0.14
+    },
+    {
+      "team": "Valencia",
+      "played": 7,
+      "goals": 4,
+      "xg": 6.36,
+      "goals_vs_xg": -2.36,
+      "total_shots": 74,
+      "sot": 19,
+      "shot_conv": 5.4054,
+      "xg_per_shot": 0.086
+    },
+    {
+      "team": "Villarreal",
+      "played": 7,
+      "goals": 13,
+      "xg": 16.51,
+      "goals_vs_xg": -3.51,
+      "total_shots": 112,
+      "sot": 46,
+      "shot_conv": 11.6071,
+      "xg_per_shot": 0.147
+    },
+    {
+      "team": "Osasuna",
+      "played": 7,
+      "goals": 6,
+      "xg": 8.67,
+      "goals_vs_xg": -2.67,
+      "total_shots": 66,
+      "sot": 27,
+      "shot_conv": 9.0909,
+      "xg_per_shot": 0.131
+    },
+    {
+      "team": "Levante",
+      "played": 6,
+      "goals": 8,
+      "xg": 8.08,
+      "goals_vs_xg": -0.08,
+      "total_shots": 64,
+      "sot": 22,
+      "shot_conv": 12.5,
+      "xg_per_shot": 0.126
+    },
+    {
+      "team": "Elche",
+      "played": 7,
+      "goals": 11,
+      "xg": 8.58,
+      "goals_vs_xg": 2.42,
+      "total_shots": 79,
+      "sot": 35,
+      "shot_conv": 13.9241,
+      "xg_per_shot": 0.109
+    },
+    {
+      "team": "Getafe",
+      "played": 7,
+      "goals": 4,
+      "xg": 4.83,
+      "goals_vs_xg": -0.83,
+      "total_shots": 82,
+      "sot": 19,
+      "shot_conv": 4.878,
+      "xg_per_shot": 0.059
+    }
+  ],
+  "passing": [
+    {
+      "team": "Alav\u00e9s",
+      "pos_perc": 42.128571374075754,
+      "passes": 2261,
+      "successful_pass": 1784,
+      "accuracy": 78.9,
+      "final_third_passes": 648,
+      "successful_final_third_passes_perc": 62.81,
+      "op_crosses": 98,
+      "through_balls": 8
+    },
+    {
+      "team": "Athletic",
+      "pos_perc": 52.46666653951009,
+      "passes": 2914,
+      "successful_pass": 2478,
+      "accuracy": 85.04,
+      "final_third_passes": 775,
+      "successful_final_third_passes_perc": 71.35,
+      "op_crosses": 96,
+      "through_balls": 17
+    },
+    {
+      "team": "Atl\u00e9tico",
+      "pos_perc": 57.10000010899135,
+      "passes": 3940,
+      "successful_pass": 3450,
+      "accuracy": 87.56,
+      "final_third_passes": 1196,
+      "successful_final_third_passes_perc": 77.34,
+      "op_crosses": 70,
+      "through_balls": 12
+    },
+    {
+      "team": "Celta",
+      "pos_perc": 52.48571450369699,
+      "passes": 3771,
+      "successful_pass": 3286,
+      "accuracy": 87.14,
+      "final_third_passes": 1117,
+      "successful_final_third_passes_perc": 76.99,
+      "op_crosses": 63,
+      "through_balls": 14
+    },
+    {
+      "team": "Espanyol",
+      "pos_perc": 49.35714340209961,
+      "passes": 2748,
+      "successful_pass": 2262,
+      "accuracy": 82.31,
+      "final_third_passes": 769,
+      "successful_final_third_passes_perc": 71,
+      "op_crosses": 108,
+      "through_balls": 14
+    },
+    {
+      "team": "Barcelona",
+      "pos_perc": 68.6000006539481,
+      "passes": 4664,
+      "successful_pass": 4217,
+      "accuracy": 90.42,
+      "final_third_passes": 1314,
+      "successful_final_third_passes_perc": 81.05,
+      "op_crosses": 63,
+      "through_balls": 48
+    },
+    {
+      "team": "Sevilla",
+      "pos_perc": 42.000000544956755,
+      "passes": 2359,
+      "successful_pass": 1817,
+      "accuracy": 77.02,
+      "final_third_passes": 836,
+      "successful_final_third_passes_perc": 64.35,
+      "op_crosses": 82,
+      "through_balls": 9
+    },
+    {
+      "team": "Deportivo",
+      "pos_perc": 46.51428549630301,
+      "passes": 3109,
+      "successful_pass": 2630,
+      "accuracy": 84.59,
+      "final_third_passes": 677,
+      "successful_final_third_passes_perc": 68.83,
+      "op_crosses": 74,
+      "through_balls": 20
+    },
+    {
+      "team": "M\u00e1laga",
+      "pos_perc": 50.68571417672293,
+      "passes": 3364,
+      "successful_pass": 2915,
+      "accuracy": 86.65,
+      "final_third_passes": 762,
+      "successful_final_third_passes_perc": 75.98,
+      "op_crosses": 45,
+      "through_balls": 7
+    },
+    {
+      "team": "Rayo",
+      "pos_perc": 48.78571374075754,
+      "passes": 2668,
+      "successful_pass": 2154,
+      "accuracy": 80.73,
+      "final_third_passes": 689,
+      "successful_final_third_passes_perc": 64.73,
+      "op_crosses": 94,
+      "through_balls": 7
+    },
+    {
+      "team": "Betis",
+      "pos_perc": 54.057142530168804,
+      "passes": 3634,
+      "successful_pass": 3157,
+      "accuracy": 86.87,
+      "final_third_passes": 1015,
+      "successful_final_third_passes_perc": 77.83,
+      "op_crosses": 84,
+      "through_balls": 7
+    },
+    {
+      "team": "Real Madrid",
+      "pos_perc": 52.51428549630301,
+      "passes": 3684,
+      "successful_pass": 3339,
+      "accuracy": 90.64,
+      "final_third_passes": 1052,
+      "successful_final_third_passes_perc": 81.46,
+      "op_crosses": 68,
+      "through_balls": 24
+    },
+    {
+      "team": "Real Sociedad",
+      "pos_perc": 49.17142868041992,
+      "passes": 3275,
+      "successful_pass": 2785,
+      "accuracy": 85.04,
+      "final_third_passes": 799,
+      "successful_final_third_passes_perc": 71.59,
+      "op_crosses": 74,
+      "through_balls": 14
+    },
+    {
+      "team": "Santander",
+      "pos_perc": 48,
+      "passes": 2987,
+      "successful_pass": 2452,
+      "accuracy": 82.09,
+      "final_third_passes": 785,
+      "successful_final_third_passes_perc": 70.83,
+      "op_crosses": 42,
+      "through_balls": 26
+    },
+    {
+      "team": "Valencia",
+      "pos_perc": 47.61428560529436,
+      "passes": 3017,
+      "successful_pass": 2494,
+      "accuracy": 82.66,
+      "final_third_passes": 730,
+      "successful_final_third_passes_perc": 69.18,
+      "op_crosses": 94,
+      "through_balls": 10
+    },
+    {
+      "team": "Villarreal",
+      "pos_perc": 61.728571210588726,
+      "passes": 4169,
+      "successful_pass": 3717,
+      "accuracy": 89.16,
+      "final_third_passes": 1331,
+      "successful_final_third_passes_perc": 80.24,
+      "op_crosses": 84,
+      "through_balls": 9
+    },
+    {
+      "team": "Osasuna",
+      "pos_perc": 45.58571406773159,
+      "passes": 2716,
+      "successful_pass": 2184,
+      "accuracy": 80.41,
+      "final_third_passes": 721,
+      "successful_final_third_passes_perc": 62.97,
+      "op_crosses": 95,
+      "through_balls": 4
+    },
+    {
+      "team": "Levante",
+      "pos_perc": 40.18333435058594,
+      "passes": 2128,
+      "successful_pass": 1727,
+      "accuracy": 81.16,
+      "final_third_passes": 515,
+      "successful_final_third_passes_perc": 60.58,
+      "op_crosses": 82,
+      "through_balls": 5
+    },
+    {
+      "team": "Elche",
+      "pos_perc": 49.81428582327707,
+      "passes": 3271,
+      "successful_pass": 2771,
+      "accuracy": 84.71,
+      "final_third_passes": 813,
+      "successful_final_third_passes_perc": 72.2,
+      "op_crosses": 87,
+      "through_balls": 17
+    },
+    {
+      "team": "Getafe",
+      "pos_perc": 40.15714236668178,
+      "passes": 2199,
+      "successful_pass": 1665,
+      "accuracy": 75.72,
+      "final_third_passes": 710,
+      "successful_final_third_passes_perc": 60.42,
+      "op_crosses": 101,
+      "through_balls": 6
+    }
+  ],
+  "pressing": [
+    {
+      "team": "Alav\u00e9s",
+      "ppda": 11.6,
+      "high_turnovers": 43,
+      "shot_ending_high_turnovers": 10,
+      "defensive_actions": 209
+    },
+    {
+      "team": "Athletic",
+      "ppda": 12.2,
+      "high_turnovers": 39,
+      "shot_ending_high_turnovers": 6,
+      "defensive_actions": 176
+    },
+    {
+      "team": "Atl\u00e9tico",
+      "ppda": 11.4,
+      "high_turnovers": 61,
+      "shot_ending_high_turnovers": 11,
+      "defensive_actions": 191
+    },
+    {
+      "team": "Celta",
+      "ppda": 14.9,
+      "high_turnovers": 49,
+      "shot_ending_high_turnovers": 7,
+      "defensive_actions": 170
+    },
+    {
+      "team": "Espanyol",
+      "ppda": 11.8,
+      "high_turnovers": 38,
+      "shot_ending_high_turnovers": 8,
+      "defensive_actions": 184
+    },
+    {
+      "team": "Barcelona",
+      "ppda": 8.4,
+      "high_turnovers": 49,
+      "shot_ending_high_turnovers": 13,
+      "defensive_actions": 212
+    },
+    {
+      "team": "Sevilla",
+      "ppda": 11.6,
+      "high_turnovers": 77,
+      "shot_ending_high_turnovers": 11,
+      "defensive_actions": 222
+    },
+    {
+      "team": "Deportivo",
+      "ppda": 14.6,
+      "high_turnovers": 45,
+      "shot_ending_high_turnovers": 7,
+      "defensive_actions": 171
+    },
+    {
+      "team": "M\u00e1laga",
+      "ppda": 14.3,
+      "high_turnovers": 33,
+      "shot_ending_high_turnovers": 4,
+      "defensive_actions": 156
+    },
+    {
+      "team": "Rayo",
+      "ppda": 10.4,
+      "high_turnovers": 47,
+      "shot_ending_high_turnovers": 11,
+      "defensive_actions": 201
+    },
+    {
+      "team": "Betis",
+      "ppda": 13.4,
+      "high_turnovers": 48,
+      "shot_ending_high_turnovers": 8,
+      "defensive_actions": 172
+    },
+    {
+      "team": "Real Madrid",
+      "ppda": 14.3,
+      "high_turnovers": 51,
+      "shot_ending_high_turnovers": 15,
+      "defensive_actions": 165
+    },
+    {
+      "team": "Real Sociedad",
+      "ppda": 12.1,
+      "high_turnovers": 45,
+      "shot_ending_high_turnovers": 10,
+      "defensive_actions": 198
+    },
+    {
+      "team": "Santander",
+      "ppda": 12,
+      "high_turnovers": 47,
+      "shot_ending_high_turnovers": 6,
+      "defensive_actions": 183
+    },
+    {
+      "team": "Valencia",
+      "ppda": 15.4,
+      "high_turnovers": 36,
+      "shot_ending_high_turnovers": 3,
+      "defensive_actions": 148
+    },
+    {
+      "team": "Villarreal",
+      "ppda": 9.8,
+      "high_turnovers": 70,
+      "shot_ending_high_turnovers": 12,
+      "defensive_actions": 201
+    },
+    {
+      "team": "Osasuna",
+      "ppda": 13,
+      "high_turnovers": 40,
+      "shot_ending_high_turnovers": 4,
+      "defensive_actions": 189
+    },
+    {
+      "team": "Levante",
+      "ppda": 15.4,
+      "high_turnovers": 48,
+      "shot_ending_high_turnovers": 7,
+      "defensive_actions": 161
+    },
+    {
+      "team": "Elche",
+      "ppda": 13.5,
+      "high_turnovers": 48,
+      "shot_ending_high_turnovers": 6,
+      "defensive_actions": 176
+    },
+    {
+      "team": "Getafe",
+      "ppda": 12.8,
+      "high_turnovers": 41,
+      "shot_ending_high_turnovers": 8,
+      "defensive_actions": 196
+    }
+  ],
+  "sequences": [
+    {
+      "team": "Alav\u00e9s",
+      "pressed_sequences": 72,
+      "build_ups": 9,
+      "build_up_goals": 2,
+      "direct_attacks": 10,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 29,
+      "direct_speed_for": 2.18,
+      "seq_time_for": 7.46
+    },
+    {
+      "team": "Athletic",
+      "pressed_sequences": 72,
+      "build_ups": 15,
+      "build_up_goals": 0,
+      "direct_attacks": 6,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 69,
+      "direct_speed_for": 1.79,
+      "seq_time_for": 10.55
+    },
+    {
+      "team": "Atl\u00e9tico",
+      "pressed_sequences": 71,
+      "build_ups": 38,
+      "build_up_goals": 4,
+      "direct_attacks": 14,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 121,
+      "direct_speed_for": 1.75,
+      "seq_time_for": 12.18
+    },
+    {
+      "team": "Celta",
+      "pressed_sequences": 69,
+      "build_ups": 23,
+      "build_up_goals": 0,
+      "direct_attacks": 8,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 105,
+      "direct_speed_for": 1.61,
+      "seq_time_for": 13.31
+    },
+    {
+      "team": "Espanyol",
+      "pressed_sequences": 67,
+      "build_ups": 11,
+      "build_up_goals": 0,
+      "direct_attacks": 12,
+      "direct_attack_goals": 3,
+      "ten_plus_passes": 47,
+      "direct_speed_for": 1.82,
+      "seq_time_for": 9.76
+    },
+    {
+      "team": "Barcelona",
+      "pressed_sequences": 77,
+      "build_ups": 45,
+      "build_up_goals": 4,
+      "direct_attacks": 17,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 162,
+      "direct_speed_for": 1.52,
+      "seq_time_for": 14.27
+    },
+    {
+      "team": "Sevilla",
+      "pressed_sequences": 109,
+      "build_ups": 5,
+      "build_up_goals": 0,
+      "direct_attacks": 9,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 27,
+      "direct_speed_for": 2.16,
+      "seq_time_for": 7.34
+    },
+    {
+      "team": "Deportivo",
+      "pressed_sequences": 59,
+      "build_ups": 14,
+      "build_up_goals": 3,
+      "direct_attacks": 9,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 72,
+      "direct_speed_for": 1.66,
+      "seq_time_for": 10.49
+    },
+    {
+      "team": "M\u00e1laga",
+      "pressed_sequences": 52,
+      "build_ups": 24,
+      "build_up_goals": 0,
+      "direct_attacks": 10,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 97,
+      "direct_speed_for": 1.52,
+      "seq_time_for": 12.75
+    },
+    {
+      "team": "Rayo",
+      "pressed_sequences": 66,
+      "build_ups": 11,
+      "build_up_goals": 1,
+      "direct_attacks": 8,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 45,
+      "direct_speed_for": 1.72,
+      "seq_time_for": 8.64
+    },
+    {
+      "team": "Betis",
+      "pressed_sequences": 74,
+      "build_ups": 21,
+      "build_up_goals": 0,
+      "direct_attacks": 22,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 94,
+      "direct_speed_for": 1.78,
+      "seq_time_for": 11.47
+    },
+    {
+      "team": "Real Madrid",
+      "pressed_sequences": 72,
+      "build_ups": 38,
+      "build_up_goals": 3,
+      "direct_attacks": 21,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 111,
+      "direct_speed_for": 1.85,
+      "seq_time_for": 13.23
+    },
+    {
+      "team": "Real Sociedad",
+      "pressed_sequences": 66,
+      "build_ups": 13,
+      "build_up_goals": 0,
+      "direct_attacks": 11,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 93,
+      "direct_speed_for": 1.82,
+      "seq_time_for": 10.54
+    },
+    {
+      "team": "Santander",
+      "pressed_sequences": 81,
+      "build_ups": 12,
+      "build_up_goals": 0,
+      "direct_attacks": 7,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 51,
+      "direct_speed_for": 2.02,
+      "seq_time_for": 8.77
+    },
+    {
+      "team": "Valencia",
+      "pressed_sequences": 66,
+      "build_ups": 10,
+      "build_up_goals": 1,
+      "direct_attacks": 15,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 66,
+      "direct_speed_for": 1.78,
+      "seq_time_for": 9.55
+    },
+    {
+      "team": "Villarreal",
+      "pressed_sequences": 99,
+      "build_ups": 28,
+      "build_up_goals": 0,
+      "direct_attacks": 15,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 110,
+      "direct_speed_for": 1.81,
+      "seq_time_for": 12.15
+    },
+    {
+      "team": "Osasuna",
+      "pressed_sequences": 71,
+      "build_ups": 5,
+      "build_up_goals": 0,
+      "direct_attacks": 5,
+      "direct_attack_goals": 0,
+      "ten_plus_passes": 50,
+      "direct_speed_for": 1.73,
+      "seq_time_for": 9.05
+    },
+    {
+      "team": "Levante",
+      "pressed_sequences": 53,
+      "build_ups": 3,
+      "build_up_goals": 0,
+      "direct_attacks": 6,
+      "direct_attack_goals": 1,
+      "ten_plus_passes": 46,
+      "direct_speed_for": 1.85,
+      "seq_time_for": 8.79
+    },
+    {
+      "team": "Elche",
+      "pressed_sequences": 68,
+      "build_ups": 19,
+      "build_up_goals": 0,
+      "direct_attacks": 8,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 90,
+      "direct_speed_for": 1.67,
+      "seq_time_for": 10.84
+    },
+    {
+      "team": "Getafe",
+      "pressed_sequences": 75,
+      "build_ups": 4,
+      "build_up_goals": 0,
+      "direct_attacks": 6,
+      "direct_attack_goals": 2,
+      "ten_plus_passes": 25,
+      "direct_speed_for": 1.87,
+      "seq_time_for": 7.08
+    }
+  ],
+  "defending": [
+    {
+      "team": "Alav\u00e9s",
+      "goals_against": 6,
+      "xg_against": 8.46,
+      "goals_vs_xg_conceded": -2.46,
+      "total_shots_against": 85,
+      "sot_against": 29,
+      "shot_conv_against": 7.0588,
+      "xg_per_shot_against": 0.1
+    },
+    {
+      "team": "Athletic",
+      "goals_against": 6,
+      "xg_against": 7.91,
+      "goals_vs_xg_conceded": -1.91,
+      "total_shots_against": 57,
+      "sot_against": 22,
+      "shot_conv_against": 10.5263,
+      "xg_per_shot_against": 0.139
+    },
+    {
+      "team": "Atl\u00e9tico",
+      "goals_against": 7,
+      "xg_against": 7.08,
+      "goals_vs_xg_conceded": -0.08,
+      "total_shots_against": 68,
+      "sot_against": 23,
+      "shot_conv_against": 10.2941,
+      "xg_per_shot_against": 0.104
+    },
+    {
+      "team": "Celta",
+      "goals_against": 6,
+      "xg_against": 8.22,
+      "goals_vs_xg_conceded": -2.22,
+      "total_shots_against": 87,
+      "sot_against": 28,
+      "shot_conv_against": 6.8966,
+      "xg_per_shot_against": 0.094
+    },
+    {
+      "team": "Espanyol",
+      "goals_against": 10,
+      "xg_against": 9.72,
+      "goals_vs_xg_conceded": 0.28,
+      "total_shots_against": 85,
+      "sot_against": 33,
+      "shot_conv_against": 11.7647,
+      "xg_per_shot_against": 0.114
+    },
+    {
+      "team": "Barcelona",
+      "goals_against": 7,
+      "xg_against": 7.62,
+      "goals_vs_xg_conceded": -0.62,
+      "total_shots_against": 51,
+      "sot_against": 22,
+      "shot_conv_against": 13.7255,
+      "xg_per_shot_against": 0.149
+    },
+    {
+      "team": "Sevilla",
+      "goals_against": 9,
+      "xg_against": 9.06,
+      "goals_vs_xg_conceded": -0.06,
+      "total_shots_against": 79,
+      "sot_against": 29,
+      "shot_conv_against": 11.3924,
+      "xg_per_shot_against": 0.115
+    },
+    {
+      "team": "Deportivo",
+      "goals_against": 8,
+      "xg_against": 8.08,
+      "goals_vs_xg_conceded": -0.08,
+      "total_shots_against": 90,
+      "sot_against": 31,
+      "shot_conv_against": 8.8889,
+      "xg_per_shot_against": 0.09
+    },
+    {
+      "team": "M\u00e1laga",
+      "goals_against": 12,
+      "xg_against": 11.7,
+      "goals_vs_xg_conceded": 0.3,
+      "total_shots_against": 104,
+      "sot_against": 40,
+      "shot_conv_against": 11.5385,
+      "xg_per_shot_against": 0.113
+    },
+    {
+      "team": "Rayo",
+      "goals_against": 16,
+      "xg_against": 12.51,
+      "goals_vs_xg_conceded": 3.49,
+      "total_shots_against": 116,
+      "sot_against": 39,
+      "shot_conv_against": 13.7931,
+      "xg_per_shot_against": 0.108
+    },
+    {
+      "team": "Betis",
+      "goals_against": 7,
+      "xg_against": 12.97,
+      "goals_vs_xg_conceded": -5.97,
+      "total_shots_against": 110,
+      "sot_against": 41,
+      "shot_conv_against": 6.3636,
+      "xg_per_shot_against": 0.118
+    },
+    {
+      "team": "Real Madrid",
+      "goals_against": 8,
+      "xg_against": 7.7,
+      "goals_vs_xg_conceded": 0.3,
+      "total_shots_against": 89,
+      "sot_against": 31,
+      "shot_conv_against": 8.9888,
+      "xg_per_shot_against": 0.086
+    },
+    {
+      "team": "Real Sociedad",
+      "goals_against": 13,
+      "xg_against": 11.61,
+      "goals_vs_xg_conceded": 1.39,
+      "total_shots_against": 111,
+      "sot_against": 43,
+      "shot_conv_against": 11.7117,
+      "xg_per_shot_against": 0.105
+    },
+    {
+      "team": "Santander",
+      "goals_against": 21,
+      "xg_against": 15.41,
+      "goals_vs_xg_conceded": 5.59,
+      "total_shots_against": 117,
+      "sot_against": 51,
+      "shot_conv_against": 17.9487,
+      "xg_per_shot_against": 0.132
+    },
+    {
+      "team": "Valencia",
+      "goals_against": 13,
+      "xg_against": 11.52,
+      "goals_vs_xg_conceded": 1.48,
+      "total_shots_against": 107,
+      "sot_against": 33,
+      "shot_conv_against": 12.1495,
+      "xg_per_shot_against": 0.108
+    },
+    {
+      "team": "Villarreal",
+      "goals_against": 12,
+      "xg_against": 9,
+      "goals_vs_xg_conceded": 3,
+      "total_shots_against": 90,
+      "sot_against": 26,
+      "shot_conv_against": 13.3333,
+      "xg_per_shot_against": 0.1
+    },
+    {
+      "team": "Osasuna",
+      "goals_against": 13,
+      "xg_against": 9.71,
+      "goals_vs_xg_conceded": 3.29,
+      "total_shots_against": 89,
+      "sot_against": 27,
+      "shot_conv_against": 14.6067,
+      "xg_per_shot_against": 0.109
+    },
+    {
+      "team": "Levante",
+      "goals_against": 12,
+      "xg_against": 12.53,
+      "goals_vs_xg_conceded": -0.53,
+      "total_shots_against": 91,
+      "sot_against": 35,
+      "shot_conv_against": 13.1868,
+      "xg_per_shot_against": 0.138
+    },
+    {
+      "team": "Elche",
+      "goals_against": 17,
+      "xg_against": 13.28,
+      "goals_vs_xg_conceded": 3.72,
+      "total_shots_against": 106,
+      "sot_against": 32,
+      "shot_conv_against": 16.0377,
+      "xg_per_shot_against": 0.125
+    },
+    {
+      "team": "Getafe",
+      "goals_against": 7,
+      "xg_against": 9.22,
+      "goals_vs_xg_conceded": -2.22,
+      "total_shots_against": 93,
+      "sot_against": 31,
+      "shot_conv_against": 7.5269,
+      "xg_per_shot_against": 0.099
+    }
+  ],
+  "league": "Spanish La Liga",
+  "lastUpdated": "2026-10-05 05:42:10.374068",
+  "source": "theanalyst.com (Opta) tournament stats API",
+  "powerRankings": [
+    {
+      "team": "Barcelona",
+      "rating": 96.9789024085,
+      "rank": 1,
+      "globalRank": 4
+    },
+    {
+      "team": "Real Madrid",
+      "rating": 94.3580716302,
+      "rank": 2,
+      "globalRank": 8
+    },
+    {
+      "team": "Atl\u00e9tico",
+      "rating": 91.3713101972,
+      "rank": 3,
+      "globalRank": 23
+    },
+    {
+      "team": "Betis",
+      "rating": 88.9865783185,
+      "rank": 4,
+      "globalRank": 44
+    },
+    {
+      "team": "Villarreal",
+      "rating": 88.4368013872,
+      "rank": 5,
+      "globalRank": 51
+    },
+    {
+      "team": "Rayo",
+      "rating": 86.4885423977,
+      "rank": 6,
+      "globalRank": 67
+    },
+    {
+      "team": "Athletic",
+      "rating": 86.3659938579,
+      "rank": 7,
+      "globalRank": 69
+    },
+    {
+      "team": "Celta",
+      "rating": 85.7939079029,
+      "rank": 8,
+      "globalRank": 82
+    },
+    {
+      "team": "Real Sociedad",
+      "rating": 85.771463773,
+      "rank": 9,
+      "globalRank": 83
+    },
+    {
+      "team": "Alav\u00e9s",
+      "rating": 85.6533698555,
+      "rank": 10,
+      "globalRank": 88
+    },
+    {
+      "team": "Sevilla",
+      "rating": 85.08043266,
+      "rank": 11,
+      "globalRank": 105
+    },
+    {
+      "team": "Valencia",
+      "rating": 85.0507289377,
+      "rank": 12,
+      "globalRank": 109
+    },
+    {
+      "team": "Levante",
+      "rating": 84.6652395305,
+      "rank": 13,
+      "globalRank": 119
+    },
+    {
+      "team": "Deportivo",
+      "rating": 84.235466419,
+      "rank": 14,
+      "globalRank": 129
+    },
+    {
+      "team": "Osasuna",
+      "rating": 84.2351209124,
+      "rank": 15,
+      "globalRank": 130
+    },
+    {
+      "team": "Elche",
+      "rating": 83.9089413833,
+      "rank": 16,
+      "globalRank": 138
+    },
+    {
+      "team": "Espanyol",
+      "rating": 83.7745180858,
+      "rank": 17,
+      "globalRank": 145
+    },
+    {
+      "team": "Getafe",
+      "rating": 83.6221167922,
+      "rank": 18,
+      "globalRank": 149
+    },
+    {
+      "team": "Santander",
+      "rating": 83.5519606622,
+      "rank": 19,
+      "globalRank": 154
+    },
+    {
+      "team": "M\u00e1laga",
+      "rating": 82.7752714777,
+      "rank": 20,
+      "globalRank": 187
+    }
+  ],
+  "powerRankingsUpdated": "2026-10-05T03:03:33Z"
+}

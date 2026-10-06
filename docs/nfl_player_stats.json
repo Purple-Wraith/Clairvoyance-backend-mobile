@@ -1,0 +1,2008 @@
+{
+  "generated_at": "2026-09-29 18:56 UTC",
+  "season": 2026,
+  "week": 4,
+  "blend": "70/30 current/prior after week 3",
+  "teams": {
+    "ARI": [
+      {
+        "name": "Jacoby Brissett",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 4.3,
+        "rushingTouchdowns": 0.8,
+        "rushingYards": 28.3,
+        "passingYards": 672.8
+      },
+      {
+        "name": "Marvin Harrison Jr.",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 96.7,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 5.9
+      },
+      {
+        "name": "Jeremiyah Love",
+        "position": "RB",
+        "rushingTouchdowns": 1.0,
+        "rushingYards": 160.0,
+        "receivingTouchdowns": 1.0,
+        "receivingYards": 44.0,
+        "receptions": 10.0,
+        "passingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "games": 3
+      },
+      {
+        "name": "Trey McBride",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 2.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 213.3,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 24.9
+      },
+      {
+        "name": "Michael Wilson",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 167.4,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 16.7
+      }
+    ],
+    "ATL": [
+      {
+        "name": "Jahan Dotson",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 42.6,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 3.8
+      },
+      {
+        "name": "Drake London",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.5,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 260.7,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 2.8,
+        "passingYards": 0.0,
+        "receptions": 15.6
+      },
+      {
+        "name": "Michael Penix Jr.",
+        "position": "QB",
+        "games": 1,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 1.0,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.9,
+        "passingYards": 245.3
+      },
+      {
+        "name": "Kyle Pitts Sr.",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 63.1,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 6.1
+      },
+      {
+        "name": "Bijan Robinson",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 126.0,
+        "rushingTouchdowns": 1.8,
+        "rushingYards": 322.5,
+        "passingYards": 0.0,
+        "receptions": 13.3
+      }
+    ],
+    "BAL": [
+      {
+        "name": "Mark Andrews",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 107.7,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 2.5,
+        "passingYards": 0.0,
+        "receptions": 11.6
+      },
+      {
+        "name": "Rashod Bateman",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.8,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 103.0,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 7.6
+      },
+      {
+        "name": "Zay Flowers",
+        "position": "WR",
+        "games": 2,
+        "receivingTouchdowns": 0.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 206.5,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 16.2,
+        "passingYards": 0.0,
+        "receptions": 10.0
+      },
+      {
+        "name": "Derrick Henry",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 34.5,
+        "rushingTouchdowns": 5.0,
+        "rushingYards": 295.1,
+        "passingYards": 0.0,
+        "receptions": 4.3
+      },
+      {
+        "name": "Lamar Jackson",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 4.3,
+        "rushingTouchdowns": 0.8,
+        "rushingYards": 111.0,
+        "passingYards": 698.0
+      }
+    ],
+    "BUF": [
+      {
+        "name": "Josh Allen",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 4.8,
+        "receivingYards": 0.7,
+        "rushingTouchdowns": 4.9,
+        "rushingYards": 110.5,
+        "passingYards": 744.4,
+        "receptions": 0.7
+      },
+      {
+        "name": "James Cook III",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 26.6,
+        "rushingTouchdowns": 2.0,
+        "rushingYards": 328.0,
+        "passingYards": 0.0,
+        "receptions": 4.5
+      },
+      {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 1.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 226.9,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 12.7
+      },
+      {
+        "name": "DJ Moore",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.0,
+        "passingTouchdowns": 0.1,
+        "receivingYards": 153.0,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 3.5,
+        "passingYards": 0.1,
+        "receptions": 10.3
+      },
+      {
+        "name": "Khalil Shakir",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 106.2,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.3,
+        "passingYards": 0.0,
+        "receptions": 9.6
+      }
+    ],
+    "CAR": [
+      {
+        "name": "Jalen Coker",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.6,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 187.6,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 15.3
+      },
+      {
+        "name": "AJ Dillon",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 1.3,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 36.4,
+        "passingYards": 0.0,
+        "receptions": 1.1
+      },
+      {
+        "name": "Chuba Hubbard",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 1.6,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 67.3,
+        "rushingTouchdowns": 0.8,
+        "rushingYards": 159.5,
+        "passingYards": 0.0,
+        "receptions": 8.1
+      },
+      {
+        "name": "Tetairoa McMillan",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.4,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 188.8,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 12.1
+      },
+      {
+        "name": "Tommy Tremble",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 62.2,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 6.3
+      },
+      {
+        "name": "Bryce Young",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 6.2,
+        "receivingYards": 0.0,
+        "rushingTouchdowns": 0.8,
+        "rushingYards": 23.4,
+        "passingYards": 826.7,
+        "receptions": 0.0
+      }
+    ],
+    "CHI": [
+      {
+        "name": "Luther Burden III",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.8,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 148.3,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 8.5,
+        "passingYards": 0.0,
+        "receptions": 13.3
+      },
+      {
+        "name": "Colston Loveland",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 63.9,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": -0.1,
+        "passingYards": 0.0,
+        "receptions": 6.8
+      },
+      {
+        "name": "Kyle Monangai",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 33.2,
+        "rushingTouchdowns": 1.0,
+        "rushingYards": 166.1,
+        "passingYards": 0.0,
+        "receptions": 3.8
+      },
+      {
+        "name": "Rome Odunze",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.4,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 146.9,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 8.9
+      },
+      {
+        "name": "D'Andre Swift",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 64.4,
+        "rushingTouchdowns": 2.6,
+        "rushingYards": 238.2,
+        "passingYards": 0.0,
+        "receptions": 7.5
+      },
+      {
+        "name": "Caleb Williams",
+        "position": "QB",
+        "games": 2,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 2.4,
+        "receivingYards": 0.8,
+        "rushingTouchdowns": 1.5,
+        "rushingYards": 88.6,
+        "passingYards": 424.0,
+        "receptions": 0.1
+      }
+    ],
+    "CIN": [
+      {
+        "name": "Chase Brown",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 45.5,
+        "rushingTouchdowns": 1.0,
+        "rushingYards": 191.8,
+        "passingYards": 0.0,
+        "receptions": 10.7
+      },
+      {
+        "name": "Joe Burrow",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 6.1,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 27.0,
+        "passingYards": 723.6
+      },
+      {
+        "name": "Ja'Marr Chase",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 2.5,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 208.9,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.8,
+        "passingYards": 0.0,
+        "receptions": 19.6
+      },
+      {
+        "name": "Mike Gesicki",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 1.5,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 101.8,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 7.5
+      },
+      {
+        "name": "Tee Higgins",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.4,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 221.6,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 13.3
+      }
+    ],
+    "CLE": [
+      {
+        "name": "Denzel Boston",
+        "position": "WR",
+        "receivingTouchdowns": 2.0,
+        "receivingYards": 195.0,
+        "receptions": 9.0,
+        "passingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "rushingTouchdowns": 0.0,
+        "games": 3
+      },
+      {
+        "name": "KC Concepcion",
+        "position": "WR",
+        "receivingTouchdowns": 0.0,
+        "receivingYards": 80.0,
+        "receptions": 12.0,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 9.0,
+        "passingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "games": 3
+      },
+      {
+        "name": "Harold Fannin Jr.",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 1.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 129.3,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 0.7,
+        "passingYards": 0.0,
+        "receptions": 13.8
+      },
+      {
+        "name": "Quinshon Judkins",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 48.1,
+        "rushingTouchdowns": 0.4,
+        "rushingYards": 140.0,
+        "passingYards": 0.0,
+        "receptions": 8.0
+      },
+      {
+        "name": "Raheim Sanders",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 50.9,
+        "rushingTouchdowns": 0.2,
+        "rushingYards": 36.1,
+        "passingYards": 0.0,
+        "receptions": 6.3
+      },
+      {
+        "name": "Deshaun Watson",
+        "position": "QB",
+        "passingTouchdowns": 5.0,
+        "passingYards": 587.0,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 105.0,
+        "receivingTouchdowns": 0.0,
+        "games": 3
+      }
+    ],
+    "DAL": [
+      {
+        "name": "Jake Ferguson",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 2.5,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 82.2,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.1,
+        "passingYards": 0.0,
+        "receptions": 10.6
+      },
+      {
+        "name": "CeeDee Lamb",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 2.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 285.5,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.1,
+        "passingYards": 0.0,
+        "receptions": 18.8
+      },
+      {
+        "name": "George Pickens",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.5,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 180.7,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 16.1
+      },
+      {
+        "name": "Dak Prescott",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 6.5,
+        "receivingYards": 0.0,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 50.7,
+        "passingYards": 752.0,
+        "receptions": 0.0
+      },
+      {
+        "name": "Javonte Williams",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.8,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 46.9,
+        "rushingTouchdowns": 2.0,
+        "rushingYards": 185.9,
+        "passingYards": 0.0,
+        "receptions": 9.0
+      }
+    ],
+    "DEN": [
+      {
+        "name": "J.K. Dobbins",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 6.1,
+        "rushingTouchdowns": 0.4,
+        "rushingYards": 154.2,
+        "passingYards": 0.0,
+        "receptions": 1.7
+      },
+      {
+        "name": "Evan Engram",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.8,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 67.9,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.4,
+        "passingYards": 0.0,
+        "receptions": 6.3
+      },
+      {
+        "name": "RJ Harvey",
+        "position": "RB",
+        "games": 2,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 57.4,
+        "rushingTouchdowns": 0.2,
+        "rushingYards": 35.9,
+        "passingYards": 0.0,
+        "receptions": 8.7
+      },
+      {
+        "name": "Bo Nix",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 4.1,
+        "receivingYards": 0.0,
+        "rushingTouchdowns": 1.0,
+        "rushingYards": 29.3,
+        "passingYards": 631.6,
+        "receptions": 0.0
+      },
+      {
+        "name": "Courtland Sutton",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.4,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 111.2,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 9.5
+      },
+      {
+        "name": "Jaylen Waddle",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 156.2,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 11.4,
+        "passingYards": 0.4,
+        "receptions": 11.3
+      }
+    ],
+    "DET": [
+      {
+        "name": "Jahmyr Gibbs",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 1.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 141.8,
+        "rushingTouchdowns": 3.5,
+        "rushingYards": 279.6,
+        "passingYards": 0.0,
+        "receptions": 16.7
+      },
+      {
+        "name": "Jared Goff",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 7.4,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 12.9,
+        "passingYards": 803.0
+      },
+      {
+        "name": "Sam LaPorta",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 1.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 149.7,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 13.8
+      },
+      {
+        "name": "Amon-Ra St. Brown",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 4.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 233.8,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.5,
+        "passingYards": 0.0,
+        "receptions": 22.3
+      },
+      {
+        "name": "Jameson Williams",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.4,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 148.0,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.6,
+        "passingYards": 0.0,
+        "receptions": 10.4
+      }
+    ],
+    "GB": [
+      {
+        "name": "Matthew Golden",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 200.3,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 3.2,
+        "passingYards": 0.0,
+        "receptions": 12.4
+      },
+      {
+        "name": "Kaleb Johnson",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 7.8,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 32.8,
+        "passingYards": 0.0,
+        "receptions": 0.8
+      },
+      {
+        "name": "Tucker Kraft",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 129.2,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.3,
+        "passingYards": 0.0,
+        "receptions": 9.9
+      },
+      {
+        "name": "Jordan Love",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 5.6,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 11.9,
+        "passingYards": 793.7
+      },
+      {
+        "name": "Christian Watson",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 3.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 253.8,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.3,
+        "passingYards": 0.0,
+        "receptions": 15.1
+      }
+    ],
+    "HOU": [
+      {
+        "name": "Nico Collins",
+        "position": "WR",
+        "games": 1,
+        "receivingTouchdowns": 0.8,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 74.8,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 5.2,
+        "passingYards": 0.0,
+        "receptions": 6.3
+      },
+      {
+        "name": "Xavier Hutchinson",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 106.7,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 4.0,
+        "passingYards": 0.0,
+        "receptions": 8.2
+      },
+      {
+        "name": "David Montgomery",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.7,
+        "passingTouchdowns": 0.1,
+        "receivingYards": 43.8,
+        "rushingTouchdowns": 1.8,
+        "rushingYards": 110.0,
+        "passingYards": 0.2,
+        "receptions": 6.2
+      },
+      {
+        "name": "Dalton Schultz",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 184.6,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 17.6
+      },
+      {
+        "name": "C.J. Stroud",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 3.3,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 51.2,
+        "passingYards": 751.3
+      }
+    ],
+    "IND": [
+      {
+        "name": "Keenan Allen",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 111.1,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 13.4
+      },
+      {
+        "name": "Josh Downs",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 162.0,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": -0.1,
+        "passingYards": 0.0,
+        "receptions": 13.1
+      },
+      {
+        "name": "Daniel Jones",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 3.4,
+        "rushingTouchdowns": 0.3,
+        "rushingYards": 24.7,
+        "passingYards": 642.4
+      },
+      {
+        "name": "Jonathan Taylor",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 66.9,
+        "rushingTouchdowns": 3.8,
+        "rushingYards": 264.5,
+        "passingYards": 0.0,
+        "receptions": 8.7
+      },
+      {
+        "name": "Tyler Warren",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 1.6,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 105.6,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 3.9,
+        "passingYards": 0.0,
+        "receptions": 16.6
+      }
+    ],
+    "JAX": [
+      {
+        "name": "Trevor Lawrence",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 6.4,
+        "rushingTouchdowns": 0.5,
+        "rushingYards": 42.8,
+        "passingYards": 643.3
+      },
+      {
+        "name": "Jakobi Meyers",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 175.9,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 2.7,
+        "passingYards": 0.0,
+        "receptions": 14.5
+      },
+      {
+        "name": "Brenton Strange",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 90.9,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 8.3
+      },
+      {
+        "name": "Bhayshul Tuten",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 29.9,
+        "rushingTouchdowns": 1.7,
+        "rushingYards": 161.2,
+        "passingYards": 0.0,
+        "receptions": 4.1
+      },
+      {
+        "name": "Parker Washington",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 202.3,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.0,
+        "passingYards": 0.0,
+        "receptions": 13.8
+      }
+    ],
+    "KC": [
+      {
+        "name": "Travis Kelce",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 1.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 206.8,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.1,
+        "passingYards": 0.0,
+        "receptions": 13.8
+      },
+      {
+        "name": "Patrick Mahomes",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 6.3,
+        "receivingYards": -0.6,
+        "rushingTouchdowns": 1.0,
+        "rushingYards": 55.8,
+        "passingYards": 799.0,
+        "receptions": 0.1
+      },
+      {
+        "name": "Rashee Rice",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 197.2,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 2.2,
+        "passingYards": 0.0,
+        "receptions": 15.1
+      },
+      {
+        "name": "Kenneth Walker III",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 1.4,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 72.3,
+        "rushingTouchdowns": 1.7,
+        "rushingYards": 306.4,
+        "passingYards": 0.0,
+        "receptions": 9.3
+      },
+      {
+        "name": "Xavier Worthy",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.8,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 78.3,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 5.6,
+        "passingYards": 0.0,
+        "receptions": 9.7
+      }
+    ],
+    "LV": [
+      {
+        "name": "Brock Bowers",
+        "position": "TE",
+        "games": 1,
+        "receivingTouchdowns": 0.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 98.2,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.0,
+        "passingYards": 0.0,
+        "receptions": 8.6
+      },
+      {
+        "name": "Kirk Cousins",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 7.2,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": -0.8,
+        "passingYards": 617.6
+      },
+      {
+        "name": "Ashton Jeanty",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 1.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 86.2,
+        "rushingTouchdowns": 0.3,
+        "rushingYards": 195.8,
+        "passingYards": 0.0,
+        "receptions": 12.0
+      },
+      {
+        "name": "Jalen Nailor",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 59.9,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.7,
+        "passingYards": 0.0,
+        "receptions": 5.0
+      },
+      {
+        "name": "Tre Tucker",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 169.1,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 2.7,
+        "passingYards": 0.0,
+        "receptions": 10.7
+      }
+    ],
+    "LAC": [
+      {
+        "name": "Omarion Hampton",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 33.9,
+        "rushingTouchdowns": 1.8,
+        "rushingYards": 189.6,
+        "passingYards": 0.0,
+        "receptions": 4.6
+      },
+      {
+        "name": "Justin Herbert",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 3.6,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 61.6,
+        "passingYards": 648.5
+      },
+      {
+        "name": "Quentin Johnston",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.5,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 92.0,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 5.3,
+        "passingYards": 0.0,
+        "receptions": 7.5
+      },
+      {
+        "name": "Charlie Kolar",
+        "position": "TE",
+        "games": 2,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 19.7,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 2.5
+      },
+      {
+        "name": "Ladd McConkey",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 172.5,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 12.1
+      }
+    ],
+    "LAR": [
+      {
+        "name": "Davante Adams",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 2.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 301.3,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 16.5
+      },
+      {
+        "name": "Blake Corum",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 11.0,
+        "rushingTouchdowns": 0.3,
+        "rushingYards": 143.1,
+        "passingYards": 0.0,
+        "receptions": 2.5
+      },
+      {
+        "name": "Puka Nacua",
+        "position": "WR",
+        "games": 1,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 84.0,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 2.0,
+        "passingYards": 0.0,
+        "receptions": 5.9
+      },
+      {
+        "name": "Colby Parkinson",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.5,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 39.2,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 4.7
+      },
+      {
+        "name": "Matthew Stafford",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 6.6,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 7.8,
+        "passingYards": 859.6
+      },
+      {
+        "name": "Kyren Williams",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 89.1,
+        "rushingTouchdowns": 1.2,
+        "rushingYards": 216.1,
+        "passingYards": 0.0,
+        "receptions": 9.6
+      }
+    ],
+    "MIA": [
+      {
+        "name": "Caleb Douglas",
+        "position": "WR",
+        "receivingTouchdowns": 0.0,
+        "receivingYards": 113.0,
+        "receptions": 7.0,
+        "passingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "games": 2
+      },
+      {
+        "name": "Greg Dulcich",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 93.1,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": -0.6,
+        "passingYards": 0.0,
+        "receptions": 8.6
+      },
+      {
+        "name": "Malik Washington",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 123.2,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 12.1,
+        "passingYards": 0.0,
+        "receptions": 10.8
+      },
+      {
+        "name": "Malik Willis",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 1.4,
+        "rushingTouchdowns": 1.1,
+        "rushingYards": 98.4,
+        "passingYards": 533.8
+      },
+      {
+        "name": "Jaylen Wright",
+        "position": "RB",
+        "games": 2,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 2.6,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 24.3,
+        "passingYards": 0.0,
+        "receptions": 0.3
+      }
+    ],
+    "MIN": [
+      {
+        "name": "Jordan Addison",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 116.9,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 5.2,
+        "passingYards": 0.0,
+        "receptions": 7.6
+      },
+      {
+        "name": "DeeJay Dallas",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 9.1,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 13.3,
+        "passingYards": 0.0,
+        "receptions": 1.4
+      },
+      {
+        "name": "T.J. Hockenson",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 79.5,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.0,
+        "passingYards": 0.0,
+        "receptions": 9.4
+      },
+      {
+        "name": "Justin Jefferson",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.5,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 180.8,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.4,
+        "passingYards": 0.0,
+        "receptions": 13.5
+      },
+      {
+        "name": "Aaron Jones Sr.",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 38.7,
+        "rushingTouchdowns": 0.8,
+        "rushingYards": 183.2,
+        "passingYards": 0.0,
+        "receptions": 5.6
+      },
+      {
+        "name": "Kyler Murray",
+        "position": "QB",
+        "games": 2,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 1.4,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 39.0,
+        "passingYards": 245.6
+      }
+    ],
+    "NE": [
+      {
+        "name": "Romeo Doubs",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 142.2,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 7.3
+      },
+      {
+        "name": "DeMario Douglas",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 70.6,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 1.1,
+        "passingYards": 0.0,
+        "receptions": 6.5
+      },
+      {
+        "name": "TreVeyon Henderson",
+        "position": "RB",
+        "games": 2,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 12.0,
+        "rushingTouchdowns": 1.0,
+        "rushingYards": 101.5,
+        "passingYards": 0.0,
+        "receptions": 1.9
+      },
+      {
+        "name": "Hunter Henry",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.4,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 90.4,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 8.1
+      },
+      {
+        "name": "Drake Maye",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 2.3,
+        "receivingYards": 0.1,
+        "rushingTouchdowns": 0.2,
+        "rushingYards": 81.2,
+        "passingYards": 642.1,
+        "receptions": 0.1
+      },
+      {
+        "name": "Rhamondre Stevenson",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 66.3,
+        "rushingTouchdowns": 0.4,
+        "rushingYards": 120.0,
+        "passingYards": 0.0,
+        "receptions": 8.4
+      }
+    ],
+    "NO": [
+      {
+        "name": "Travis Etienne Jr.",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 51.2,
+        "rushingTouchdowns": 0.4,
+        "rushingYards": 148.2,
+        "passingYards": 0.0,
+        "receptions": 9.6
+      },
+      {
+        "name": "Juwan Johnson",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 2.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 168.2,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 14.6
+      },
+      {
+        "name": "Chris Olave",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 327.9,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": -0.2,
+        "passingYards": 0.0,
+        "receptions": 24.5
+      },
+      {
+        "name": "Tyler Shough",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 6.4,
+        "rushingTouchdowns": 0.9,
+        "rushingYards": 62.1,
+        "passingYards": 837.0
+      },
+      {
+        "name": "Devaughn Vele",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.8,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 140.7,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 12.2
+      }
+    ],
+    "NYG": [
+      {
+        "name": "Malachi Fields",
+        "position": "WR",
+        "receivingTouchdowns": 0.0,
+        "receivingYards": 74.0,
+        "receptions": 6.0,
+        "passingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "games": 3
+      },
+      {
+        "name": "Isaiah Likely",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 1.5,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 106.5,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 12.2
+      },
+      {
+        "name": "Malik Nabers",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.4,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 128.2,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 12.4
+      },
+      {
+        "name": "Cam Skattebo",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 64.6,
+        "rushingTouchdowns": 1.3,
+        "rushingYards": 170.0,
+        "passingYards": 0.0,
+        "receptions": 7.6
+      },
+      {
+        "name": "Jameis Winston",
+        "position": "QB",
+        "games": 2,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.4,
+        "receivingYards": 6.6,
+        "rushingTouchdowns": 0.2,
+        "rushingYards": 15.1,
+        "passingYards": 273.7,
+        "receptions": 0.2
+      }
+    ],
+    "NYJ": [
+      {
+        "name": "Breece Hall",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.1,
+        "receivingYards": 91.1,
+        "rushingTouchdowns": 0.9,
+        "rushingYards": 174.0,
+        "passingYards": 0.2,
+        "receptions": 9.0
+      },
+      {
+        "name": "Adonai Mitchell",
+        "position": "WR",
+        "games": 2,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 120.1,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": -0.3,
+        "passingYards": 0.0,
+        "receptions": 8.8
+      },
+      {
+        "name": "Kenyon Sadiq",
+        "position": "TE",
+        "receivingTouchdowns": 1.0,
+        "receivingYards": 143.0,
+        "receptions": 12.0,
+        "rushingTouchdowns": 1.0,
+        "rushingYards": 3.0,
+        "passingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "games": 3
+      },
+      {
+        "name": "Geno Smith",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 3.9,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 31.7,
+        "passingYards": 729.6
+      },
+      {
+        "name": "Garrett Wilson",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 220.9,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 19.3
+      }
+    ],
+    "PHI": [
+      {
+        "name": "Saquon Barkley",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 19.6,
+        "rushingTouchdowns": 0.4,
+        "rushingYards": 185.9,
+        "passingYards": 0.0,
+        "receptions": 4.2
+      },
+      {
+        "name": "Dallas Goedert",
+        "position": "TE",
+        "games": 2,
+        "receivingTouchdowns": 1.8,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 80.3,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 5.9
+      },
+      {
+        "name": "Jalen Hurts",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 4.9,
+        "rushingTouchdowns": 1.1,
+        "rushingYards": 84.6,
+        "passingYards": 615.3
+      },
+      {
+        "name": "DeVonta Smith",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 217.9,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 17.4
+      },
+      {
+        "name": "Dontayvion Wicks",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.8,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 146.6,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.4,
+        "passingYards": 0.0,
+        "receptions": 8.2
+      }
+    ],
+    "PIT": [
+      {
+        "name": "Pat Freiermuth",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 101.3,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 2.1,
+        "passingYards": 0.0,
+        "receptions": 9.9
+      },
+      {
+        "name": "DK Metcalf",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 119.6,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 0.7,
+        "passingYards": 0.0,
+        "receptions": 11.2
+      },
+      {
+        "name": "Michael Pittman Jr.",
+        "position": "WR",
+        "games": 2,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 79.5,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 6.3
+      },
+      {
+        "name": "Aaron Rodgers",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 4.2,
+        "receivingYards": -0.5,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 11.8,
+        "passingYards": 676.9,
+        "receptions": 0.1
+      },
+      {
+        "name": "Jaylen Warren",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 95.7,
+        "rushingTouchdowns": 0.3,
+        "rushingYards": 205.1,
+        "passingYards": 0.0,
+        "receptions": 9.2
+      }
+    ],
+    "SF": [
+      {
+        "name": "Mike Evans",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 137.3,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 11.8
+      },
+      {
+        "name": "George Kittle",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 2.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 173.2,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": -0.2,
+        "passingYards": 0.0,
+        "receptions": 13.1
+      },
+      {
+        "name": "Christian McCaffrey",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.4,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 121.7,
+        "rushingTouchdowns": 2.6,
+        "rushingYards": 179.8,
+        "passingYards": 0.0,
+        "receptions": 14.5
+      },
+      {
+        "name": "Brock Purdy",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 8.3,
+        "rushingTouchdowns": 1.0,
+        "rushingYards": 79.8,
+        "passingYards": 769.0
+      },
+      {
+        "name": "Deebo Samuel Sr.",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 152.2,
+        "rushingTouchdowns": 0.1,
+        "rushingYards": 25.2,
+        "passingYards": 0.0,
+        "receptions": 10.3
+      }
+    ],
+    "SEA": [
+      {
+        "name": "AJ Barner",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 90.5,
+        "rushingTouchdowns": 0.8,
+        "rushingYards": 1.4,
+        "passingYards": 0.0,
+        "receptions": 8.4
+      },
+      {
+        "name": "Sam Darnold",
+        "position": "QB",
+        "games": 2,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 3.7,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 6.9,
+        "passingYards": 417.3
+      },
+      {
+        "name": "Jadarian Price",
+        "position": "RB",
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 119.0,
+        "receivingTouchdowns": 0.0,
+        "receivingYards": 21.0,
+        "receptions": 4.0,
+        "passingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "games": 3
+      },
+      {
+        "name": "Rashid Shaheed",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 105.8,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 9.7,
+        "passingYards": 0.0,
+        "receptions": 10.1
+      },
+      {
+        "name": "Jaxon Smith-Njigba",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 4.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 378.4,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 1.9,
+        "passingYards": 9.8,
+        "receptions": 25.2
+      },
+      {
+        "name": "Emanuel Wilson",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 5.2,
+        "rushingTouchdowns": 0.2,
+        "rushingYards": 102.6,
+        "passingYards": 0.0,
+        "receptions": 0.8
+      }
+    ],
+    "TB": [
+      {
+        "name": "Emeka Egbuka",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 148.4,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": -1.6,
+        "passingYards": 0.0,
+        "receptions": 12.4
+      },
+      {
+        "name": "Chris Godwin Jr.",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.2,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 113.7,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 10.5,
+        "passingYards": 0.0,
+        "receptions": 10.3
+      },
+      {
+        "name": "Bucky Irving",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 67.6,
+        "rushingTouchdowns": 0.8,
+        "rushingYards": 178.9,
+        "passingYards": 0.0,
+        "receptions": 11.8
+      },
+      {
+        "name": "Baker Mayfield",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 2.8,
+        "rushingTouchdowns": 0.8,
+        "rushingYards": 65.7,
+        "passingYards": 626.0
+      },
+      {
+        "name": "Cade Otton",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 116.2,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 11.0
+      }
+    ],
+    "TEN": [
+      {
+        "name": "Gunnar Helm",
+        "position": "TE",
+        "games": 3,
+        "receivingTouchdowns": 0.1,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 58.6,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 8.1
+      },
+      {
+        "name": "Tony Pollard",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 26.3,
+        "rushingTouchdowns": 0.3,
+        "rushingYards": 178.4,
+        "passingYards": 0.0,
+        "receptions": 5.9
+      },
+      {
+        "name": "Wan'Dale Robinson",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 0.9,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 129.8,
+        "rushingTouchdowns": 0.0,
+        "rushingYards": 0.3,
+        "passingYards": 0.0,
+        "receptions": 14.3
+      },
+      {
+        "name": "Carnell Tate",
+        "position": "WR",
+        "receivingTouchdowns": 0.0,
+        "receivingYards": 123.0,
+        "receptions": 13.0,
+        "passingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "games": 3
+      },
+      {
+        "name": "Cam Ward",
+        "position": "QB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 2.2,
+        "rushingTouchdowns": 1.5,
+        "rushingYards": 29.4,
+        "passingYards": 520.6
+      }
+    ],
+    "WSH": [
+      {
+        "name": "Jacory Croskey-Merritt",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 7.1,
+        "rushingTouchdowns": 1.1,
+        "rushingYards": 142.0,
+        "passingYards": 0.0,
+        "receptions": 2.6
+      },
+      {
+        "name": "Jayden Daniels",
+        "position": "QB",
+        "games": 2,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 2.8,
+        "rushingTouchdowns": 0.2,
+        "rushingYards": 93.8,
+        "passingYards": 290.2
+      },
+      {
+        "name": "Stefon Diggs",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 2.3,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 148.1,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 13.6
+      },
+      {
+        "name": "Terry McLaurin",
+        "position": "WR",
+        "games": 3,
+        "receivingTouchdowns": 1.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 151.1,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 10.4
+      },
+      {
+        "name": "Chig Okonkwo",
+        "position": "TE",
+        "games": 1,
+        "receivingTouchdowns": 0.0,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 21.1,
+        "rushingTouchdowns": 0.0,
+        "passingYards": 0.0,
+        "receptions": 2.4
+      },
+      {
+        "name": "Rachaad White",
+        "position": "RB",
+        "games": 3,
+        "receivingTouchdowns": 0.7,
+        "passingTouchdowns": 0.0,
+        "receivingYards": 47.2,
+        "rushingTouchdowns": 0.2,
+        "rushingYards": 100.3,
+        "passingYards": 0.0,
+        "receptions": 8.4
+      }
+    ]
+  }
+}
