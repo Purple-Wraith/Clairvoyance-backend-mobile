@@ -1,9 +1,9 @@
 {
   "lastSettle": {
-    "tsUTC": "2026-10-09T20:56:25Z",
-    "tsMT": "2026-10-09 02:56 PM MT",
+    "tsUTC": "2026-10-09T23:28:44Z",
+    "tsMT": "2026-10-09 05:28 PM MT",
     "ok": true,
-    "detail": "9 bet(s) settled"
+    "detail": "settle check ran -- nothing pending to settle"
   },
   "lastLock": {
     "tsUTC": "2026-10-09T18:47:56Z",
@@ -1565,11 +1565,13 @@
     "86503f6a54ae": "2026-10-09T15:25:42Z",
     "451dc134c034": "2026-10-09T18:47:56Z",
     "3d594a61944f": "2026-10-09T19:02:48Z",
-    "1be6e13eb014": "2026-10-09T22:25:35Z"
+    "1be6e13eb014": "2026-10-09T22:25:35Z",
+    "12dc990e95ac": "2026-10-09T23:30:55Z",
+    "8f1627f35e31": "2026-10-09T23:56:41Z"
   },
   "lastWatchdog": {
-    "tsUTC": "2026-10-09T22:25:35Z",
-    "tsMT": "2026-10-09 04:25 PM MT",
+    "tsUTC": "2026-10-09T23:56:41Z",
+    "tsMT": "2026-10-09 05:56 PM MT",
     "ok": true,
     "detail": "2 unlocked qualifying leg(s) reported to the owner"
   }
