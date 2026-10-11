@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-10 17:21 MT",
+  "generated_at": "2026-10-10 18:02 MT",
   "basis": "all locks (including picks locked after the game started)",
   "basis_note": "Figures count every settled pick in scope, including picks locked after the game had started. basis_detail shows how many of those there are.",
   "classifier": "scripts/lock_timing.py",
   "basis_detail": {
-    "settled_pre_start": 1051,
+    "settled_pre_start": 1057,
     "settled_locked_after_start_included": 170,
     "settled_unknown_timing_included": 279,
     "unknown_timing_by_league": {
@@ -20,11 +20,11 @@
     "leagues": [
       {
         "lbl": "CFB",
-        "w": 22,
-        "l": 12,
-        "n": 34,
-        "pct": 0.6470588235294118,
-        "units": -3.2953000356223754
+        "w": 26,
+        "l": 14,
+        "n": 40,
+        "pct": 0.65,
+        "units": -4.066251442271992
       },
       {
         "lbl": "NLA",
@@ -184,11 +184,11 @@
     "leagues": [
       {
         "lbl": "CFB",
-        "w": 85,
-        "l": 42,
-        "n": 128,
-        "pct": 0.6640625,
-        "units": 10.602844883404703
+        "w": 89,
+        "l": 44,
+        "n": 134,
+        "pct": 0.664179104477612,
+        "units": 9.831893476755084
       },
       {
         "lbl": "NHL",
@@ -270,11 +270,11 @@
     "leagues": [
       {
         "lbl": "CFB",
-        "w": 26,
-        "l": 15,
-        "n": 41,
-        "pct": 0.6341463414634146,
-        "units": -4.795300035622375
+        "w": 30,
+        "l": 17,
+        "n": 47,
+        "pct": 0.6382978723404256,
+        "units": -5.566251442271992
       },
       {
         "lbl": "NHL",
@@ -356,11 +356,11 @@
     "leagues": [
       {
         "lbl": "CFB",
-        "w": 338,
-        "l": 162,
-        "n": 504,
-        "pct": 0.6706349206349206,
-        "units": 64.04878704839447
+        "w": 342,
+        "l": 164,
+        "n": 510,
+        "pct": 0.6705882352941176,
+        "units": 63.27783564174486
       },
       {
         "lbl": "NHL",
@@ -1614,6 +1614,16 @@
         0.36
       ],
       [
+        1791532986754,
+        0,
+        -1
+      ],
+      [
+        1791532987077,
+        0,
+        -1
+      ],
+      [
         1791532987232,
         0,
         -1
@@ -1689,6 +1699,21 @@
         -1
       ],
       [
+        1791532990807,
+        1,
+        0.2353
+      ],
+      [
+        1791532991182,
+        1,
+        0.378
+      ],
+      [
+        1791532991387,
+        1,
+        0.2558
+      ],
+      [
         1791586534813,
         1,
         0.378
@@ -1747,6 +1772,11 @@
         1791632515372,
         0,
         -1
+      ],
+      [
+        1791632587234,
+        1,
+        0.36
       ]
     ],
     "SHL": [
