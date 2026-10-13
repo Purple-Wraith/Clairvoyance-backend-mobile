@@ -1342,5 +1342,29 @@
     "ts": "2026-10-13T18:34:47Z",
     "fixtures": 54,
     "results": 5
+  },
+  {
+    "league": "LIIGA",
+    "ts": "2026-10-13T19:17:13Z",
+    "fixtures": 105,
+    "results": 99
+  },
+  {
+    "league": "SHL",
+    "ts": "2026-10-13T19:19:59Z",
+    "fixtures": 109,
+    "results": 55
+  },
+  {
+    "league": "NLA",
+    "ts": "2026-10-13T19:22:45Z",
+    "fixtures": 105,
+    "results": 72
+  },
+  {
+    "league": "EXTRALIGA",
+    "ts": "2026-10-13T19:24:50Z",
+    "fixtures": 112,
+    "results": 69
   }
 ]
