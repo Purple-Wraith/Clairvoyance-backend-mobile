@@ -6,10 +6,10 @@
     "detail": "0 bet(s) settled"
   },
   "lastLock": {
-    "tsUTC": "2026-10-14T10:25:00Z",
-    "tsMT": "2026-10-14 04:25 AM MT",
+    "tsUTC": "2026-10-14T14:43:05Z",
+    "tsMT": "2026-10-14 08:43 AM MT",
     "ok": true,
-    "detail": "lock pass completed, 18 pick(s) verified for 2026-10-14"
+    "detail": "EURO EARLY lock pass completed, 0 locked this pass, 18 pick(s) verified for 2026-10-14"
   },
   "lastSoccerEveningLock": {
     "tsUTC": "2026-10-14T06:40:50Z",
@@ -30,56 +30,6 @@
     "detail": "SHL/Liiga/NLA/Extraliga rolling-horizon pass completed, 9 locked this pass, 26 pick(s) verified for 2026-10-14 + 2026-10-15"
   },
   "lockPasses": [
-    {
-      "key": "lastLock",
-      "kind": "early-cfb",
-      "label": "CFB",
-      "tsUTC": "2026-10-07T17:29:47Z",
-      "tsMT": "2026-10-07 11:29 AM MT",
-      "dates": [
-        "2026-10-07"
-      ],
-      "live": true,
-      "complete": true,
-      "qualifying": 0,
-      "new": 0,
-      "already": 0,
-      "failed": 0,
-      "skippedStarted": 0,
-      "games": 0,
-      "started": 0,
-      "upcoming": 0,
-      "nextStartMs": null,
-      "nextStartMT": null,
-      "marginMin": null,
-      "noPriceGames": 0,
-      "late": false
-    },
-    {
-      "key": "lastLock",
-      "kind": "main",
-      "label": "ALL PRODUCTS",
-      "tsUTC": "2026-10-07T19:21:28Z",
-      "tsMT": "2026-10-07 01:21 PM MT",
-      "dates": [
-        "2026-10-07"
-      ],
-      "live": true,
-      "complete": true,
-      "qualifying": 0,
-      "new": 0,
-      "already": 0,
-      "failed": 0,
-      "skippedStarted": 0,
-      "games": 3,
-      "started": 0,
-      "upcoming": 3,
-      "nextStartMs": 1791415800000.0,
-      "nextStartMT": "Wed 10-07 05:30 PM MT",
-      "marginMin": 249,
-      "noPriceGames": 0,
-      "late": false
-    },
     {
       "key": "lastHockeyEveningLock",
       "kind": "hockey-evening",
@@ -1555,17 +1505,59 @@
       "marginMin": 305,
       "noPriceGames": 0,
       "late": false
+    },
+    {
+      "key": "lastLock",
+      "kind": "euro-early-soccer",
+      "label": "SOCCER",
+      "tsUTC": "2026-10-14T14:43:05Z",
+      "tsMT": "2026-10-14 08:43 AM MT",
+      "dates": [
+        "2026-10-14"
+      ],
+      "live": true,
+      "complete": true,
+      "qualifying": 11,
+      "new": 0,
+      "already": 11,
+      "failed": 0,
+      "skippedStarted": 0,
+      "games": 9,
+      "started": 0,
+      "upcoming": 9,
+      "nextStartMs": 1791996300000.0,
+      "nextStartMT": "Wed 10-14 10:45 AM MT",
+      "marginMin": 122,
+      "noPriceGames": 0,
+      "late": false
+    },
+    {
+      "key": "lastLock",
+      "kind": "euro-early-hockey",
+      "label": "HOCKEY",
+      "tsUTC": "2026-10-14T14:43:05Z",
+      "tsMT": "2026-10-14 08:43 AM MT",
+      "dates": [
+        "2026-10-14"
+      ],
+      "live": true,
+      "complete": true,
+      "qualifying": 4,
+      "new": 0,
+      "already": 4,
+      "failed": 0,
+      "skippedStarted": 0,
+      "games": 3,
+      "started": 0,
+      "upcoming": 3,
+      "nextStartMs": 1791991800000.0,
+      "nextStartMT": "Wed 10-14 09:30 AM MT",
+      "marginMin": 47,
+      "noPriceGames": 0,
+      "late": false
     }
   ],
   "ownerAlerts": {
-    "caa32f5feb1d": "2026-10-11T05:33:31Z",
-    "84523fe1d6a4": "2026-10-11T09:54:21Z",
-    "b191c6fd090a": "2026-10-11T11:24:56Z",
-    "433a468c3069": "2026-10-11T11:32:10Z",
-    "28a5aeb7fe19": "2026-10-11T11:42:04Z",
-    "03b4290b5c6f": "2026-10-11T13:24:43Z",
-    "76f55a346f13": "2026-10-11T13:28:18Z",
-    "b9878a786bca": "2026-10-11T14:20:12Z",
     "8cdf054d1339": "2026-10-11T15:59:44Z",
     "3f8fd9d5ca92": "2026-10-11T16:25:42Z",
     "9fa9e070dcc9": "2026-10-11T16:47:51Z",
@@ -1597,12 +1589,13 @@
     "c3c3434270b8": "2026-10-14T01:35:29Z",
     "eb389fc6dcbe": "2026-10-14T01:55:17Z",
     "be0a9aa830aa": "2026-10-14T02:07:31Z",
-    "8288a58f5b96": "2026-10-14T02:25:21Z"
+    "8288a58f5b96": "2026-10-14T02:25:21Z",
+    "d0b5344bf4c7": "2026-10-14T14:41:08Z"
   },
   "lastWatchdog": {
-    "tsUTC": "2026-10-14T02:25:21Z",
-    "tsMT": "2026-10-13 08:25 PM MT",
+    "tsUTC": "2026-10-14T14:41:08Z",
+    "tsMT": "2026-10-14 08:41 AM MT",
     "ok": true,
-    "detail": "3 unlocked qualifying leg(s) reported to the owner"
+    "detail": "1 unlocked qualifying leg(s) reported to the owner"
   }
 }
