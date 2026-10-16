@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15 18:47 MT",
+  "generated_at": "2026-10-15 20:51 MT",
   "basis": "all locks (including picks locked after the game started)",
   "basis_note": "Figures count every settled pick in scope, including picks locked after the game had started. basis_detail shows how many of those there are.",
   "classifier": "scripts/lock_timing.py",
   "basis_detail": {
-    "settled_pre_start": 1219,
-    "settled_locked_after_start_included": 188,
+    "settled_pre_start": 1226,
+    "settled_locked_after_start_included": 189,
     "settled_unknown_timing_included": 279,
     "unknown_timing_by_league": {
       "NBA": 135,
@@ -25,6 +25,14 @@
         "n": 14,
         "pct": 0.7142857142857143,
         "units": 1.2799999999999998
+      },
+      {
+        "lbl": "NHL",
+        "w": 4,
+        "l": 4,
+        "n": 8,
+        "pct": 0.5,
+        "units": -2.25
       },
       {
         "lbl": "LIIGA",
@@ -152,11 +160,11 @@
       },
       {
         "lbl": "NHL",
-        "w": 89,
-        "l": 29,
-        "n": 118,
-        "pct": 0.7542372881355932,
-        "units": 26.481000000000005
+        "w": 93,
+        "l": 33,
+        "n": 126,
+        "pct": 0.7380952380952381,
+        "units": 24.231000000000005
       },
       {
         "lbl": "NFL",
@@ -238,11 +246,11 @@
     "leagues": [
       {
         "lbl": "NHL",
-        "w": 50,
-        "l": 19,
-        "n": 69,
-        "pct": 0.7246376811594203,
-        "units": 12.287000000000006
+        "w": 54,
+        "l": 23,
+        "n": 77,
+        "pct": 0.7012987012987013,
+        "units": 10.037000000000008
       },
       {
         "lbl": "CFB",
@@ -340,11 +348,11 @@
       },
       {
         "lbl": "NHL",
-        "w": 198,
-        "l": 53,
-        "n": 251,
-        "pct": 0.7888446215139442,
-        "units": 90.27853700662892
+        "w": 202,
+        "l": 57,
+        "n": 259,
+        "pct": 0.7799227799227799,
+        "units": 88.02853700662891
       },
       {
         "lbl": "NBA",
@@ -840,6 +848,46 @@
         1792018518846,
         1,
         0.71
+      ],
+      [
+        1792058988194,
+        1,
+        0.41
+      ],
+      [
+        1792058988444,
+        1,
+        0.39
+      ],
+      [
+        1792058988714,
+        1,
+        0.33
+      ],
+      [
+        1792058989032,
+        0,
+        -1
+      ],
+      [
+        1792058989317,
+        0,
+        -1
+      ],
+      [
+        1792058989608,
+        0,
+        -1
+      ],
+      [
+        1792106731716,
+        0,
+        -1
+      ],
+      [
+        1792106739146,
+        1,
+        0.62
       ]
     ],
     "NFL": [
