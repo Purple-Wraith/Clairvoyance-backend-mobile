@@ -54,58 +54,10 @@
     "results": 4
   },
   {
-    "league": "LIIGA",
-    "ts": "2026-10-08T08:13:35Z",
-    "fixtures": 110,
-    "results": 86
-  },
-  {
-    "league": "SHL",
-    "ts": "2026-10-08T08:16:31Z",
-    "fixtures": 109,
-    "results": 41
-  },
-  {
-    "league": "NLA",
-    "ts": "2026-10-08T08:19:05Z",
-    "fixtures": 105,
-    "results": 60
-  },
-  {
-    "league": "EXTRALIGA",
-    "ts": "2026-10-08T08:21:57Z",
-    "fixtures": 111,
-    "results": 55
-  },
-  {
     "league": "NBA",
     "ts": "2026-10-08T11:57:42Z",
     "fixtures": 50,
     "results": 5
-  },
-  {
-    "league": "LIIGA",
-    "ts": "2026-10-08T12:18:13Z",
-    "fixtures": 110,
-    "results": 86
-  },
-  {
-    "league": "SHL",
-    "ts": "2026-10-08T12:20:53Z",
-    "fixtures": 109,
-    "results": 41
-  },
-  {
-    "league": "NLA",
-    "ts": "2026-10-08T12:23:28Z",
-    "fixtures": 105,
-    "results": 60
-  },
-  {
-    "league": "EXTRALIGA",
-    "ts": "2026-10-08T12:26:15Z",
-    "fixtures": 110,
-    "results": 55
   },
   {
     "league": "LIIGA",
@@ -1630,5 +1582,53 @@
     "ts": "2026-10-18T09:29:43Z",
     "fixtures": 68,
     "results": 0
+  },
+  {
+    "league": "LIIGA",
+    "ts": "2026-10-18T12:12:47Z",
+    "fixtures": 106,
+    "results": 106
+  },
+  {
+    "league": "SHL",
+    "ts": "2026-10-18T12:14:48Z",
+    "fixtures": 108,
+    "results": 69
+  },
+  {
+    "league": "NLA",
+    "ts": "2026-10-18T12:16:04Z",
+    "fixtures": 106,
+    "results": 86
+  },
+  {
+    "league": "EXTRALIGA",
+    "ts": "2026-10-18T12:17:49Z",
+    "fixtures": 109,
+    "results": 75
+  },
+  {
+    "league": "LIIGA",
+    "ts": "2026-10-18T12:36:36Z",
+    "fixtures": 106,
+    "results": 106
+  },
+  {
+    "league": "SHL",
+    "ts": "2026-10-18T12:38:37Z",
+    "fixtures": 108,
+    "results": 69
+  },
+  {
+    "league": "NLA",
+    "ts": "2026-10-18T12:39:49Z",
+    "fixtures": 106,
+    "results": 86
+  },
+  {
+    "league": "EXTRALIGA",
+    "ts": "2026-10-18T12:41:34Z",
+    "fixtures": 109,
+    "results": 75
   }
 ]
