@@ -96,24 +96,6 @@
     "results": 2
   },
   {
-    "league": "SHL",
-    "ts": "2026-10-10T14:29:07Z",
-    "fixtures": 113,
-    "results": 48
-  },
-  {
-    "league": "NLA",
-    "ts": "2026-10-10T14:31:27Z",
-    "fixtures": 110,
-    "results": 65
-  },
-  {
-    "league": "EXTRALIGA",
-    "ts": "2026-10-10T14:33:34Z",
-    "fixtures": 112,
-    "results": 62
-  },
-  {
     "league": "NBA",
     "ts": "2026-10-10T16:26:58Z",
     "fixtures": 45,
@@ -1660,5 +1642,23 @@
     "ts": "2026-10-20T16:57:36Z",
     "fixtures": 112,
     "results": 106
+  },
+  {
+    "league": "SHL",
+    "ts": "2026-10-20T17:00:16Z",
+    "fixtures": 108,
+    "results": 69
+  },
+  {
+    "league": "NLA",
+    "ts": "2026-10-20T17:04:08Z",
+    "fixtures": 106,
+    "results": 86
+  },
+  {
+    "league": "EXTRALIGA",
+    "ts": "2026-10-20T17:06:40Z",
+    "fixtures": 112,
+    "results": 82
   }
 ]
