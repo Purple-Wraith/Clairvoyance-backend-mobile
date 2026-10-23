@@ -5159,9 +5159,9 @@
       "homeName": "Trinec",
       "away": "UTfYWeKA",
       "awayName": "Ceske Budejovice",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 6,
       "ou": 5.5,
       "odds": {
         "ml": {
@@ -5269,9 +5269,7 @@
           "bet365.us"
         ],
         "at": "2026-10-23T14:23:20Z"
-      },
-      "carried": true,
-      "lastSeen": "2026-10-23T14:22Z"
+      }
     },
     {
       "id": "dKpVqsbC",
@@ -5280,9 +5278,9 @@
       "homeName": "Litvinov",
       "away": "CMBTIThf",
       "awayName": "Plzen",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 0,
       "ou": 5.5,
       "odds": {
         "ml": {
@@ -5390,9 +5388,7 @@
           "bet365.us"
         ],
         "at": "2026-10-23T14:23:32Z"
-      },
-      "carried": true,
-      "lastSeen": "2026-10-23T14:22Z"
+      }
     },
     {
       "id": "2JC2RYso",
@@ -5401,9 +5397,9 @@
       "homeName": "Vitkovice",
       "away": "AusK09zk",
       "awayName": "Kometa Brno",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 2,
       "ou": 5.5,
       "odds": {
         "ml": {
@@ -5511,9 +5507,7 @@
           "bet365.us"
         ],
         "at": "2026-10-23T14:23:49Z"
-      },
-      "carried": true,
-      "lastSeen": "2026-10-23T14:22Z"
+      }
     },
     {
       "id": "UP4lkxzh",
@@ -5522,9 +5516,9 @@
       "homeName": "Kladno",
       "away": "UDlHJ9wl",
       "awayName": "Pardubice",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 4,
+      "awayScore": 3,
       "ou": 5.5,
       "odds": {
         "ml": {
@@ -5624,9 +5618,7 @@
           "bet365.us"
         ],
         "at": "2026-10-23T14:24:03Z"
-      },
-      "carried": true,
-      "lastSeen": "2026-10-23T14:22Z"
+      }
     },
     {
       "id": "2w3dmG44",
@@ -5635,9 +5627,9 @@
       "homeName": "Liberec",
       "away": "zcG9U7N6",
       "awayName": "Sparta Prague",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 1,
       "ou": 5.5,
       "odds": {
         "ml": {
@@ -5745,9 +5737,7 @@
           "bet365.us"
         ],
         "at": "2026-10-23T14:24:16Z"
-      },
-      "carried": true,
-      "lastSeen": "2026-10-23T14:22Z"
+      }
     },
     {
       "id": "dK4CqY3T",
@@ -5756,9 +5746,9 @@
       "homeName": "Mountfield HK",
       "away": "pIEGPioE",
       "awayName": "Karlovy Vary",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 4,
       "ou": 5.5,
       "odds": {
         "ml": {
@@ -5866,9 +5856,7 @@
           "bet365.us"
         ],
         "at": "2026-10-23T14:24:30Z"
-      },
-      "carried": true,
-      "lastSeen": "2026-10-23T14:22Z"
+      }
     },
     {
       "id": "UkzGhBtp",
@@ -8028,5 +8016,6 @@
       "awayScore": null,
       "ou": null
     }
-  ]
+  ],
+  "resultsRefreshedAt": "2026-10-23 18:51 UTC"
 }
