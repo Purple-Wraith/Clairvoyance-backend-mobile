@@ -138,42 +138,6 @@
     "results": 5
   },
   {
-    "league": "LIIGA",
-    "ts": "2026-10-14T00:16:08Z",
-    "fixtures": 105,
-    "results": 99
-  },
-  {
-    "league": "SHL",
-    "ts": "2026-10-14T00:18:57Z",
-    "fixtures": 109,
-    "results": 55
-  },
-  {
-    "league": "LIIGA",
-    "ts": "2026-10-14T08:14:39Z",
-    "fixtures": 105,
-    "results": 99
-  },
-  {
-    "league": "SHL",
-    "ts": "2026-10-14T08:17:21Z",
-    "fixtures": 109,
-    "results": 55
-  },
-  {
-    "league": "NLA",
-    "ts": "2026-10-14T08:20:06Z",
-    "fixtures": 105,
-    "results": 72
-  },
-  {
-    "league": "EXTRALIGA",
-    "ts": "2026-10-14T08:22:04Z",
-    "fixtures": 112,
-    "results": 69
-  },
-  {
     "league": "NBA",
     "ts": "2026-10-14T10:04:45Z",
     "fixtures": 57,
@@ -190,18 +154,6 @@
     "ts": "2026-10-14T12:17:21Z",
     "fixtures": 109,
     "results": 55
-  },
-  {
-    "league": "NLA",
-    "ts": "2026-10-14T12:20:10Z",
-    "fixtures": 105,
-    "results": 72
-  },
-  {
-    "league": "EXTRALIGA",
-    "ts": "2026-10-14T12:22:09Z",
-    "fixtures": 112,
-    "results": 69
   },
   {
     "league": "LIIGA",
@@ -1702,5 +1654,53 @@
     "ts": "2026-10-24T09:27:01Z",
     "fixtures": 79,
     "results": 12
+  },
+  {
+    "league": "LIIGA",
+    "ts": "2026-10-24T12:13:55Z",
+    "fixtures": 111,
+    "results": 108
+  },
+  {
+    "league": "SHL",
+    "ts": "2026-10-24T12:15:29Z",
+    "fixtures": 112,
+    "results": 77
+  },
+  {
+    "league": "NLA",
+    "ts": "2026-10-24T12:18:16Z",
+    "fixtures": 114,
+    "results": 99
+  },
+  {
+    "league": "EXTRALIGA",
+    "ts": "2026-10-24T12:19:56Z",
+    "fixtures": 112,
+    "results": 91
+  },
+  {
+    "league": "LIIGA",
+    "ts": "2026-10-24T12:40:06Z",
+    "fixtures": 111,
+    "results": 108
+  },
+  {
+    "league": "SHL",
+    "ts": "2026-10-24T12:41:53Z",
+    "fixtures": 112,
+    "results": 77
+  },
+  {
+    "league": "NLA",
+    "ts": "2026-10-24T12:44:53Z",
+    "fixtures": 114,
+    "results": 99
+  },
+  {
+    "league": "EXTRALIGA",
+    "ts": "2026-10-24T12:46:40Z",
+    "fixtures": 112,
+    "results": 91
   }
 ]
