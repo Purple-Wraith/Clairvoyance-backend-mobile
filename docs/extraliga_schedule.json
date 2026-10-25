@@ -7240,9 +7240,9 @@
       "homeName": "Kladno",
       "away": "QDufxqpt",
       "awayName": "Vitkovice",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 1,
       "ou": 5.5,
       "odds": {
         "ml": {
@@ -7292,9 +7292,7 @@
           "Fanatics"
         ],
         "at": "2026-10-25T13:55:29Z"
-      },
-      "carried": true,
-      "lastSeen": "2026-10-25T13:55Z"
+      }
     },
     {
       "id": "Qgox0glA",
@@ -7303,9 +7301,9 @@
       "homeName": "Liberec",
       "away": "CMBTIThf",
       "awayName": "Plzen",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 0,
       "ou": 4.5,
       "odds": {
         "ml": {
@@ -7355,9 +7353,7 @@
           "Fanatics"
         ],
         "at": "2026-10-25T13:55:40Z"
-      },
-      "carried": true,
-      "lastSeen": "2026-10-25T13:55Z"
+      }
     },
     {
       "id": "hjjrvCRj",
@@ -7366,9 +7362,9 @@
       "homeName": "Mlada Boleslav",
       "away": "UTfYWeKA",
       "awayName": "Ceske Budejovice",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 2,
       "ou": 5.5,
       "odds": {
         "ml": {
@@ -7419,8 +7415,7 @@
         ],
         "at": "2026-10-25T13:55:47Z"
       },
-      "carried": true,
-      "lastSeen": "2026-10-25T13:55Z"
+      "ouTotal": 4
     },
     {
       "id": "b7qpbXIM",
@@ -9458,5 +9453,6 @@
       "awayScore": null,
       "ou": null
     }
-  ]
+  ],
+  "resultsRefreshedAt": "2026-10-25 18:01 UTC"
 }
