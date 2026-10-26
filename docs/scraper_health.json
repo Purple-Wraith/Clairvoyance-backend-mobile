@@ -163,18 +163,6 @@
   },
   {
     "league": "LIIGA",
-    "ts": "2026-10-15T21:04:50Z",
-    "fixtures": 110,
-    "results": 104
-  },
-  {
-    "league": "SHL",
-    "ts": "2026-10-15T21:06:43Z",
-    "fixtures": 109,
-    "results": 62
-  },
-  {
-    "league": "LIIGA",
     "ts": "2026-10-15T23:38:34Z",
     "fixtures": 110,
     "results": 104
@@ -184,18 +172,6 @@
     "ts": "2026-10-15T23:40:27Z",
     "fixtures": 109,
     "results": 62
-  },
-  {
-    "league": "NLA",
-    "ts": "2026-10-15T23:43:58Z",
-    "fixtures": 104,
-    "results": 73
-  },
-  {
-    "league": "EXTRALIGA",
-    "ts": "2026-10-15T23:46:18Z",
-    "fixtures": 111,
-    "results": 70
   },
   {
     "league": "LIIGA",
@@ -1718,6 +1694,30 @@
   {
     "league": "EXTRALIGA",
     "ts": "2026-10-25T23:18:37Z",
+    "fixtures": 112,
+    "results": 98
+  },
+  {
+    "league": "LIIGA",
+    "ts": "2026-10-26T08:14:39Z",
+    "fixtures": 107,
+    "results": 105
+  },
+  {
+    "league": "SHL",
+    "ts": "2026-10-26T08:17:41Z",
+    "fixtures": 112,
+    "results": 84
+  },
+  {
+    "league": "NLA",
+    "ts": "2026-10-26T08:21:26Z",
+    "fixtures": 113,
+    "results": 106
+  },
+  {
+    "league": "EXTRALIGA",
+    "ts": "2026-10-26T08:24:39Z",
     "fixtures": 112,
     "results": 98
   }
