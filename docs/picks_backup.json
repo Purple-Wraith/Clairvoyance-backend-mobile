@@ -110131,8 +110131,8 @@
     "betOn": "Monza +1.5",
     "sport": "SERIEA",
     "wager": 0,
-    "aScore": null,
-    "hScore": null,
+    "aScore": 1,
+    "hScore": 2,
     "league": "SERIEA",
     "source": "manual",
     "altLine": {
@@ -110149,11 +110149,12 @@
     "betType": "SPREAD",
     "decOdds": 1.245,
     "leadMin": 1817,
-    "outcome": "pending",
+    "outcome": "win",
     "startMs": 1793455200000,
     "winProb": 0.758,
     "lockedAt": 1793346196013,
     "reasoning": "PICK: Monza +1.5 \u2014 ADJUSTED LINE (75.8% estimated win prob at this line)\nADJUSTED LINE: moved 1 goal from the posted Monza +0.5 to Monza +1.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 57.1%; the 1-goal cushion is priced from the historical margin curve for this market (about 76% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
+    "settledAt": 1793462712131,
     "lockOrigin": "auto",
     "lockTiming": "pre",
     "socFactors": {
@@ -110197,18 +110198,19 @@
     "betOn": "OVER 2.5",
     "sport": "SERIEA",
     "wager": 0,
-    "aScore": null,
-    "hScore": null,
+    "aScore": 1,
+    "hScore": 2,
     "league": "SERIEA",
     "source": "manual",
     "betType": "OU",
     "decOdds": 1.91,
     "leadMin": 1817,
-    "outcome": "pending",
+    "outcome": "win",
     "startMs": 1793455200000,
     "winProb": 0.6235548942717778,
     "lockedAt": 1793346195767,
     "reasoning": "PICK: OVER 2.5 \u2014 OPTIMAL (62.4% win prob, EV +19.0% \u00b7 EV assumes a standard -110 price, not a market quote)\nMODEL: Projected 1.49\u20131.73 goals (xG 1.49/1.73), BTTS 64% \u2014 OVER 2.5 hits 62.4% of outcomes, from an exact Poisson distribution with a Dixon-Coles draw adjustment (not a simulation).\nWHY: xG basis: Bologna 1.73 xG/G vs Monza 1.49 xG/G. 3-way: Home 61% / Draw 32% / Away 39%. MC proj: 1.73 \u2013 1.49 (3.22 total vs 2.5 line, BTTS 64%). Goal spread: Bologna -0.5 covers 43%, Monza +0.5 covers 57% (proj margin Bologna -0.24). Combined xG 3.22 supports goals above the line. Kelly 20.9%. OPTIMAL \u00b7 Standard-unit play \u00b7 Also: Monza +0.5 (LEAN). Factors moving this pick: Fbref (H) -6%, Standings (H) -6%, Standings (A) -6%, Fbref (A) +5%.",
+    "settledAt": 1793462712178,
     "lockOrigin": "auto",
     "lockTiming": "pre",
     "socFactors": {
@@ -110251,8 +110253,8 @@
     "betOn": "Nottingham Forest +1.5",
     "sport": "PL",
     "wager": 0,
-    "aScore": null,
-    "hScore": null,
+    "aScore": 0,
+    "hScore": 2,
     "league": "PL",
     "source": "manual",
     "altLine": {
@@ -110269,7 +110271,7 @@
     "betType": "SPREAD",
     "decOdds": 1.245,
     "leadMin": 1877,
-    "outcome": "pending",
+    "outcome": "loss",
     "startMs": 1793458800000,
     "winProb": 0.758,
     "lockedAt": 1793346187332,
@@ -110306,7 +110308,8 @@
         "home": 1.0138248847926268
       }
     },
-    "priceSource": "estimated"
+    "priceSource": "estimated",
+    "settledAt": 1793465525025
   },
   {
     "hA": "Brentford",
@@ -110317,8 +110320,8 @@
     "betOn": "OVER 1.5",
     "sport": "PL",
     "wager": 0,
-    "aScore": null,
-    "hScore": null,
+    "aScore": 0,
+    "hScore": 2,
     "league": "PL",
     "source": "manual",
     "altLine": {
@@ -110335,7 +110338,7 @@
     "betType": "OU",
     "decOdds": 1.28,
     "leadMin": 1877,
-    "outcome": "pending",
+    "outcome": "win",
     "startMs": 1793458800000,
     "winProb": 0.736,
     "lockedAt": 1793346187539,
@@ -110372,7 +110375,8 @@
         "home": 1.0138248847926268
       }
     },
-    "priceSource": "estimated"
+    "priceSource": "estimated",
+    "settledAt": 1793465525026
   },
   {
     "hA": "CHA",
@@ -111509,14 +111513,14 @@
     "betOn": "Frolunda ML",
     "sport": "SHL",
     "wager": 0,
-    "aScore": null,
-    "hScore": null,
+    "aScore": 1,
+    "hScore": 4,
     "league": "SHL",
     "source": "manual",
     "betType": "ML",
     "decOdds": 1.285,
     "leadMin": 1845,
-    "outcome": "pending",
+    "outcome": "win",
     "startMs": 1793456100000,
     "winProb": 0.7592742595328257,
     "lockedAt": 1793345375828,
@@ -111526,7 +111530,8 @@
     "lockOrigin": "auto",
     "lockTiming": "pre",
     "marketProb": 0.7303,
-    "priceSource": "market"
+    "priceSource": "market",
+    "settledAt": 1793465529963
   },
   {
     "hA": "Frolunda",
@@ -111537,8 +111542,8 @@
     "betOn": "UNDER 6.5",
     "sport": "SHL",
     "wager": 0,
-    "aScore": null,
-    "hScore": null,
+    "aScore": 1,
+    "hScore": 4,
     "league": "SHL",
     "source": "manual",
     "altLine": {
@@ -111555,14 +111560,15 @@
     "betType": "OU",
     "decOdds": 1.348,
     "leadMin": 1845,
-    "outcome": "pending",
+    "outcome": "win",
     "startMs": 1793456100000,
     "winProb": 0.6969,
     "lockedAt": 1793345376260,
     "reasoning": "PICK: UNDER 6.5 \u2014 ADJUSTED LINE (69.7% estimated win prob at this line)\nADJUSTED LINE: moved 1 goal from the posted UNDER 5.5 to UNDER 6.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 51.8%; the 1-goal cushion is priced from the historical margin curve for this market (about 70% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
     "lockOrigin": "auto",
     "lockTiming": "pre",
-    "priceSource": "estimated"
+    "priceSource": "estimated",
+    "settledAt": 1793465529964
   },
   {
     "hA": "HOU",
@@ -115028,14 +115034,14 @@
     "betOn": "Skelleftea ML",
     "sport": "SHL",
     "wager": 0,
-    "aScore": null,
-    "hScore": null,
+    "aScore": 3,
+    "hScore": 5,
     "league": "SHL",
     "source": "manual",
     "betType": "ML",
     "decOdds": 1.17,
     "leadMin": 1845,
-    "outcome": "pending",
+    "outcome": "win",
     "startMs": 1793456100000,
     "winProb": 0.8093439974186876,
     "lockedAt": 1793345376460,
@@ -115045,7 +115051,8 @@
     "lockOrigin": "auto",
     "lockTiming": "pre",
     "marketProb": 0.7955,
-    "priceSource": "market"
+    "priceSource": "market",
+    "settledAt": 1793465529964
   },
   {
     "hA": "Skelleftea",
@@ -115056,8 +115063,8 @@
     "betOn": "UNDER 6.5",
     "sport": "SHL",
     "wager": 0,
-    "aScore": null,
-    "hScore": null,
+    "aScore": 3,
+    "hScore": 5,
     "league": "SHL",
     "source": "manual",
     "altLine": {
@@ -115074,14 +115081,15 @@
     "betType": "OU",
     "decOdds": 1.366,
     "leadMin": 1845,
-    "outcome": "pending",
+    "outcome": "loss",
     "startMs": 1793456100000,
     "winProb": 0.6873,
     "lockedAt": 1793345376916,
     "reasoning": "PICK: UNDER 6.5 \u2014 ADJUSTED LINE (68.7% estimated win prob at this line)\nADJUSTED LINE: moved 1 goal from the posted UNDER 5.5 to UNDER 6.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 49.9%; the 1-goal cushion is priced from the historical margin curve for this market (about 69% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
     "lockOrigin": "auto",
     "lockTiming": "pre",
-    "priceSource": "estimated"
+    "priceSource": "estimated",
+    "settledAt": 1793465529964
   },
   {
     "hA": "TCU",
@@ -116570,14 +116578,14 @@
     "betOn": "Farjestad ML",
     "sport": "SHL",
     "wager": 0,
-    "aScore": null,
-    "hScore": null,
+    "aScore": 5,
+    "hScore": 1,
     "league": "SHL",
     "source": "manual",
     "betType": "ML",
     "decOdds": 1.52,
     "leadMin": 1598,
-    "outcome": "pending",
+    "outcome": "win",
     "startMs": 1793456100000,
     "winProb": 0.6515741262176432,
     "lockedAt": 1793360213408,
@@ -116587,7 +116595,8 @@
     "lockOrigin": "auto",
     "lockTiming": "pre",
     "marketProb": 0.6171,
-    "priceSource": "market"
+    "priceSource": "market",
+    "settledAt": 1793465529964
   },
   {
     "hA": "Vaxjo",
@@ -116598,8 +116607,8 @@
     "betOn": "OVER 4.5",
     "sport": "SHL",
     "wager": 0,
-    "aScore": null,
-    "hScore": null,
+    "aScore": 5,
+    "hScore": 1,
     "league": "SHL",
     "source": "manual",
     "altLine": {
@@ -116616,14 +116625,15 @@
     "betType": "OU",
     "decOdds": 1.515,
     "leadMin": 1845,
-    "outcome": "pending",
+    "outcome": "win",
     "startMs": 1793456100000,
     "winProb": 0.615,
     "lockedAt": 1793345377282,
     "reasoning": "PICK: OVER 4.5 \u2014 ADJUSTED LINE (61.5% estimated win prob at this line)\nADJUSTED LINE: moved 1 goal from the posted OVER 5.5 to OVER 4.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 43.6%; the 1-goal cushion is priced from the historical margin curve for this market (about 62% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
     "lockOrigin": "auto",
     "lockTiming": "pre",
-    "priceSource": "estimated"
+    "priceSource": "estimated",
+    "settledAt": 1793465529964
   },
   {
     "hA": "WAKE",
