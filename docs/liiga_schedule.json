@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06 12:12 UTC",
+  "generated_at": "2026-11-06 17:06 UTC",
   "season": "2026-2027",
   "teams": {
     "hdqQJQgc": {
@@ -10812,7 +10812,7 @@
         "bk": [
           "Fanatics"
         ],
-        "at": "2026-11-06T12:12:32Z"
+        "at": "2026-11-06T17:06:35Z"
       }
     },
     {
@@ -10825,7 +10825,40 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": null
+      "ou": 5.5,
+      "odds": {
+        "ml": {
+          "home": 1.68,
+          "away": 2.15,
+          "homeBest": 1.68,
+          "awayBest": 2.15,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 5.5,
+            "over": 1.9,
+            "under": 1.8,
+            "overBest": 1.9,
+            "underBest": 1.8,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "-1.5": {
+            "home": 2.75,
+            "away": 1.4,
+            "homeBest": 2.75,
+            "awayBest": 1.4,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-11-06T17:06:41Z"
+      }
     },
     {
       "id": "tGfsvZzn",
@@ -10837,7 +10870,40 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": null
+      "ou": 4.5,
+      "odds": {
+        "ml": {
+          "home": 1.41,
+          "away": 2.7,
+          "homeBest": 1.41,
+          "awayBest": 2.7,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 4.5,
+            "over": 1.54,
+            "under": 2.35,
+            "overBest": 1.54,
+            "underBest": 2.35,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "-1.5": {
+            "home": 2.2,
+            "away": 1.62,
+            "homeBest": 2.2,
+            "awayBest": 1.62,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-11-06T17:06:46Z"
+      }
     },
     {
       "id": "EThkxD5b",
@@ -10849,7 +10915,40 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": null
+      "ou": 4.5,
+      "odds": {
+        "ml": {
+          "home": 1.83,
+          "away": 1.9,
+          "homeBest": 1.83,
+          "awayBest": 1.9,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 4.5,
+            "over": 1.54,
+            "under": 2.35,
+            "overBest": 1.54,
+            "underBest": 2.35,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "-1.5": {
+            "home": 3.5,
+            "away": 1.28,
+            "homeBest": 3.5,
+            "awayBest": 1.28,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-11-06T17:06:52Z"
+      }
     },
     {
       "id": "MgdczizB",
@@ -10861,7 +10960,40 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": null
+      "ou": 5.5,
+      "odds": {
+        "ml": {
+          "home": 1.57,
+          "away": 2.3,
+          "homeBest": 1.57,
+          "awayBest": 2.3,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 5.5,
+            "over": 1.86,
+            "under": 1.86,
+            "overBest": 1.86,
+            "underBest": 1.86,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "-1.5": {
+            "home": 2.5,
+            "away": 1.5,
+            "homeBest": 2.5,
+            "awayBest": 1.5,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-11-06T17:06:58Z"
+      }
     },
     {
       "id": "UJa5YU4N",
@@ -10873,7 +11005,40 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": null
+      "ou": 5.5,
+      "odds": {
+        "ml": {
+          "home": 1.4,
+          "away": 2.75,
+          "homeBest": 1.4,
+          "awayBest": 2.75,
+          "books": 1
+        },
+        "ou": [
+          {
+            "line": 5.5,
+            "over": 2.1,
+            "under": 1.66,
+            "overBest": 2.1,
+            "underBest": 1.66,
+            "books": 1
+          }
+        ],
+        "pl": {
+          "-1.5": {
+            "home": 2.1,
+            "away": 1.66,
+            "homeBest": 2.1,
+            "awayBest": 1.66,
+            "books": 1
+          }
+        },
+        "fmt": "decimal",
+        "bk": [
+          "Fanatics"
+        ],
+        "at": "2026-11-06T17:07:05Z"
+      }
     },
     {
       "id": "QkoyT8Sp",
