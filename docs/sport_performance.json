@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-06 22:31 MT",
+  "generated_at": "2026-11-07 00:01 MT",
   "basis": "all locks (including picks locked after the game started)",
   "basis_note": "Figures count every settled pick in scope, including picks locked after the game had started. basis_detail shows how many of those there are.",
   "classifier": "scripts/lock_timing.py",
   "basis_detail": {
-    "settled_pre_start": 2543,
+    "settled_pre_start": 2549,
     "settled_locked_after_start_included": 211,
-    "settled_unknown_timing_included": 351,
+    "settled_unknown_timing_included": 354,
     "unknown_timing_by_league": {
-      "NBA": 212,
+      "NBA": 215,
       "NHL": 113,
       "SERIEA": 11,
       "LIGA": 8,
@@ -17,56 +17,7 @@
   },
   "today": {
     "label": "TODAY",
-    "leagues": [
-      {
-        "lbl": "NBA",
-        "w": 14,
-        "l": 6,
-        "n": 20,
-        "pct": 0.7,
-        "units": -0.5369729095124893
-      },
-      {
-        "lbl": "CFB",
-        "w": 6,
-        "l": 4,
-        "n": 10,
-        "pct": 0.6,
-        "units": -1.8831493691493688
-      },
-      {
-        "lbl": "NHL",
-        "w": 5,
-        "l": 0,
-        "n": 5,
-        "pct": 1,
-        "units": 2.396
-      },
-      {
-        "lbl": "Premier League",
-        "w": 2,
-        "l": 1,
-        "n": 3,
-        "pct": 0.6666666666666666,
-        "units": 0.15500000000000025
-      },
-      {
-        "lbl": "La Liga",
-        "w": 2,
-        "l": 1,
-        "n": 3,
-        "pct": 0.6666666666666666,
-        "units": -0.47499999999999987
-      },
-      {
-        "lbl": "Serie A",
-        "w": 2,
-        "l": 0,
-        "n": 2,
-        "pct": 1,
-        "units": 0.5250000000000001
-      }
-    ],
+    "leagues": [],
     "excluded_late": 0
   },
   "lastMonth": {
@@ -176,11 +127,11 @@
     "leagues": [
       {
         "lbl": "NBA",
-        "w": 81,
-        "l": 38,
-        "n": 119,
-        "pct": 0.680672268907563,
-        "units": -5.727045848290343
+        "w": 89,
+        "l": 39,
+        "n": 128,
+        "pct": 0.6953125,
+        "units": -3.5217246283044035
       },
       {
         "lbl": "NHL",
@@ -254,11 +205,11 @@
     "leagues": [
       {
         "lbl": "NBA",
-        "w": 91,
-        "l": 44,
-        "n": 135,
-        "pct": 0.674074074074074,
-        "units": -7.934562280215225
+        "w": 99,
+        "l": 45,
+        "n": 144,
+        "pct": 0.6875,
+        "units": -5.729241060229285
       },
       {
         "lbl": "NHL",
@@ -356,11 +307,11 @@
       },
       {
         "lbl": "NBA",
-        "w": 355,
-        "l": 130,
-        "n": 485,
-        "pct": 0.7319587628865979,
-        "units": 57.06775194728447
+        "w": 363,
+        "l": 131,
+        "n": 494,
+        "pct": 0.7348178137651822,
+        "units": 59.27307316727042
       },
       {
         "lbl": "NHL",
@@ -1815,6 +1766,41 @@
         0.399
       ],
       [
+        1793970495035,
+        1,
+        0.6757
+      ],
+      [
+        1793970495455,
+        1,
+        0.376
+      ],
+      [
+        1793970495872,
+        0,
+        -1
+      ],
+      [
+        1793970496150,
+        1,
+        0.0962
+      ],
+      [
+        1793970496810,
+        1,
+        0.376
+      ],
+      [
+        1793970497350,
+        1,
+        0.399
+      ],
+      [
+        1793970497765,
+        1,
+        0.4695
+      ],
+      [
         1793970498049,
         1,
         0.4065
@@ -1823,6 +1809,11 @@
         1793970498424,
         0,
         -1
+      ],
+      [
+        1793970498686,
+        1,
+        0.4065
       ],
       [
         1793970499073,
@@ -1836,6 +1827,11 @@
       ],
       [
         1793970499686,
+        1,
+        0.4065
+      ],
+      [
+        1793970499921,
         1,
         0.4065
       ]
