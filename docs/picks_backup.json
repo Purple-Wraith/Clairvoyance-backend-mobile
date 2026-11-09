@@ -136456,10 +136456,10 @@
     "ml": "-148",
     "decOdds": 1.675,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139438197,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 5,
+    "aScore": 2,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: OVER 6.5 \u2014 OPTIMAL (63.7% win prob, EV +6.6% \u00b7 MARKET PRICE -148 (EV at market +6.6%) \u00b7 MARKET-BLENDED: model 74.3% \u00b7 no-vig market 57.2% \u2192 63.7% (alpha 0.65))\nMODEL: Projected 3.8\u20134.6 (total 8.4) (OT/SO in 14% of outcomes) \u2014 OVER hits 74.3% of outcomes vs the 6.5 line, from an exact Poisson distribution (not a simulation).\nWHY: Best market: OVER 6.5 graded OPTIMAL (63.7%, EV +6.6%). MC projects 8.3 goals vs the 6.5 line (74% over in sims). MC 61% / xGF 50% / hv +4.2pp / ST +3.5pp / SQ -0.8pp \u00b7 ML market blend (alpha 0.75): model 73.0% \u00b7 no-vig market 52.2% \u2192 57.8%; Puck line market blend (alpha 0.70): model 44.6% \u00b7 no-vig market 32.9% \u2192 36.3%; O/U market blend (alpha 0.65): model 74.3% \u00b7 no-vig market 57.2% \u2192 63.7%. Standard-unit play \u00b7 Also: ANA ML (LEAN).",
@@ -136469,7 +136469,8 @@
     "blendAlpha": 0.65,
     "startMs": 1794186000000,
     "leadMin": 776,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794197481297
   },
   {
     "id": "2026-11-08_ATL_CIN_NFL_CIN+3.5",
@@ -137120,10 +137121,10 @@
     "ml": "-299",
     "decOdds": 1.335,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139437754,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 4,
+    "aScore": 3,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: OVER 4.5 \u2014 ADJUSTED LINE (70.4% estimated win prob at this line)\nADJUSTED LINE: moved 1 goal from the posted OVER 5.5 to OVER 4.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 46.4%; the 1-goal cushion is priced from the historical margin curve for this market (about 70% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
@@ -137141,7 +137142,8 @@
     },
     "startMs": 1794182400000,
     "leadMin": 716,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794193276786
   },
   {
     "id": "2026-11-08_CHI_PHI_NBA_CHI+15.5",
@@ -137226,10 +137228,10 @@
     "ml": "-272",
     "decOdds": 1.368,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139420363,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 27,
+    "aScore": 24,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: CHI +0.5 \u2014 ADJUSTED LINE (68.6% estimated win prob at this line)\nADJUSTED LINE: moved 6.5 pts from the posted CHI -6.0 to CHI +0.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 50.9%; the 6.5-pt cushion is priced from the historical margin curve for this market (about 69% to cover).\nMODEL: Projected margin -6.3 (CHI), total 47.4, from an exact normal distribution (not a simulation).",
@@ -137248,7 +137250,8 @@
     "blendAlpha": 0.85,
     "startMs": 1794187200000,
     "leadMin": 796,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794199279576
   },
   {
     "id": "2026-11-08_CHI_TB_NFL_UNDER53.5",
@@ -137263,10 +137266,10 @@
     "ml": "-261",
     "decOdds": 1.384,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139420792,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 27,
+    "aScore": 24,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: UNDER 53.5 \u2014 ADJUSTED LINE (67.8% estimated win prob at this line)\nADJUSTED LINE: moved 6 pts from the posted UNDER 47.5 to UNDER 53.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 50.3%; the 6-pt cushion is priced from the historical margin curve for this market (about 68% to cover).\nMODEL: Projected margin -6.3 (CHI), total 47.4, from an exact normal distribution (not a simulation).",
@@ -137285,7 +137288,8 @@
     "blendAlpha": 0.95,
     "startMs": 1794187200000,
     "leadMin": 796,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794199279577
   },
   {
     "hA": "Celta Vigo",
@@ -137615,10 +137619,10 @@
     "ml": "-266",
     "decOdds": 1.376,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "loss",
     "lockedAt": 1794139427616,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 130,
+    "aScore": 93,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: BKN +15.5 \u2014 ADJUSTED LINE (68.2% estimated win prob at this line)\nADJUSTED LINE: moved 6 pts from the posted BKN +9.5 to BKN +15.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 54.9%; the 6-pt cushion is priced from the historical margin curve for this market (about 68% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
@@ -137636,7 +137640,8 @@
     },
     "startMs": 1794184200000,
     "leadMin": 746,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794195070629
   },
   {
     "id": "2026-11-08_DAL_BKN_NBA_DALML",
@@ -137651,16 +137656,17 @@
     "ml": "-423",
     "decOdds": 1.2364066193853427,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139427439,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 130,
+    "aScore": 93,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: DAL ML \u2014 SKIP (76.2% win prob, EV -5.8%)\nMODEL: Projected 107.6\u2013115.3 (total 222.9), from an exact normal distribution (not a simulation).",
     "startMs": 1794184200000,
     "leadMin": 746,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794195070630
   },
   {
     "id": "2026-11-08_DAL_BKN_NBA_OVER211.5",
@@ -137675,10 +137681,10 @@
     "ml": "-251",
     "decOdds": 1.399,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139428018,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 130,
+    "aScore": 93,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: OVER 211.5 \u2014 ADJUSTED LINE (67.0% estimated win prob at this line)\nADJUSTED LINE: moved 8 pts from the posted OVER 219.5 to OVER 211.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 57.4%; the 8-pt cushion is priced from the historical margin curve for this market (about 67% to cover).\nBEST ADJUSTED TOTAL OF THE GAME: the highest-probability adjusted total, either side, locked alongside the game's best adjusted line (a spread).",
@@ -137696,7 +137702,8 @@
     },
     "startMs": 1794184200000,
     "leadMin": 746,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794195070630
   },
   {
     "id": "2026-11-08_DET_LAL_NBA_DET+1.5",
@@ -137711,10 +137718,10 @@
     "ml": "-266",
     "decOdds": 1.376,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "loss",
     "lockedAt": 1794139426236,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 116,
+    "aScore": 121,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: DET +1.5 \u2014 ADJUSTED LINE (68.2% estimated win prob at this line)\nADJUSTED LINE: moved 6 pts from the posted DET -4.5 to DET +1.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 65.0%; the 6-pt cushion is priced from the historical margin curve for this market (about 68% to cover).\nMODEL: Projected 109.2\u2013118.5 (total 227.7), from an exact normal distribution (not a simulation).",
@@ -137730,7 +137737,8 @@
     },
     "startMs": 1794178800000,
     "leadMin": 656,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794189071644
   },
   {
     "id": "2026-11-08_DET_LAL_NBA_DETML",
@@ -137745,16 +137753,17 @@
     "ml": "-269",
     "decOdds": 1.3717472118959106,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "loss",
     "lockedAt": 1794162160963,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 116,
+    "aScore": 121,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: DET ML \u2014 PREMIUM (76.6% win prob, EV +5.0%)\nMODEL: Projected 109.2\u2013118.5 (total 227.7), from an exact normal distribution (not a simulation).",
     "startMs": 1794178800000,
     "leadMin": 277,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794189071645
   },
   {
     "id": "2026-11-08_DET_LAL_NBA_OVER214.5",
@@ -137769,10 +137778,10 @@
     "ml": "-251",
     "decOdds": 1.399,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139426419,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 116,
+    "aScore": 121,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: OVER 214.5 \u2014 ADJUSTED LINE (67.0% estimated win prob at this line)\nADJUSTED LINE: moved 8 pts from the posted OVER 222.5 to OVER 214.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 61.1%; the 8-pt cushion is priced from the historical margin curve for this market (about 67% to cover).\nMODEL: Projected 109.2\u2013118.5 (total 227.7), from an exact normal distribution (not a simulation).",
@@ -137788,7 +137797,8 @@
     },
     "startMs": 1794178800000,
     "leadMin": 656,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794189071645
   },
   {
     "id": "2026-11-08_Elche_Real Betis_LIGA_Elche+1.5",
@@ -138924,16 +138934,17 @@
     "ml": "-790",
     "decOdds": 1.1265822784810127,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139428396,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 97,
+    "aScore": 117,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: BOS ML \u2014 SKIP (79.3% win prob, EV -10.7%)\nMODEL: Projected 118.1\u2013107.2 (total 225.3), from an exact normal distribution (not a simulation).",
     "startMs": 1794186000000,
     "leadMin": 776,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794195070630
   },
   {
     "id": "2026-11-08_MIL_BOS_NBA_MIL+18.5",
@@ -138948,10 +138959,10 @@
     "ml": "-266",
     "decOdds": 1.376,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "loss",
     "lockedAt": 1794139428633,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 97,
+    "aScore": 117,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: MIL +18.5 \u2014 ADJUSTED LINE (68.2% estimated win prob at this line)\nADJUSTED LINE: moved 6 pts from the posted MIL +12.5 to MIL +18.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 54.3%; the 6-pt cushion is priced from the historical margin curve for this market (about 68% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
@@ -138969,7 +138980,8 @@
     },
     "startMs": 1794186000000,
     "leadMin": 776,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794195070630
   },
   {
     "id": "2026-11-08_MIL_BOS_NBA_OVER213.5",
@@ -138984,10 +138996,10 @@
     "ml": "-251",
     "decOdds": 1.399,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139429042,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 97,
+    "aScore": 117,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: OVER 213.5 \u2014 ADJUSTED LINE (67.0% estimated win prob at this line)\nADJUSTED LINE: moved 8 pts from the posted OVER 221.5 to OVER 213.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 58.1%; the 8-pt cushion is priced from the historical margin curve for this market (about 67% to cover).\nBEST ADJUSTED TOTAL OF THE GAME: the highest-probability adjusted total, either side, locked alongside the game's best adjusted line (a spread).",
@@ -139005,7 +139017,8 @@
     },
     "startMs": 1794186000000,
     "leadMin": 776,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794195070630
   },
   {
     "id": "2026-11-08_MIN_UTAH_NBA_MIN-5.5",
@@ -139020,10 +139033,10 @@
     "ml": "-266",
     "decOdds": 1.376,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139427021,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 115,
+    "aScore": 100,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: MIN -5.5 \u2014 ADJUSTED LINE (68.2% estimated win prob at this line)\nADJUSTED LINE: moved 6 pts from the posted MIN -11.5 to MIN -5.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 60.0%; the 6-pt cushion is priced from the historical margin curve for this market (about 68% to cover).\nMODEL: Projected 112.0\u2013126.7 (total 238.7), from an exact normal distribution (not a simulation).",
@@ -139039,7 +139052,8 @@
     },
     "startMs": 1794182400000,
     "leadMin": 716,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794193276492
   },
   {
     "id": "2026-11-08_MIN_UTAH_NBA_MINML",
@@ -139054,16 +139068,17 @@
     "ml": "-650",
     "decOdds": 1.1538461538461537,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794162161404,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 115,
+    "aScore": 100,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: MIN ML \u2014 SKIP (79.8% win prob, EV -7.9%)\nMODEL: Projected 112.0\u2013126.7 (total 238.7), from an exact normal distribution (not a simulation).",
     "startMs": 1794182400000,
     "leadMin": 337,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794193276493
   },
   {
     "id": "2026-11-08_MIN_UTAH_NBA_OVER215.5",
@@ -139078,10 +139093,10 @@
     "ml": "-251",
     "decOdds": 1.399,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "loss",
     "lockedAt": 1794139426828,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 115,
+    "aScore": 100,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: OVER 215.5 \u2014 ADJUSTED LINE (67.0% estimated win prob at this line)\nADJUSTED LINE: moved 8 pts from the posted OVER 223.5 to OVER 215.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 79.4%; the 8-pt cushion is priced from the historical margin curve for this market (about 67% to cover).\nMODEL: Projected 112.0\u2013126.7 (total 238.7), from an exact normal distribution (not a simulation).",
@@ -139097,7 +139112,8 @@
     },
     "startMs": 1794182400000,
     "leadMin": 716,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794193276493
   },
   {
     "id": "2026-11-08_Manchester United_Aston Villa_PL_SOC_AstonVilla+1.5",
@@ -140384,10 +140400,10 @@
     "ml": "-306",
     "decOdds": 1.327,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139437543,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 0,
+    "aScore": 4,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: UNDER 7.5 \u2014 ADJUSTED LINE (70.8% estimated win prob at this line)\nADJUSTED LINE: moved 1 goal from the posted UNDER 6.5 to UNDER 7.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 47.1%; the 1-goal cushion is priced from the historical margin curve for this market (about 71% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
@@ -140405,7 +140421,8 @@
     },
     "startMs": 1794182400000,
     "leadMin": 716,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794193276785
   },
   {
     "hA": "Villarreal",
@@ -140613,10 +140630,10 @@
     "ml": "-189",
     "decOdds": 1.529,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794139437116,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 4,
+    "aScore": 3,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: OVER 5.5 \u2014 ADJUSTED LINE (60.9% estimated win prob at this line)\nADJUSTED LINE: moved 1 goal from the posted OVER 6.5 to OVER 5.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 51.4%; the 1-goal cushion is priced from the historical margin curve for this market (about 61% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
@@ -140634,7 +140651,8 @@
     },
     "startMs": 1794178800000,
     "leadMin": 656,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794189071868
   },
   {
     "id": "2026-11-08_WSH_LAR_NFL_LARML",
@@ -151908,7 +151926,7 @@
     "conf": 0.68,
     "ml": "-246",
     "lockedAt": 1794139431539,
-    "outcome": "pending",
+    "outcome": "win",
     "date": "2026-11-08",
     "sport": "NBA",
     "league": "NBA",
@@ -151946,7 +151964,10 @@
         "AST": 2.8
       }
     },
-    "reasoning": "PICK: Ayo Dosunmu OVER PTS 14.5 \u2014 OPTIMAL (64% model hit rate)\nMODEL: projection 16.56 PTS (season average 14.8, last-5 form 17.8, opponent adjustment +1.8) vs the 14.5 line, spread \u03c3 5.81, from an exact normal distribution (not a simulation).\nWHY: Ayo Dosunmu averages 14.8 ppg across 69 games this season. Opp UTAH DRtg 122.0 vs a 115.7 league average computed from every currently-loaded team, a 5% boost folded into the projection. Game pace 101.7 (+1.0%), MIN offense 116.8 vs a 115.7 league average. No head-to-head history vs UTAH this season or historically is factored in yet \u2014 likelihood is directional (modeled variance assumption), not a market-calibrated probability.\nPRICE: the line is the player's own season average rounded to a half point (about where a book would post it) and the price is derived from the model's probability -- no sportsbook prop line or price is captured, so no edge or EV is claimed."
+    "reasoning": "PICK: Ayo Dosunmu OVER PTS 14.5 \u2014 OPTIMAL (64% model hit rate)\nMODEL: projection 16.56 PTS (season average 14.8, last-5 form 17.8, opponent adjustment +1.8) vs the 14.5 line, spread \u03c3 5.81, from an exact normal distribution (not a simulation).\nWHY: Ayo Dosunmu averages 14.8 ppg across 69 games this season. Opp UTAH DRtg 122.0 vs a 115.7 league average computed from every currently-loaded team, a 5% boost folded into the projection. Game pace 101.7 (+1.0%), MIN offense 116.8 vs a 115.7 league average. No head-to-head history vs UTAH this season or historically is factored in yet \u2014 likelihood is directional (modeled variance assumption), not a market-calibrated probability.\nPRICE: the line is the player's own season average rounded to a half point (about where a book would post it) and the price is derived from the model's probability -- no sportsbook prop line or price is captured, so no edge or EV is claimed.",
+    "settledAt": 1794193277925,
+    "playerResult": 26,
+    "playerMin": 30
   },
   {
     "id": "prop_2026-11-08_NBA_JadenMcDaniels_PTS_9.5_O",
@@ -151957,7 +151978,7 @@
     "conf": 0.68,
     "ml": "-246",
     "lockedAt": 1794139431734,
-    "outcome": "pending",
+    "outcome": "win",
     "date": "2026-11-08",
     "sport": "NBA",
     "league": "NBA",
@@ -151995,7 +152016,10 @@
         "AST": 2
       }
     },
-    "reasoning": "PICK: Jaden McDaniels OVER PTS 14.5 \u2014 OPTIMAL (63% model hit rate)\nMODEL: projection 16.83 PTS (season average 14.8, last-5 form 18.8, opponent adjustment +2) vs the 14.5 line, spread \u03c3 6.85, from an exact normal distribution (not a simulation).\nWHY: Jaden McDaniels averages 14.8 ppg across 73 games this season. Opp UTAH DRtg 122.0 vs a 115.7 league average computed from every currently-loaded team, a 5% boost folded into the projection. Game pace 101.7 (+1.0%), MIN offense 116.8 vs a 115.7 league average. No head-to-head history vs UTAH this season or historically is factored in yet \u2014 likelihood is directional (modeled variance assumption), not a market-calibrated probability.\nPRICE: the line is the player's own season average rounded to a half point (about where a book would post it) and the price is derived from the model's probability -- no sportsbook prop line or price is captured, so no edge or EV is claimed."
+    "reasoning": "PICK: Jaden McDaniels OVER PTS 14.5 \u2014 OPTIMAL (63% model hit rate)\nMODEL: projection 16.83 PTS (season average 14.8, last-5 form 18.8, opponent adjustment +2) vs the 14.5 line, spread \u03c3 6.85, from an exact normal distribution (not a simulation).\nWHY: Jaden McDaniels averages 14.8 ppg across 73 games this season. Opp UTAH DRtg 122.0 vs a 115.7 league average computed from every currently-loaded team, a 5% boost folded into the projection. Game pace 101.7 (+1.0%), MIN offense 116.8 vs a 115.7 league average. No head-to-head history vs UTAH this season or historically is factored in yet \u2014 likelihood is directional (modeled variance assumption), not a market-calibrated probability.\nPRICE: the line is the player's own season average rounded to a half point (about where a book would post it) and the price is derived from the model's probability -- no sportsbook prop line or price is captured, so no edge or EV is claimed.",
+    "settledAt": 1794193277925,
+    "playerResult": 16,
+    "playerMin": 33
   },
   {
     "id": "prop_2026-11-08_NBA_LaMeloBall_PTS_19.5_O",
@@ -152006,7 +152030,7 @@
     "conf": 0.68,
     "ml": "-213",
     "lockedAt": 1794139431255,
-    "outcome": "pending",
+    "outcome": "win",
     "date": "2026-11-08",
     "sport": "NBA",
     "league": "NBA",
@@ -152033,7 +152057,10 @@
         "AST": 7
       }
     },
-    "reasoning": "PICK: LaMelo Ball OVER PTS 19.5 \u2014 PREMIUM (68% model hit rate)\nMODEL: projection 23.25 PTS (season average 20.1, last-5 form 27, opponent adjustment +3.1) vs the 19.5 line, spread \u03c3 7.13, from an exact normal distribution (not a simulation).\nWHY: LaMelo Ball averages 20.1 ppg across 72 games this season. Opp UTAH DRtg 122.0 vs a 115.7 league average computed from every currently-loaded team, a 5% boost folded into the projection. Game pace 101.7 (+1.0%), MIN offense 116.8 vs a 115.7 league average. No head-to-head history vs UTAH this season or historically is factored in yet \u2014 likelihood is directional (modeled variance assumption), not a market-calibrated probability.\nPRICE: the line is the player's own season average rounded to a half point (about where a book would post it) and the price is derived from the model's probability -- no sportsbook prop line or price is captured, so no edge or EV is claimed."
+    "reasoning": "PICK: LaMelo Ball OVER PTS 19.5 \u2014 PREMIUM (68% model hit rate)\nMODEL: projection 23.25 PTS (season average 20.1, last-5 form 27, opponent adjustment +3.1) vs the 19.5 line, spread \u03c3 7.13, from an exact normal distribution (not a simulation).\nWHY: LaMelo Ball averages 20.1 ppg across 72 games this season. Opp UTAH DRtg 122.0 vs a 115.7 league average computed from every currently-loaded team, a 5% boost folded into the projection. Game pace 101.7 (+1.0%), MIN offense 116.8 vs a 115.7 league average. No head-to-head history vs UTAH this season or historically is factored in yet \u2014 likelihood is directional (modeled variance assumption), not a market-calibrated probability.\nPRICE: the line is the player's own season average rounded to a half point (about where a book would post it) and the price is derived from the model's probability -- no sportsbook prop line or price is captured, so no edge or EV is claimed.",
+    "settledAt": 1794193277925,
+    "playerResult": 24,
+    "playerMin": 30
   },
   {
     "id": "prop_2026-11-08_NBA_LeBronJames_AST_6.5_O",
