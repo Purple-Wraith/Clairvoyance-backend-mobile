@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10 08:38 UTC",
+  "generated_at": "2026-11-10 17:17 UTC",
   "season": "2026-2027",
   "teams": {
     "hdqQJQgc": {
@@ -10891,7 +10891,7 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": 5.5,
+      "ou": null,
       "odds": {
         "ml": {
           "home": 1.66,
@@ -10923,7 +10923,7 @@
         "bk": [
           "Fanatics"
         ],
-        "at": "2026-11-10T08:38:40Z"
+        "at": "2026-11-10T16:23:51Z"
       }
     },
     {
@@ -10936,7 +10936,7 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": 4.5,
+      "ou": null,
       "odds": {
         "ml": {
           "home": 1.44,
@@ -10968,7 +10968,7 @@
         "bk": [
           "Fanatics"
         ],
-        "at": "2026-11-10T08:38:51Z"
+        "at": "2026-11-10T16:23:57Z"
       }
     },
     {
@@ -10981,7 +10981,7 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": 4.5,
+      "ou": null,
       "odds": {
         "ml": {
           "home": 1.83,
@@ -11013,7 +11013,7 @@
         "bk": [
           "Fanatics"
         ],
-        "at": "2026-11-10T08:39:06Z"
+        "at": "2026-11-10T16:24:05Z"
       }
     },
     {
@@ -11026,7 +11026,7 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": 5.5,
+      "ou": null,
       "odds": {
         "ml": {
           "home": 1.58,
@@ -11058,7 +11058,7 @@
         "bk": [
           "Fanatics"
         ],
-        "at": "2026-11-10T08:39:16Z"
+        "at": "2026-11-10T16:24:11Z"
       }
     },
     {
@@ -11071,7 +11071,7 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": 5.5,
+      "ou": null,
       "odds": {
         "ml": {
           "home": 1.38,
@@ -11103,7 +11103,7 @@
         "bk": [
           "Fanatics"
         ],
-        "at": "2026-11-10T08:39:27Z"
+        "at": "2026-11-10T16:24:17Z"
       }
     },
     {
@@ -11116,7 +11116,7 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": 4.5,
+      "ou": null,
       "odds": {
         "ml": {
           "home": 1.55,
@@ -11156,7 +11156,7 @@
         "bk": [
           "Fanatics"
         ],
-        "at": "2026-11-10T08:39:39Z"
+        "at": "2026-11-10T16:24:24Z"
       }
     },
     {
