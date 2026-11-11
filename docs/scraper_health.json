@@ -240,18 +240,6 @@
     "results": 81
   },
   {
-    "league": "NLA",
-    "ts": "2026-11-01T00:04:42Z",
-    "fixtures": 112,
-    "results": 108
-  },
-  {
-    "league": "EXTRALIGA",
-    "ts": "2026-11-01T00:07:01Z",
-    "fixtures": 114,
-    "results": 109
-  },
-  {
     "league": "LIIGA",
     "ts": "2026-11-01T08:12:38Z",
     "fixtures": 107,
@@ -1798,5 +1786,17 @@
     "ts": "2026-11-11T08:18:24Z",
     "fixtures": 110,
     "results": 100
+  },
+  {
+    "league": "NLA",
+    "ts": "2026-11-11T08:21:45Z",
+    "fixtures": 112,
+    "results": 108
+  },
+  {
+    "league": "EXTRALIGA",
+    "ts": "2026-11-11T08:24:03Z",
+    "fixtures": 114,
+    "results": 110
   }
 ]
