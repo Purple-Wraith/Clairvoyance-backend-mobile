@@ -1,9 +1,9 @@
 {
   "lastSettle": {
-    "tsUTC": "2026-11-14T20:48:16Z",
-    "tsMT": "2026-11-14 01:48 PM MT",
+    "tsUTC": "2026-11-14T22:01:26Z",
+    "tsMT": "2026-11-14 03:01 PM MT",
     "ok": true,
-    "detail": "settle check ran -- nothing pending to settle"
+    "detail": "0 bet(s) settled"
   },
   "lastLock": {
     "tsUTC": "2026-11-14T18:46:29Z",
