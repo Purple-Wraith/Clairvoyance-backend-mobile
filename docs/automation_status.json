@@ -1,9 +1,9 @@
 {
   "lastSettle": {
-    "tsUTC": "2026-11-15T22:11:34Z",
-    "tsMT": "2026-11-15 03:11 PM MT",
+    "tsUTC": "2026-11-16T00:01:52Z",
+    "tsMT": "2026-11-15 05:01 PM MT",
     "ok": true,
-    "detail": "0 bet(s) settled"
+    "detail": "8 bet(s) settled"
   },
   "lastLock": {
     "tsUTC": "2026-11-15T19:25:09Z",
@@ -1564,9 +1564,9 @@
     "e140c676d8e5": "2026-11-15T22:55:30Z"
   },
   "lastWatchdog": {
-    "tsUTC": "2026-11-15T22:55:30Z",
-    "tsMT": "2026-11-15 03:55 PM MT",
+    "tsUTC": "2026-11-15T23:31:45Z",
+    "tsMT": "2026-11-15 04:31 PM MT",
     "ok": true,
-    "detail": "1 unlocked qualifying leg(s) reported to the owner"
+    "detail": "auto-locked 1 leg(s)"
   }
 }
