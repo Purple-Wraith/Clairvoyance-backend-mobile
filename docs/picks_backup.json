@@ -157002,10 +157002,10 @@
     "ml": "-266",
     "decOdds": 1.376,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "loss",
     "lockedAt": 1794926713698,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 107,
+    "aScore": 132,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: LAC -0.5 \u2014 ADJUSTED LINE (68.2% estimated win prob at this line)\nADJUSTED LINE: moved 6 pts from the posted LAC -6.5 to LAC -0.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 67.8%; the 6-pt cushion is priced from the historical margin curve for this market (about 68% to cover).\nMODEL: Projected 111.4\u2013123.7 (total 235.1), from an exact normal distribution (not a simulation).",
@@ -157021,7 +157021,8 @@
     },
     "startMs": 1794972600000,
     "leadMin": 765,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794982945024
   },
   {
     "id": "2026-11-17_LAC_UTAH_NBA_OVER217.5",
@@ -157036,10 +157037,10 @@
     "ml": "-251",
     "decOdds": 1.399,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794926713299,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 107,
+    "aScore": 132,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: OVER 217.5 \u2014 ADJUSTED LINE (67.0% estimated win prob at this line)\nADJUSTED LINE: moved 8 pts from the posted OVER 225.5 to OVER 217.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 69.8%; the 8-pt cushion is priced from the historical margin curve for this market (about 67% to cover).\nMODEL: Projected 111.4\u2013123.7 (total 235.1), from an exact normal distribution (not a simulation).",
@@ -157055,7 +157056,8 @@
     },
     "startMs": 1794972600000,
     "leadMin": 765,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794982945025
   },
   {
     "id": "2026-11-17_LAL_CHA_NBA_CHA+13.5",
@@ -157138,10 +157140,10 @@
     "ml": "-200",
     "decOdds": 1.5,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794926723548,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 7,
+    "aScore": 3,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: MIN ML \u2014 HIGH PROB (68.4% win prob, EV +2.7% \u00b7 MARKET PRICE -200 (EV at market +2.7%) \u00b7 MARKET-BLENDED: model 80.0% \u00b7 no-vig market 63.9% \u2192 68.4% (alpha 0.75))\nMODEL: Projected 2.2\u20133.3 (total 5.6) (OT/SO in 16% of outcomes), from an exact Poisson distribution (not a simulation).\nWHY: Best market: MIN ML graded HIGH PROB (68.4%, EV +2.7%). GSAx: +18.0 vs +9.4 (injury adj: MIN: Olli Maatta D OUT -> scoring -0.9% | NSH: Jonathan Marchessault RW DAY-TO-DAY -> scoring -0.3%) favors MIN. MC 69% / xGF 50% / hv +6.6pp / ST -5.7pp / SQ -0.1pp \u00b7 ML market blend (alpha 0.75): model 80.0% \u00b7 no-vig market 63.9% \u2192 68.4%; Puck line market blend (alpha 0.70): model 48.0% \u00b7 no-vig market 43.8% \u2192 45.0%; O/U market blend (alpha 0.65): model 33.4% \u00b7 no-vig market 45.0% \u2192 40.8%. Half-unit play \u00b7 Also: UNDER 6.5 (HIGH PROB).",
@@ -157151,7 +157153,8 @@
     "blendAlpha": 0.75,
     "startMs": 1794963600000,
     "leadMin": 615,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794974003342
   },
   {
     "id": "2026-11-17_MIN_NSH_NHL_UNDER6.5",
@@ -157166,10 +157169,10 @@
     "ml": "-135",
     "decOdds": 1.74,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "loss",
     "lockedAt": 1794926723241,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 7,
+    "aScore": 3,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: UNDER 6.5 \u2014 HIGH PROB (59.2% win prob, EV +3.1% \u00b7 MARKET PRICE -135 (EV at market +3.1%) \u00b7 MARKET-BLENDED: model 66.6% \u00b7 no-vig market 55.0% \u2192 59.2% (alpha 0.65))\nMODEL: Projected 2.2\u20133.3 (total 5.6) (OT/SO in 16% of outcomes) \u2014 UNDER hits 66.6% of outcomes vs the 6.5 line, from an exact Poisson distribution (not a simulation).",
@@ -157179,7 +157182,8 @@
     "blendAlpha": 0.65,
     "startMs": 1794963600000,
     "leadMin": 615,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794974003343
   },
   {
     "id": "2026-11-17_MIN_POR_NBA_MIN+4.5",
@@ -157194,10 +157198,10 @@
     "ml": "-266",
     "decOdds": 1.376,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794926712132,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 106,
+    "aScore": 105,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: MIN +4.5 \u2014 ADJUSTED LINE (68.2% estimated win prob at this line)\nADJUSTED LINE: moved 6 pts from the posted MIN -1.5 to MIN +4.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 65.8%; the 6-pt cushion is priced from the historical margin curve for this market (about 68% to cover).\nMODEL: Projected 110.3\u2013116.9 (total 227.1), from an exact normal distribution (not a simulation).",
@@ -157213,7 +157217,8 @@
     },
     "startMs": 1794963600000,
     "leadMin": 615,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794974003118
   },
   {
     "id": "2026-11-17_MIN_POR_NBA_UNDER236.5",
@@ -157228,10 +157233,10 @@
     "ml": "-251",
     "decOdds": 1.399,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794926712508,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 106,
+    "aScore": 105,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: UNDER 236.5 \u2014 ADJUSTED LINE (67.0% estimated win prob at this line)\nADJUSTED LINE: moved 8 pts from the posted UNDER 228.5 to UNDER 236.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 53.0%; the 8-pt cushion is priced from the historical margin curve for this market (about 67% to cover).\nBEST ADJUSTED TOTAL OF THE GAME: the highest-probability adjusted total, either side, locked alongside the game's best adjusted line (a spread).",
@@ -157249,7 +157254,8 @@
     },
     "startMs": 1794963600000,
     "leadMin": 615,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794974003118
   },
   {
     "id": "2026-11-17_NYI_CBJ_NHL_NYIML",
@@ -157388,10 +157394,10 @@
     "ml": "-266",
     "decOdds": 1.376,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794926712713,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 93,
+    "aScore": 105,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: DET +15.5 \u2014 ADJUSTED LINE (68.2% estimated win prob at this line)\nADJUSTED LINE: moved 6 pts from the posted DET +9.5 to DET +15.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 68.9%; the 6-pt cushion is priced from the historical margin curve for this market (about 68% to cover).\nMODEL: Projected 110.6\u2013113.5 (total 224.0), from an exact normal distribution (not a simulation).",
@@ -157407,7 +157413,8 @@
     },
     "startMs": 1794963600000,
     "leadMin": 615,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794974003122
   },
   {
     "id": "2026-11-17_SA_DET_NBA_OVER214.5",
@@ -157422,10 +157429,10 @@
     "ml": "-251",
     "decOdds": 1.399,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "loss",
     "lockedAt": 1794926713098,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 93,
+    "aScore": 105,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: OVER 214.5 \u2014 ADJUSTED LINE (67.0% estimated win prob at this line)\nADJUSTED LINE: moved 8 pts from the posted OVER 222.5 to OVER 214.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 53.3%; the 8-pt cushion is priced from the historical margin curve for this market (about 67% to cover).\nBEST ADJUSTED TOTAL OF THE GAME: the highest-probability adjusted total, either side, locked alongside the game's best adjusted line (a spread).",
@@ -157443,7 +157450,8 @@
     },
     "startMs": 1794963600000,
     "leadMin": 615,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794974003122
   },
   {
     "id": "2026-11-17_SJS_CGY_NHL_CGY+1.5",
@@ -157458,10 +157466,10 @@
     "ml": "-244",
     "decOdds": 1.41,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794926724372,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 2,
+    "aScore": 5,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: CGY +1.5 \u2014 HIGH PROB (66.4% win prob, EV -6.4% \u00b7 MARKET PRICE -244 (EV at market -6.4%) \u00b7 MARKET-BLENDED: model 63.3% \u00b7 no-vig market 67.7% \u2192 66.4% (alpha 0.70))\nMODEL: Projected 2.5\u20133.0 (total 5.6) (OT/SO in 17% of outcomes) \u2014 underdog covers +1.5 in 63.3% of outcomes (incl. late-game empty-net margin calibration), from an exact Poisson distribution (not a simulation).\nWHY: Best market: CGY +1.5 graded HIGH PROB (66.4%, EV -6.4%). Dog covers +1.5 in 66.4% of sims (proj 3.0\u20132.5). GSAx: +3.6 vs -5.8 (injury adj: SJS: Alexander Wennberg C DAY-TO-DAY, Kiefer Sherwood LW DAY-TO-DAY, Igor Chernyshov LW OUT -> scoring -2.5% | CGY: Jonathan Huberdeau LW OUT, Connor Zary C OUT -> scoring -1.7%) keeps this within a goal. MC 58% / xGF 50% / hv +1.5pp / ST -7.8pp / SQ +0.9pp \u00b7 ML market blend (alpha 0.75): model 73.2% \u00b7 no-vig market 53.7% \u2192 58.9%; Puck line market blend (alpha 0.70): model 36.7% \u00b7 no-vig market 32.3% \u2192 33.6%; O/U market blend (alpha 0.65): model 47.9% \u00b7 no-vig market 56.3% \u2192 53.4%. Half-unit play \u00b7 Also: SJS ML (LEAN).",
@@ -157471,7 +157479,8 @@
     "blendAlpha": 0.7,
     "startMs": 1794970800000,
     "leadMin": 735,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794981321667
   },
   {
     "id": "2026-11-17_SJS_CGY_NHL_OVER4.5",
@@ -157486,10 +157495,10 @@
     "ml": "-364",
     "decOdds": 1.275,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794926724672,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 2,
+    "aScore": 5,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: OVER 4.5 \u2014 ADJUSTED LINE (73.9% estimated win prob at this line)\nADJUSTED LINE: moved 1 goal from the posted OVER 5.5 to OVER 4.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 53.4%; the 1-goal cushion is priced from the historical margin curve for this market (about 74% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
@@ -157507,7 +157516,8 @@
     },
     "startMs": 1794970800000,
     "leadMin": 735,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794981321667
   },
   {
     "id": "2026-11-17_STL_ANA_NHL_ANA+1.5",
@@ -157522,10 +157532,10 @@
     "ml": "-204",
     "decOdds": 1.49,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "loss",
     "lockedAt": 1794926722694,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 8,
+    "aScore": 6,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: ANA +1.5 \u2014 HIGH PROB (65.8% win prob, EV -1.9% \u00b7 MARKET PRICE -204 (EV at market -1.9%) \u00b7 MARKET-BLENDED: model 69.9% \u00b7 no-vig market 64.0% \u2192 65.8% (alpha 0.70))\nMODEL: Projected 3.7\u20133.5 (total 7.3) (OT/SO in 15% of outcomes) \u2014 underdog covers +1.5 in 69.9% of outcomes (incl. late-game empty-net margin calibration), from an exact Poisson distribution (not a simulation).\nWHY: Best market: ANA +1.5 graded HIGH PROB (65.8%, EV -1.9%). Dog covers +1.5 in 65.8% of sims (proj 3.5\u20133.7). GSAx: +8.2 vs -5.1 (injury adj: ANA: Ryan Poehling C OUT, A.J. Greer LW OUT -> scoring -2%) keeps this within a goal. MC 48% / xGF 50% / hv +1.1pp / ST -2.0pp / SQ +0.9pp \u00b7 ML market blend (alpha 0.75): model 72.9% \u00b7 no-vig market 56.6% \u2192 61.0%; Puck line market blend (alpha 0.70): model 30.1% \u00b7 no-vig market 36.0% \u2192 34.2%; O/U market blend (alpha 0.65): model 60.9% \u00b7 no-vig market 48.2% \u2192 52.7%. Half-unit play \u00b7 Also: STL ML (LEAN).",
@@ -157535,7 +157545,8 @@
     "blendAlpha": 0.7,
     "startMs": 1794963600000,
     "leadMin": 615,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794974003341
   },
   {
     "id": "2026-11-17_STL_ANA_NHL_UNDER7.5",
@@ -157550,10 +157561,10 @@
     "ml": "-308",
     "decOdds": 1.325,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "loss",
     "lockedAt": 1794926722915,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 8,
+    "aScore": 6,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: UNDER 7.5 \u2014 ADJUSTED LINE (71.0% estimated win prob at this line)\nADJUSTED LINE: moved 1 goal from the posted UNDER 6.5 to UNDER 7.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 47.3%; the 1-goal cushion is priced from the historical margin curve for this market (about 71% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
@@ -157571,7 +157582,8 @@
     },
     "startMs": 1794963600000,
     "leadMin": 615,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794974003342
   },
   {
     "id": "2026-11-17_TBL_WSH_NHL_OVER6.5",
@@ -157741,10 +157753,10 @@
     "ml": "-227",
     "decOdds": 1.44,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "win",
     "lockedAt": 1794926723728,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 3,
+    "aScore": 4,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: DAL +1.5 \u2014 HIGH PROB (66.0% win prob, EV -5.0% \u00b7 MARKET PRICE -227 (EV at market -5.0%) \u00b7 MARKET-BLENDED: model 65.5% \u00b7 no-vig market 66.2% \u2192 66.0% (alpha 0.70))\nMODEL: Projected 2.5\u20132.8 (total 5.4) (OT/SO in 18% of outcomes) \u2014 underdog covers +1.5 in 65.5% of outcomes (incl. late-game empty-net margin calibration), from an exact Poisson distribution (not a simulation).\nWHY: Best market: DAL +1.5 graded HIGH PROB (66.0%, EV -5.0%). Dog covers +1.5 in 66.0% of sims (proj 2.8\u20132.5). GSAx: -1.1 vs +7.7 (injury adj: VGK: Noah Hanifin D OUT -> scoring -1% | DAL: Miro Heiskanen D DAY-TO-DAY -> scoring -1.2%) keeps this within a goal. MC 56% / xGF 50% / hv -2.2pp / ST -3.7pp / SQ -1.3pp \u00b7 ML market blend (alpha 0.75): model 71.7% \u00b7 no-vig market 55.3% \u2192 59.7%; Puck line market blend (alpha 0.70): model 34.5% \u00b7 no-vig market 33.8% \u2192 34.0%; O/U market blend (alpha 0.65): model 43.6% \u00b7 no-vig market 52.5% \u2192 49.4%. Half-unit play \u00b7 Also: VGK ML (LEAN).",
@@ -157754,7 +157766,8 @@
     "blendAlpha": 0.7,
     "startMs": 1794970800000,
     "leadMin": 735,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794981321666
   },
   {
     "id": "2026-11-17_VGK_DAL_NHL_UNDER6.5",
@@ -157769,10 +157782,10 @@
     "ml": "-201",
     "decOdds": 1.498,
     "wager": 0,
-    "outcome": "pending",
+    "outcome": "loss",
     "lockedAt": 1794926724097,
-    "hScore": null,
-    "aScore": null,
+    "hScore": 3,
+    "aScore": 4,
     "source": "manual",
     "lockOrigin": "auto",
     "reasoning": "PICK: UNDER 6.5 \u2014 ADJUSTED LINE (62.3% estimated win prob at this line)\nADJUSTED LINE: moved 1 goal from the posted UNDER 5.5 to UNDER 6.5 for a safer cover. The price is an estimate (fair price + vig), not a bookmaker quote, so no edge or EV is claimed.\nWHY: at the posted line the model rated this side 50.6%; the 1-goal cushion is priced from the historical margin curve for this market (about 62% to cover).\nBEST ADJUSTED LINE OF THE GAME: the highest-probability adjusted option among the total and spread, either side (the option marked with the magenta border on the card).",
@@ -157790,7 +157803,8 @@
     },
     "startMs": 1794970800000,
     "leadMin": 735,
-    "lockTiming": "pre"
+    "lockTiming": "pre",
+    "settledAt": 1794981321667
   },
   {
     "id": "2026-11-17_WPG_OTT_NHL_OVER4.5",
@@ -170489,7 +170503,7 @@
     "conf": 0.68,
     "ml": "-246",
     "lockedAt": 1794926714754,
-    "outcome": "pending",
+    "outcome": "win",
     "date": "2026-11-17",
     "sport": "NBA",
     "league": "NBA",
@@ -170527,7 +170541,10 @@
         "AST": 8
       }
     },
-    "reasoning": "PICK: Cade Cunningham UNDER PTS 23.5 \u2014 OPTIMAL (62% model hit rate)\nMODEL: projection 20.83 PTS (season average 23.9, last-5 form 14.6, opponent adjustment -3.1) vs the 23.5 line, spread \u03c3 8.75, from an exact normal distribution (not a simulation).\nWHY: Cade Cunningham averages 23.9 ppg across 64 games this season. Opp SA DRtg 111.3 vs a 115.7 league average computed from every currently-loaded team, a -4% reduction folded into the projection. Game pace 99.5 (+0.3%), DET offense 118.1 vs a 115.7 league average. No head-to-head history vs SA this season or historically is factored in yet \u2014 likelihood is directional (modeled variance assumption), not a market-calibrated probability.\nPRICE: the line is the player's own season average rounded to a half point (about where a book would post it) and the price is derived from the model's probability -- no sportsbook prop line or price is captured, so no edge or EV is claimed."
+    "reasoning": "PICK: Cade Cunningham UNDER PTS 23.5 \u2014 OPTIMAL (62% model hit rate)\nMODEL: projection 20.83 PTS (season average 23.9, last-5 form 14.6, opponent adjustment -3.1) vs the 23.5 line, spread \u03c3 8.75, from an exact normal distribution (not a simulation).\nWHY: Cade Cunningham averages 23.9 ppg across 64 games this season. Opp SA DRtg 111.3 vs a 115.7 league average computed from every currently-loaded team, a -4% reduction folded into the projection. Game pace 99.5 (+0.3%), DET offense 118.1 vs a 115.7 league average. No head-to-head history vs SA this season or historically is factored in yet \u2014 likelihood is directional (modeled variance assumption), not a market-calibrated probability.\nPRICE: the line is the player's own season average rounded to a half point (about where a book would post it) and the price is derived from the model's probability -- no sportsbook prop line or price is captured, so no edge or EV is claimed.",
+    "settledAt": 1794974003879,
+    "playerResult": 27,
+    "playerMin": 38
   },
   {
     "id": "prop_2026-11-17_NBA_ImmanuelQuickley_PTS_21.5_U",
