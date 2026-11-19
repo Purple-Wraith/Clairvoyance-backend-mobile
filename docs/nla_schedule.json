@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19 11:21 UTC",
+  "generated_at": "2026-11-19 13:43 UTC",
   "season": "2026-2027",
   "teams": {
     "vmRgFvP6": {
@@ -10205,13 +10205,13 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": null,
+      "ou": 5.5,
       "odds": {
         "ml": {
-          "home": 2.64,
+          "home": 2.75,
           "away": 1.43,
           "homeBest": 2.85,
-          "awayBest": 1.5,
+          "awayBest": 1.48,
           "books": 5
         },
         "ou": [
@@ -10227,7 +10227,7 @@
             "line": 3.5,
             "over": 1.14,
             "under": 5.0,
-            "overBest": 1.17,
+            "overBest": 1.15,
             "underBest": 5.0,
             "books": 3
           },
@@ -10235,15 +10235,15 @@
             "line": 4.5,
             "over": 1.26,
             "under": 3.5,
-            "overBest": 1.32,
+            "overBest": 1.31,
             "underBest": 3.6,
             "books": 3
           },
           {
             "line": 5.5,
             "over": 1.805,
-            "under": 1.93,
-            "overBest": 1.95,
+            "under": 1.95,
+            "overBest": 1.9,
             "underBest": 2.0,
             "books": 4
           },
@@ -10251,7 +10251,7 @@
             "line": 6.5,
             "over": 2.15,
             "under": 1.65,
-            "overBest": 2.5,
+            "overBest": 2.4,
             "underBest": 1.65,
             "books": 3
           },
@@ -10259,14 +10259,14 @@
             "line": 7.5,
             "over": 3.5,
             "under": 1.26,
-            "overBest": 4.4,
+            "overBest": 4.3,
             "underBest": 1.28,
             "books": 3
           },
           {
             "line": 8.5,
             "over": 5.25,
-            "under": 1.125,
+            "under": 1.13,
             "overBest": 6.0,
             "underBest": 1.16,
             "books": 2
@@ -10283,15 +10283,15 @@
         "pl": {
           "+1.5": {
             "home": 1.66,
-            "away": 2.2,
-            "homeBest": 1.7,
+            "away": 2.15,
+            "homeBest": 1.74,
             "awayBest": 2.2,
             "books": 3
           },
           "-1.5": {
-            "home": 4.55,
-            "away": 1.16,
-            "homeBest": 4.6,
+            "home": 4.7,
+            "away": 1.155,
+            "homeBest": 4.9,
             "awayBest": 1.16,
             "books": 2
           }
@@ -10304,7 +10304,7 @@
           "Fanatics",
           "bet365.us"
         ],
-        "at": "2026-11-19T02:31:56Z"
+        "at": "2026-11-19T13:43:34Z"
       }
     },
     {
@@ -10317,7 +10317,7 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": null,
+      "ou": 5.5,
       "odds": {
         "ml": {
           "home": 1.3,
@@ -10424,7 +10424,7 @@
           "Fanatics",
           "bet365.us"
         ],
-        "at": "2026-11-19T02:31:59Z"
+        "at": "2026-11-19T13:43:43Z"
       }
     },
     {
@@ -10437,13 +10437,13 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": null,
+      "ou": 6.5,
       "odds": {
         "ml": {
-          "home": 1.44,
-          "away": 2.65,
-          "homeBest": 1.48,
-          "awayBest": 2.75,
+          "home": 1.45,
+          "away": 2.64,
+          "homeBest": 1.55,
+          "awayBest": 2.65,
           "books": 5
         },
         "ou": [
@@ -10457,7 +10457,7 @@
           },
           {
             "line": 3.5,
-            "over": 1.13,
+            "over": 1.12,
             "under": 5.25,
             "overBest": 1.13,
             "underBest": 5.5,
@@ -10491,15 +10491,15 @@
             "line": 7.5,
             "over": 3.3,
             "under": 1.3,
-            "overBest": 3.85,
+            "overBest": 3.8,
             "underBest": 1.3,
             "books": 3
           },
           {
             "line": 8.5,
-            "over": 4.875,
-            "under": 1.15,
-            "overBest": 5.5,
+            "over": 4.75,
+            "under": 1.155,
+            "overBest": 5.25,
             "underBest": 1.18,
             "books": 2
           },
@@ -10514,17 +10514,17 @@
         ],
         "pl": {
           "+1.5": {
-            "home": 1.16,
-            "away": 4.6,
-            "homeBest": 1.16,
-            "awayBest": 4.7,
+            "home": 1.175,
+            "away": 4.4,
+            "homeBest": 1.19,
+            "awayBest": 4.5,
             "books": 2
           },
           "-1.5": {
-            "home": 2.15,
-            "away": 1.65,
-            "homeBest": 2.2,
-            "awayBest": 1.74,
+            "home": 2.3,
+            "away": 1.64,
+            "homeBest": 2.3,
+            "awayBest": 1.65,
             "books": 3
           }
         },
@@ -10536,7 +10536,7 @@
           "Fanatics",
           "bet365.us"
         ],
-        "at": "2026-11-19T02:32:03Z"
+        "at": "2026-11-19T13:43:53Z"
       }
     },
     {
@@ -10549,13 +10549,13 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": null,
+      "ou": 5.5,
       "odds": {
         "ml": {
-          "home": 1.645,
-          "away": 2.155,
+          "home": 1.665,
+          "away": 2.105,
           "homeBest": 1.7,
-          "awayBest": 2.3,
+          "awayBest": 2.24,
           "books": 4
         },
         "ou": [
@@ -10577,49 +10577,49 @@
           },
           {
             "line": 4.5,
-            "over": 1.265,
-            "under": 3.425,
-            "overBest": 1.28,
+            "over": 1.26,
+            "under": 3.475,
+            "overBest": 1.27,
             "underBest": 3.5,
             "books": 2
           },
           {
             "line": 5.5,
             "over": 1.8,
-            "under": 1.95,
-            "overBest": 1.86,
+            "under": 1.98,
+            "overBest": 1.84,
             "underBest": 2.0,
             "books": 3
           },
           {
             "line": 6.5,
-            "over": 2.25,
-            "under": 1.6,
-            "overBest": 2.35,
+            "over": 2.2,
+            "under": 1.615,
+            "overBest": 2.25,
             "underBest": 1.65,
             "books": 2
           },
           {
             "line": 7.5,
-            "over": 3.65,
-            "under": 1.245,
-            "overBest": 4.0,
+            "over": 3.6,
+            "under": 1.25,
+            "overBest": 3.9,
             "underBest": 1.28,
             "books": 2
           },
           {
             "line": 8.5,
-            "over": 5.0,
-            "under": 1.135,
-            "overBest": 5.5,
+            "over": 4.875,
+            "under": 1.14,
+            "overBest": 5.25,
             "underBest": 1.16,
             "books": 2
           },
           {
             "line": 9.5,
-            "over": 9.0,
+            "over": 8.75,
             "under": 1.04,
-            "overBest": 10.5,
+            "overBest": 10.0,
             "underBest": 1.06,
             "books": 2
           }
@@ -10627,16 +10627,16 @@
         "pl": {
           "+1.5": {
             "home": 1.24,
-            "away": 3.675,
+            "away": 3.625,
             "homeBest": 1.25,
-            "awayBest": 3.85,
+            "awayBest": 3.75,
             "books": 2
           },
           "-1.5": {
             "home": 2.7,
             "away": 1.42,
             "homeBest": 2.7,
-            "awayBest": 1.54,
+            "awayBest": 1.52,
             "books": 3
           }
         },
@@ -10647,7 +10647,7 @@
           "Fanatics",
           "bet365.us"
         ],
-        "at": "2026-11-19T02:32:06Z"
+        "at": "2026-11-19T13:44:03Z"
       }
     },
     {
@@ -10660,105 +10660,106 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": null,
+      "ou": 5.5,
       "odds": {
         "ml": {
-          "home": 1.425,
-          "away": 2.705,
-          "homeBest": 1.45,
-          "awayBest": 2.9,
-          "books": 4
+          "home": 1.44,
+          "away": 2.66,
+          "homeBest": 1.48,
+          "awayBest": 2.75,
+          "books": 5
         },
         "ou": [
           {
             "line": 2.5,
-            "over": 1.02,
-            "under": 11.0,
+            "over": 1.015,
+            "under": 12.0,
             "overBest": 1.02,
-            "underBest": 11.0,
-            "books": 1
+            "underBest": 13.0,
+            "books": 2
           },
           {
             "line": 3.5,
-            "over": 1.135,
-            "under": 5.15,
-            "overBest": 1.15,
+            "over": 1.13,
+            "under": 5.25,
+            "overBest": 1.14,
             "underBest": 5.5,
-            "books": 2
+            "books": 3
           },
           {
             "line": 4.5,
-            "over": 1.26,
-            "under": 3.5,
-            "overBest": 1.3,
+            "over": 1.24,
+            "under": 3.7,
+            "overBest": 1.28,
             "underBest": 3.75,
-            "books": 2
+            "books": 3
           },
           {
             "line": 5.5,
-            "over": 1.8,
-            "under": 1.92,
-            "overBest": 1.89,
+            "over": 1.75,
+            "under": 2.015,
+            "overBest": 1.84,
             "underBest": 2.15,
-            "books": 3
+            "books": 4
           },
           {
             "line": 6.5,
             "over": 2.1,
-            "under": 1.66,
-            "overBest": 2.4,
+            "under": 1.665,
+            "overBest": 2.3,
             "underBest": 1.72,
-            "books": 3
+            "books": 4
           },
           {
             "line": 7.5,
-            "over": 3.7,
-            "under": 1.25,
-            "overBest": 4.2,
+            "over": 3.4,
+            "under": 1.28,
+            "overBest": 4.1,
             "underBest": 1.3,
-            "books": 2
+            "books": 3
           },
           {
             "line": 8.5,
-            "over": 5.125,
-            "under": 1.14,
-            "overBest": 6.0,
+            "over": 5.0,
+            "under": 1.145,
+            "overBest": 5.75,
             "underBest": 1.18,
             "books": 2
           },
           {
             "line": 9.5,
-            "over": 9.125,
+            "over": 8.875,
             "under": 1.045,
-            "overBest": 11.0,
+            "overBest": 10.5,
             "underBest": 1.07,
             "books": 2
           }
         ],
         "pl": {
           "+1.5": {
-            "home": 1.15,
-            "away": 4.75,
+            "home": 1.155,
+            "away": 4.65,
             "homeBest": 1.16,
-            "awayBest": 5.0,
+            "awayBest": 4.8,
             "books": 2
           },
           "-1.5": {
             "home": 2.15,
             "away": 1.65,
             "homeBest": 2.2,
-            "awayBest": 1.8,
+            "awayBest": 1.74,
             "books": 3
           }
         },
         "fmt": "decimal",
         "bk": [
+          "BetMGM.us",
           "Betr",
           "DraftKings",
           "Fanatics",
           "bet365.us"
         ],
-        "at": "2026-11-19T02:32:10Z"
+        "at": "2026-11-19T13:44:12Z"
       }
     },
     {
@@ -10771,12 +10772,12 @@
       "state": "pre",
       "homeScore": null,
       "awayScore": null,
-      "ou": null,
+      "ou": 5.5,
       "odds": {
         "ml": {
           "home": 1.4,
           "away": 2.8,
-          "homeBest": 1.57,
+          "homeBest": 1.52,
           "awayBest": 3.02,
           "books": 4
         },
@@ -10799,18 +10800,18 @@
           },
           {
             "line": 3.5,
-            "over": 1.195,
-            "under": 4.25,
+            "over": 1.2,
+            "under": 4.2,
             "overBest": 1.25,
-            "underBest": 5.0,
+            "underBest": 4.9,
             "books": 2
           },
           {
             "line": 4.5,
-            "over": 1.35,
-            "under": 3.05,
+            "over": 1.355,
+            "under": 3.025,
             "overBest": 1.42,
-            "underBest": 3.4,
+            "underBest": 3.35,
             "books": 2
           },
           {
@@ -10824,22 +10825,22 @@
           {
             "line": 6.5,
             "over": 2.6,
-            "under": 1.465,
+            "under": 1.46,
             "overBest": 2.85,
-            "underBest": 1.55,
+            "underBest": 1.54,
             "books": 2
           },
           {
             "line": 7.5,
             "over": 4.55,
-            "under": 1.175,
+            "under": 1.17,
             "overBest": 5.0,
-            "underBest": 1.21,
+            "underBest": 1.2,
             "books": 2
           },
           {
             "line": 8.5,
-            "over": 6.25,
+            "over": 6.375,
             "under": 1.095,
             "overBest": 7.0,
             "underBest": 1.11,
@@ -10856,16 +10857,16 @@
         ],
         "pl": {
           "+1.5": {
-            "home": 1.16,
-            "away": 5.05,
-            "homeBest": 1.21,
+            "home": 1.15,
+            "away": 5.15,
+            "homeBest": 1.19,
             "awayBest": 6.0,
             "books": 2
           },
           "-1.5": {
             "home": 2.3,
-            "away": 1.6,
-            "homeBest": 2.45,
+            "away": 1.64,
+            "homeBest": 2.3,
             "awayBest": 1.75,
             "books": 3
           }
@@ -10877,7 +10878,7 @@
           "Fanatics",
           "bet365.us"
         ],
-        "at": "2026-11-19T02:32:15Z"
+        "at": "2026-11-19T13:44:22Z"
       }
     },
     {
