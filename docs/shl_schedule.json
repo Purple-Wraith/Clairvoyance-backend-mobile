@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21 16:57 UTC",
+  "generated_at": "2026-11-21 19:11 UTC",
   "season": "2026-2027",
   "teams": {
     "4b1TBPb8": {
@@ -11655,7 +11655,9 @@
           "bet365.us"
         ],
         "at": "2026-11-21T16:10:08Z"
-      }
+      },
+      "carried": true,
+      "lastSeen": "2026-11-21T16:57Z"
     },
     {
       "id": "Wrr8cep9",
@@ -11774,7 +11776,9 @@
           "bet365.us"
         ],
         "at": "2026-11-21T16:10:13Z"
-      }
+      },
+      "carried": true,
+      "lastSeen": "2026-11-21T16:57Z"
     },
     {
       "id": "v9oGeZEL",
@@ -11783,9 +11787,9 @@
       "homeName": "IF Bjorkloven",
       "away": "8njZmM61",
       "awayName": "Linkoping",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 1,
       "ou": null,
       "odds": {
         "ml": {
@@ -11902,9 +11906,9 @@
       "homeName": "Orebro",
       "away": "8jdWygW7",
       "awayName": "Skelleftea",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 3,
+      "awayScore": 2,
       "ou": null,
       "odds": {
         "ml": {
@@ -13334,5 +13338,6 @@
       "awayScore": null,
       "ou": null
     }
-  ]
+  ],
+  "resultsRefreshedAt": "2026-11-21 19:31 UTC"
 }
