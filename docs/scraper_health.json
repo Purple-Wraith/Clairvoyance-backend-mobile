@@ -234,58 +234,10 @@
     "results": 170
   },
   {
-    "league": "LIIGA",
-    "ts": "2026-11-13T12:14:19Z",
-    "fixtures": 104,
-    "results": 103
-  },
-  {
-    "league": "SHL",
-    "ts": "2026-11-13T12:16:31Z",
-    "fixtures": 110,
-    "results": 107
-  },
-  {
-    "league": "NLA",
-    "ts": "2026-11-13T12:19:18Z",
-    "fixtures": 109,
-    "results": 111
-  },
-  {
-    "league": "EXTRALIGA",
-    "ts": "2026-11-13T12:22:11Z",
-    "fixtures": 114,
-    "results": 110
-  },
-  {
     "league": "NBA",
     "ts": "2026-11-13T12:59:57Z",
     "fixtures": 84,
     "results": 174
-  },
-  {
-    "league": "LIIGA",
-    "ts": "2026-11-13T16:12:29Z",
-    "fixtures": 104,
-    "results": 103
-  },
-  {
-    "league": "SHL",
-    "ts": "2026-11-13T16:14:57Z",
-    "fixtures": 110,
-    "results": 107
-  },
-  {
-    "league": "NLA",
-    "ts": "2026-11-13T16:18:01Z",
-    "fixtures": 109,
-    "results": 111
-  },
-  {
-    "league": "EXTRALIGA",
-    "ts": "2026-11-13T16:21:21Z",
-    "fixtures": 113,
-    "results": 110
   },
   {
     "league": "NBA",
@@ -1798,5 +1750,53 @@
     "ts": "2026-11-23T15:53:03Z",
     "fixtures": 77,
     "results": 248
+  },
+  {
+    "league": "LIIGA",
+    "ts": "2026-11-23T20:13:25Z",
+    "fixtures": 109,
+    "results": 106
+  },
+  {
+    "league": "SHL",
+    "ts": "2026-11-23T20:16:47Z",
+    "fixtures": 110,
+    "results": 104
+  },
+  {
+    "league": "NLA",
+    "ts": "2026-11-23T20:20:49Z",
+    "fixtures": 104,
+    "results": 108
+  },
+  {
+    "league": "EXTRALIGA",
+    "ts": "2026-11-23T20:23:46Z",
+    "fixtures": 109,
+    "results": 110
+  },
+  {
+    "league": "LIIGA",
+    "ts": "2026-11-23T21:05:36Z",
+    "fixtures": 109,
+    "results": 106
+  },
+  {
+    "league": "SHL",
+    "ts": "2026-11-23T21:09:11Z",
+    "fixtures": 110,
+    "results": 104
+  },
+  {
+    "league": "NLA",
+    "ts": "2026-11-23T21:13:26Z",
+    "fixtures": 104,
+    "results": 108
+  },
+  {
+    "league": "EXTRALIGA",
+    "ts": "2026-11-23T21:16:38Z",
+    "fixtures": 109,
+    "results": 110
   }
 ]
