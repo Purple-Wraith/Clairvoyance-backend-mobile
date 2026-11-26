@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26 19:16 UTC",
+  "generated_at": "2026-11-26 21:02 UTC",
   "season": "2026-2027",
   "teams": {
     "Oh5uGzDT": {
@@ -12234,10 +12234,9 @@
       "homeName": "Vaasan Sport",
       "away": "Oh5uGzDT",
       "awayName": "Ilves",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
-      "ou": 5.5,
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 3,
       "odds": {
         "ml": {
           "home": 2.575,
@@ -12344,9 +12343,7 @@
           "bet365.us"
         ],
         "at": "2026-11-26T12:12:27Z"
-      },
-      "carried": true,
-      "lastSeen": "2026-11-26T12:12Z"
+      }
     },
     {
       "id": "Eg4c11en",
