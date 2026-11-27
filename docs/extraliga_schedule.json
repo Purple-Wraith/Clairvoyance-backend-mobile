@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27 15:28 UTC",
+  "generated_at": "2026-11-27 18:17 UTC",
   "season": "2026-2027",
   "teams": {
     "UJFDTRxD": {
@@ -11892,9 +11892,9 @@
       "homeName": "Trinec",
       "away": "UDlHJ9wl",
       "awayName": "Pardubice",
-      "state": "pre",
-      "homeScore": null,
-      "awayScore": null,
+      "state": "post",
+      "homeScore": 2,
+      "awayScore": 4,
       "ou": null,
       "odds": {
         "ml": {
@@ -12005,7 +12005,9 @@
           "Fanatics"
         ],
         "at": "2026-11-27T14:07:18Z"
-      }
+      },
+      "carried": true,
+      "lastSeen": "2026-11-27T15:28Z"
     },
     {
       "id": "n388IeY2",
@@ -12066,7 +12068,9 @@
           "Fanatics"
         ],
         "at": "2026-11-27T14:07:33Z"
-      }
+      },
+      "carried": true,
+      "lastSeen": "2026-11-27T15:28Z"
     },
     {
       "id": "htZOAqFd",
@@ -12127,7 +12131,9 @@
           "Fanatics"
         ],
         "at": "2026-11-27T14:07:47Z"
-      }
+      },
+      "carried": true,
+      "lastSeen": "2026-11-27T15:28Z"
     },
     {
       "id": "bP0f9iek",
@@ -12188,7 +12194,9 @@
           "Fanatics"
         ],
         "at": "2026-11-27T14:08:00Z"
-      }
+      },
+      "carried": true,
+      "lastSeen": "2026-11-27T15:28Z"
     },
     {
       "id": "2gFOEDXR",
@@ -12233,7 +12241,9 @@
           "Fanatics"
         ],
         "at": "2026-11-27T14:08:14Z"
-      }
+      },
+      "carried": true,
+      "lastSeen": "2026-11-27T15:28Z"
     },
     {
       "id": "GrtSNjAr",
@@ -13668,6 +13678,31 @@
       "homeScore": null,
       "awayScore": null,
       "ou": null
+    },
+    {
+      "id": "je3QmPBE",
+      "date": "2027-01-18T00:00Z",
+      "home": "AusK09zk",
+      "homeName": "Kometa Brno",
+      "away": "pIEGPioE",
+      "awayName": "Karlovy Vary",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
+    },
+    {
+      "id": "x09dplGq",
+      "date": "2027-01-20T00:00Z",
+      "home": "QDufxqpt",
+      "homeName": "Vitkovice",
+      "away": "zVrB6irF",
+      "awayName": "Olomouc",
+      "state": "pre",
+      "homeScore": null,
+      "awayScore": null,
+      "ou": null
     }
-  ]
+  ],
+  "resultsRefreshedAt": "2026-11-27 18:40 UTC"
 }
